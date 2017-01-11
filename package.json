@@ -1,0 +1,20 @@
+{
+  "name": "static-data",
+  "version": "0.1.0",
+  "description": "All the static data used in gw2efficiency and it's services",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "abc build",
+    "test": "abc test && abc lint",
+    "version": "abc build"
+  },
+  "author": "queicherius@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gw2efficiency/static-data"
+  },
+  "devDependencies": {
+    "abc-environment": "^1.0.5"
+  }
+}
