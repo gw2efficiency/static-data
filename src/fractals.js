@@ -1,4 +1,4 @@
-// TODO Add all the instabilities from the wiki (with the addition in "levels")
+// TODO Add all the instabilities from the wiki (with the additional flags in "levels")
 // TODO Add the day / night information
 
 const levels = {
