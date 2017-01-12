@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   {
     id: 1,
     image: 'Plains of Ashford - Perma Potatoes.jpg',

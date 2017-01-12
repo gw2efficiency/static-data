@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   {
     name: 'Mystic Forge Conversion',
     description: 'Buy four of these karma items and forge them together using the mystic forge.<br>This converts them into items you can salvage for materials.',

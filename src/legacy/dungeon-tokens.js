@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   {
     name: 'Inscriptions & Insignias',
     chance: 0.62,

@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   {level: 1, fractal: 'Urban Battleground', ar: 0, relics: 5},
   {level: 2, fractal: 'Swampland', ar: 0, relics: 5},
   {level: 3, fractal: 'Aquatic Ruins', ar: 0, relics: 5},

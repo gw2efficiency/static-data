@@ -1,4 +1,4 @@
-module.exports = [
+export default [
   {
     name: 'Laurel Merchant',
     description: 'Please keep in mind that you can buy ascended items with Laurels as well.',
