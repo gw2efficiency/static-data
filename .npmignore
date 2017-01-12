@@ -5,9 +5,6 @@ npm-debug.log*
 coverage/
 .nyc_output/
 
-# Source code
-src/
-
 # Dependencies
 node_modules/
 
