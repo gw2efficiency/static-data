@@ -1,11 +1,11 @@
 {
-  "name": "static-data",
-  "version": "0.1.0",
+  "name": "gw2e-static-data",
+  "version": "0.0.1",
   "description": "All the static data used in gw2efficiency and it's services",
   "main": "./build/index.js",
   "scripts": {
     "build": "abc build",
-    "test": "abc test && abc lint",
+    "test": "abc lint",
     "version": "abc build"
   },
   "author": "queicherius@gmail.com",
