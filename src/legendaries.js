@@ -26,5 +26,8 @@ export default [
   {id: 80488, name: 'The HMS Divinity', skin: 7078, precursorId: 80135, precursorName: 'Man o\' War', precursorSkin: 7080, generation: 2},
   {id: 72713, name: 'HOPE', skin: 6276, precursorId: 76399, precursorName: 'Prototype', precursorSkin: 6333, generation: 2},
   {id: 71383, name: 'Nevermore', skin: 6466, precursorId: 74068, precursorName: 'The Raven Staff', precursorSkin: 6224, generation: 2},
-  {id: 79802, name: 'Shooshadoo', skin: 7024, precursorId: 79836, precursorName: 'Friendship', precursorSkin: 7035, generation: 2}
+  {id: 79802, name: 'Shooshadoo', skin: 7024, precursorId: 79836, precursorName: 'Friendship', precursorSkin: 7035, generation: 2},
+
+  {id: 74155, name: 'Ad Infinitum', skin: 6344, precursorId: 72309, precursorName: 'Unbound', precursorSkin: 6234, generation: -1},
+  {id: 77474, name: 'The Ascension', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1}
 ]
