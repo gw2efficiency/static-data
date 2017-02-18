@@ -19,6 +19,7 @@ export default [
   {id: 30700, name: 'Rodgort', skin: 4665, precursorId: 29182, precursorName: 'Rodgort\'s Flame', precursorSkin: 6451, generation: 1},
   {id: 30703, name: 'Sunrise', skin: 4679, precursorId: 29169, precursorName: 'Dawn', precursorSkin: 6211, generation: 1},
   {id: 30704, name: 'Twilight', skin: 4680, precursorId: 29185, precursorName: 'Dusk', precursorSkin: 6424, generation: 1},
+  {id: 30689, name: 'Eternity', skin: 4678, generation: 1},
 
   {id: 76158, name: 'Astralaria', skin: 6506, precursorId: 71426, precursorName: 'The Mechanism', precursorSkin: 6331, generation: 2},
   {id: 78556, name: 'Chuka and Champawat', skin: 6717, precursorId: 78425, precursorName: 'Tigris', precursorSkin: 6712, generation: 2},
