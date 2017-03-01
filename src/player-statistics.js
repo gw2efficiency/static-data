@@ -73,6 +73,7 @@ export default [
   {group: 'Collectables', title: 'Champion Bags', key: 'statistics.championBags', sprite: 'champion-bag', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Triple Trouble Golden Chests', key: 'statistics.tripleTroubleChests', sprite: 'tt-chest', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Tequatl Exotic Chests', key: 'statistics.tequatlChests', sprite: 'tequatl-chest', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Collectables', title: 'Gifts of Exploration', key: 'statistics.giftsOfExploration', sprite: 'gifts-of-exploration', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Tomes of Knowledge', key: 'statistics.tomesOfKnowledge', sprite: 'tome-of-knowledge', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Fossilized Insects', key: 'statistics.fossilizedInsects', sprite: 'fossilized-insect', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'White Mantle Portal Devices', key: 'statistics.whiteMantlePortalDevices', sprite: 'white-mantle-portal-device', gold: false, by_playtime: true, decimals: 0},
