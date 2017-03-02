@@ -55,6 +55,8 @@ export default [
   {group: 'Progression', title: 'Unlocked Outfits', key: 'statistics.outfitCount', sprite: 'outfits', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Recipes', key: 'statistics.recipeCount', sprite: 'recipes', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Titles', key: 'statistics.titleCount', sprite: 'titles', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Progression', title: 'Unlocked Home Cats', key: 'statistics.homeCats', sprite: 'home-cats', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Progression', title: 'Unlocked Home Nodes', key: 'statistics.homeNodes', sprite: 'home-nodes', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unique Permanent Tonics', key: 'statistics.uniqueTonics', sprite: 'tonic', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Legendary Skins', key: 'statistics.legendarySkins', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Aura Items', title: 'Total Auras', key: 'statistics.totalAuras', sprite: 'total-auras', gold: false, by_playtime: true, decimals: 0},
