@@ -10,8 +10,8 @@ export default [
   {id: 'keep_construct', raid: 'Forsaken Thicket', wing: 'Stronghold of the Faithful', name: 'Keep Construct', type: 'Boss'},
   {id: 'twisted_castle', raid: 'Forsaken Thicket', wing: 'Stronghold of the Faithful', name: 'Twisted Castle', type: 'Checkpoint'},
   {id: 'xera', raid: 'Forsaken Thicket', wing: 'Stronghold of the Faithful', name: 'Xera', type: 'Boss'},
-  {id: 'cairn', raid: 'Forsaken Thicket', wing: 'Bastion of the Penitent', name: 'Cairn', type: 'Boss'},
-  {id: 'mursaat_overseer', raid: 'Forsaken Thicket', wing: 'Bastion of the Penitent', name: 'Mursaat Overseer', type: 'Boss'},
-  {id: 'samarog', raid: 'Forsaken Thicket', wing: 'Bastion of the Penitent', name: 'Samarog', type: 'Boss'},
-  {id: 'deimos', raid: 'Forsaken Thicket', wing: 'Bastion of the Penitent', name: 'Deimos', type: 'Boss'}
+  {id: 'cairn', raid: 'Bastion of the Penitent', wing: 'Bastion of the Penitent', name: 'Cairn', type: 'Boss'},
+  {id: 'mursaat_overseer', raid: 'Bastion of the Penitent', wing: 'Bastion of the Penitent', name: 'Mursaat Overseer', type: 'Boss'},
+  {id: 'samarog', raid: 'Bastion of the Penitent', wing: 'Bastion of the Penitent', name: 'Samarog', type: 'Boss'},
+  {id: 'deimos', raid: 'Bastion of the Penitent', wing: 'Bastion of the Penitent', name: 'Deimos', type: 'Boss'}
 ]
