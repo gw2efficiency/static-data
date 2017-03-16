@@ -15,6 +15,6 @@
     "url": "https://github.com/gw2efficiency/static-data"
   },
   "devDependencies": {
-    "abc-environment": "^1.0.5"
+    "abc-environment": "^2.0.0"
   }
 }
