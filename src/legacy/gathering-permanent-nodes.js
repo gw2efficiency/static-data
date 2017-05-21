@@ -798,7 +798,7 @@ export default [
     optimal: 42
   },
   {
-    id: 72,
+    id: 75,
     image: 'Straits of Devastation - Perma Elder Wood.jpg',
     zone: 'Straits of Devastation',
     material: 'elderwood',
@@ -809,7 +809,7 @@ export default [
     optimal: 41
   },
   {
-    id: 72,
+    id: 76,
     image: 'Verdant Brink - Perma Flax.jpg',
     zone: 'Verdant Brink',
     material: 'flax',
