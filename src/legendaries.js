@@ -32,6 +32,7 @@ export default [
 
   {id: 74155, name: 'Ad Infinitum', type: 'back', skin: 6344, precursorId: 72309, precursorName: 'Unbound', precursorSkin: 6234, generation: -1},
   {id: 77474, name: 'The Ascension', type: 'back', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1},
+  {id: 81462, name: 'Warbringer', type: 'back', skin: 7272, precursorId: 81467, precursorName: 'Warcry', precursorSkin: 7248, generation: -1},
 
   {id: 80384, name: 'Perfected Envoy Helmet', type: 'armor', skin: 7108, precursorId: 80387, precursorName: 'Refined Envoy Helmet', precursorSkin: 7072, generation: -1},
   {id: 80296, name: 'Perfected Envoy Mask', type: 'armor', skin: 7145, precursorId: 80634, precursorName: 'Refined Envoy Mask', precursorSkin: 7099, generation: -1},
