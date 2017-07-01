@@ -117,7 +117,7 @@ export default [
   {group: 'World vs. World', title: 'Defended Objectives', key: 'statistics.wvwDefendedObjectives', sprite: 'wvw-defense', gold: false, by_playtime: true, decimals: 0},
   {group: 'World vs. World', title: 'Captured Supply Camps', key: 'statistics.wvwCapturedSupplyCamps', sprite: 'wvw-offense', gold: false, by_playtime: true, decimals: 0},
   {group: 'World vs. World', title: 'Defended Supply Camps', key: 'statistics.wvwDefendedSupplyCamps', sprite: 'wvw-defense', gold: false, by_playtime: true, decimals: 0},
-  {group: 'World vs. World', title: 'Captures Towers', key: 'statistics.wvwCapturedTowers', sprite: 'wvw-offense', gold: false, by_playtime: true, decimals: 0},
+  {group: 'World vs. World', title: 'Captured Towers', key: 'statistics.wvwCapturedTowers', sprite: 'wvw-offense', gold: false, by_playtime: true, decimals: 0},
   {group: 'World vs. World', title: 'Defended Towers', key: 'statistics.wvwDefendedTowers', sprite: 'wvw-defense', gold: false, by_playtime: true, decimals: 0},
   {group: 'World vs. World', title: 'Captured Keeps', key: 'statistics.wvwCapturedKeeps', sprite: 'wvw-offense', gold: false, by_playtime: true, decimals: 0},
   {group: 'World vs. World', title: 'Defended Keeps', key: 'statistics.wvwDefendedKeeps', sprite: 'wvw-defense', gold: false, by_playtime: true, decimals: 0},
