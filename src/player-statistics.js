@@ -62,6 +62,7 @@ export default [
   {group: 'Progression', title: 'Unlocked Home Cats', key: 'statistics.homeCats', sprite: 'home-cats', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Home Nodes', key: 'statistics.homeNodes', sprite: 'home-nodes', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unique Permanent Tonics', key: 'statistics.uniqueTonics', sprite: 'tonic', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Progression', title: 'Luck', key: 'statistics.luck', sprite: 'account-luck', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Immortal Skins', key: 'statistics.immortalSkins', sprite: 'immortal-skins', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Legendary Skins (Any)', key: 'statistics.legendarySkins', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Legendary Skins (Weapons)', key: 'statistics.legendarySkinsWeapon', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
