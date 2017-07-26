@@ -29,6 +29,8 @@ export default [
   {id: 71383, name: 'Nevermore', type: 'weapon', skin: 6466, precursorId: 74068, precursorName: 'The Raven Staff', precursorSkin: 6224, generation: 2},
   {id: 79802, name: 'Shooshadoo', type: 'weapon', skin: 7024, precursorId: 79836, precursorName: 'Friendship', precursorSkin: 7035, generation: 2},
   {id: 81206, name: 'Flames of War', type: 'weapon', skin: 7206, precursorId: 81022, precursorName: 'Liturgy', precursorSkin: 7219, generation: 2},
+  {id: 81839, name: 'Sharur', type: 'weapon', skin: 7337, precursorId: 81634, precursorName: 'Might of Arah', precursorSkin: 7312, generation: 2},
+  {id: 81957, name: 'The Shining Blade', type: 'weapon', skin: 7300, precursorId: 81812, precursorName: 'Save the Queen', precursorSkin: 7306, generation: 2},
 
   {id: 74155, name: 'Ad Infinitum', type: 'back', skin: 6344, precursorId: 72309, precursorName: 'Unbound', precursorSkin: 6234, generation: -1},
   {id: 77474, name: 'The Ascension', type: 'back', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1},
