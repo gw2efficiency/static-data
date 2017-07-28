@@ -32,6 +32,8 @@ export default [
   {id: 81839, name: 'Sharur', type: 'weapon', skin: 7337, precursorId: 81634, precursorName: 'Might of Arah', precursorSkin: 7312, generation: 2},
   {id: 81957, name: 'The Shining Blade', type: 'weapon', skin: 7300, precursorId: 81812, precursorName: 'Save the Queen', precursorSkin: 7306, generation: 2},
 
+  {id: 81908, name: 'Aurora', type: 'trinket', skin: null, precursorId: 81729, precursorName: 'Spark of Sentience', precursorSkin: null, generation: -1},
+
   {id: 74155, name: 'Ad Infinitum', type: 'back', skin: 6344, precursorId: 72309, precursorName: 'Unbound', precursorSkin: 6234, generation: -1},
   {id: 77474, name: 'The Ascension', type: 'back', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1},
   {id: 81462, name: 'Warbringer', type: 'back', skin: 7272, precursorId: 81467, precursorName: 'Warcry', precursorSkin: 7248, generation: -1},
