@@ -29,5 +29,6 @@ export default [
   {id: 12, name: 'Cheeseburger', image: 'https://render.guildwars2.com/file/3C97F8B12EF607320D4EDBCF51AEFFD36726D217/63297.png', description: 'Black cat that fights other cats.'},
   {id: 27, name: 'Bowl of Lemongrass Poultry Soup', image: 'https://render.guildwars2.com/file/802BBD3174CBA5F017CE294907DDC558713078C9/433668.png', description: 'Orange cat by a Pot of Cat-Made Soup.'},
   {id: 20, name: 'Grumble Cake', image: 'https://render.guildwars2.com/file/2603D225A7B05FCA96EF31E94468EB03F9C9C945/223215.png', description: 'Black cat that fights other cats.'},
-  {id: 33, name: 'Bee Dog', image: 'https://render.guildwars2.com/file/68A863124F2A07707F43371C3427220309D14AD1/561875.png', description: 'Scottish Fold without tail with a blue Bauble necklace and blue cubes aura.'}
+  {id: 33, name: 'Bee Dog', image: 'https://render.guildwars2.com/file/68A863124F2A07707F43371C3427220309D14AD1/561875.png', description: 'Scottish Fold without tail with a blue Bauble necklace and blue cubes aura.'},
+  {id: 35, name: 'Simon', image: 'https://render.guildwars2.com/file/EFB10E0748A8E82B176BD1AFFBF5E2B4C72D06CD/1465514.png', description: 'Simon, the celestial cat.'}
 ]
