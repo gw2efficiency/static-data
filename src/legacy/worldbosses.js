@@ -2,6 +2,7 @@ export default [
   {
     id: 1,
     name: 'Tequatl the Sunless',
+    icon: 'https://render.guildwars2.com/file/EC27BAEDA6062EC26CB8C145B60B725A5F5AB60C/638238.png',
     reward_dragonite: '15-25',
     position: 'Sparkfly Fen',
     times: ['02:00', '05:00', '09:00', '13:30', '18:00', '21:00'],
@@ -11,6 +12,7 @@ export default [
   {
     id: 2,
     name: 'Inquest Golem Mark II',
+    icon: 'https://render.guildwars2.com/file/9A205FAF5F08C70D5CC7370BAFC0045B4F3AFA4B/66104.png',
     reward_dragonite: '15-25',
     position: 'Mount Maelstrom',
     times: ['01:00', '04:00', '07:00', '10:00', '13:00', '16:00', '19:00', '22:00'],
@@ -28,6 +30,7 @@ export default [
   {
     id: 4,
     name: 'Shadow Behemoth',
+    icon: 'https://render.guildwars2.com/file/A73962956CD61D3F99DC099C9064B8EAB794044F/220511.png',
     reward_dragonite: '3-5',
     position: 'Queensdale',
     times: ['01:45', '03:45', '05:45', '07:45', '09:45', '11:45', '13:45', '15:45', '17:45', '19:45', '21:45', '23:45'],
@@ -37,6 +40,7 @@ export default [
   {
     id: 5,
     name: 'Fire Elemental',
+    icon: 'https://render.guildwars2.com/file/6CC4302EB706A8C576E66795E10B3CA23E3C0ECE/1633964.png',
     reward_dragonite: '3-5',
     position: 'Metrica Province',
     times: ['00:45', '02:45', '04:45', '06:45', '08:45', '10:45', '12:45', '14:45', '16:45', '18:45', '20:45', '22:45'],
@@ -46,6 +50,7 @@ export default [
   {
     id: 6,
     name: 'The Frozen Maw',
+    icon: 'https://render.guildwars2.com/file/432931B7A059F87C1D92C23A974B992C0C1C484E/66093.png',
     reward_dragonite: '3-5',
     position: 'Wayfarer Foothills',
     times: ['00:15', '02:15', '04:15', '06:15', '08:15', '10:15', '12:15', '14:15', '16:15', '18:15', '20:15', '22:15'],
@@ -55,6 +60,7 @@ export default [
   {
     id: 7,
     name: 'Jungle Wurm',
+    icon: 'https://render.guildwars2.com/file/750804D2EFE9B3370441DDA6B79A39520DA0A4BA/711881.png',
     reward_dragonite: '3-5',
     position: 'Caledon Forest',
     times: ['01:15', '03:15', '05:15', '07:15', '09:15', '11:15', '13:15', '15:15', '17:15', '19:15', '21:15', '23:15'],
@@ -64,6 +70,7 @@ export default [
   {
     id: 8,
     name: 'The Shatterer',
+    icon: 'https://render.guildwars2.com/file/3359C5F30AE534F513ABF603023194F0E703D2C3/1601469.png',
     reward_dragonite: '15-25',
     position: 'Blazeridge Steppes',
     times: ['00:00', '03:00', '06:00', '09:00', '12:00', '15:00', '18:00', '21:00'],
@@ -73,6 +80,7 @@ export default [
   {
     id: 9,
     name: 'Claw of Jormag',
+    icon: 'https://render.guildwars2.com/file/CEE0AB90FF1CD1A55C456AB40A62DA09B5F5A32F/1614402.png',
     reward_dragonite: '15-25',
     position: 'Frostgorge Sound',
     times: ['01:30', '04:30', '07:30', '10:30', '13:30', '16:30', '19:30', '22:30'],
@@ -106,6 +114,7 @@ export default [
   {
     id: 14,
     name: 'Ulgoth the Modniir',
+    icon: 'https://render.guildwars2.com/file/E6371A00E39BE71AB912FBC407F41D74999C262A/66066.png',
     reward_dragonite: '3-5',
     position: 'Harathi Hinterlands',
     times: ['00:30', '03:30', '06:30', '09:30', '12:30', '15:30', '18:30', '21:30'],
@@ -115,6 +124,7 @@ export default [
   {
     id: 15,
     name: 'Admiral Taidha Covington',
+    icon: 'https://render.guildwars2.com/file/55E4FD4BD3D94017E74FF69AADA32E460126FB02/603289.png',
     reward_dragonite: '3-5',
     position: 'Bloodtide Coast',
     times: ['02:00', '05:00', '08:00', '11:00', '14:00', '17:00', '20:00', '23:00'],
@@ -124,6 +134,7 @@ export default [
   {
     id: 16,
     name: 'Karka Queen',
+    icon: 'https://render.guildwars2.com/file/A278BC80439EF75F354F7EC1F2FE67277EDF7A5E/511871.png',
     reward_dragonite: '30',
     position: 'Southsun Cove',
     times: ['01:00', '04:00', '08:00', '12:30', '17:00', '20:00'],
@@ -149,6 +160,7 @@ export default [
   {
     id: 19,
     name: 'Megadestroyer',
+    icon: 'https://render.guildwars2.com/file/BEC355AE5F94F62506E7495B2372201C75DA44D0/771029.png',
     reward_dragonite: '0',
     position: 'Mount Maelstrom',
     times: ['02:30', '05:30', '08:30', '11:30', '14:30', '17:30', '20:30', '23:30'],
@@ -206,6 +218,7 @@ export default [
   {
     id: 26,
     name: 'Evolved Jungle Wurm',
+    icon: 'https://render.guildwars2.com/file/7A90067D42E7A8F61CE57F68FA56EFA90E4B54AE/711972.png',
     reward_dragonite: '40',
     position: 'Bloodtide Coast',
     times: ['03:00', '06:00', '10:00', '14:30', '19:00', '22:00'],
