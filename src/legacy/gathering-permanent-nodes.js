@@ -840,7 +840,41 @@ export default [
     materialName: 'Orichalcum',
     waypointName: "Owain's Refuge Waypoint",
     waypointCode: '[&BNgGAAA=]',
-    items: [{id: 19701, quantity: 3}],
+    items: [{id: 19701, quantity: 3, ore: true}],
     optimal: 71.5
+  },
+  {
+    id: 80,
+    image: 'Bitterfrost Frontier - Permanent Mithril.jpg',
+    zone: 'Bitterfrost Frontier',
+    material: 'mithril',
+    items: [{id: 19700, quantity: 10, ore: true}],
+    materialName: 'Rich Mithril',
+    waypointName: 'Koda\'s Welcome Waypoint',
+    waypointCode: '[&BIEJAAA=]',
+    optimal: 9000
+  },
+  {
+    id: 81,
+    image: 'Ember Bay - Seaweed.jpg',
+    zone: 'Ember Bay',
+    material: 'seaweed',
+    items: [{id: 12509, quantity: 25}],
+    materialName: 'Seaweed',
+    waypointName: 'Promontory Waypoint',
+    waypointCode: '[&BF8JAAA=]',
+    optimal: 9001
+  },
+  {
+    id: 82,
+    image: 'Draconis Mons - Flax.jpg',
+    zone: 'Draconis Mons',
+    material: 'flax',
+    materialName: 'Flax',
+    waypointName: 'Heathen\'s Hold Waypoint',
+    waypointCode: '[&BM0JAAA=]',
+    videoGuide: 'Ef72rmRaQAk',
+    items: [{id: 74090, quantity: 12}],
+    optimal: 9002
   }
 ]
