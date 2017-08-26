@@ -852,7 +852,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: 'Koda\'s Welcome Waypoint',
     waypointCode: '[&BIEJAAA=]',
-    optimal: 9000
+    optimal: 23.5
   },
   {
     id: 81,
@@ -863,7 +863,7 @@ export default [
     materialName: 'Seaweed',
     waypointName: 'Promontory Waypoint',
     waypointCode: '[&BF8JAAA=]',
-    optimal: 9001
+    optimal: 9002
   },
   {
     id: 82,
@@ -875,6 +875,6 @@ export default [
     waypointCode: '[&BM0JAAA=]',
     videoGuide: 'Ef72rmRaQAk',
     items: [{id: 74090, quantity: 12}],
-    optimal: 9002
+    optimal: 9001
   }
 ]
