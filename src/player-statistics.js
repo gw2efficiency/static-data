@@ -31,6 +31,7 @@ export default [
   {group: 'Map currencies', title: 'Fresh Winterberries', key: 'statistics.freshWinterberries', sprite: 'fresh-winterberries', gold: false, by_playtime: true, decimals: 0},
   {group: 'Map currencies', title: 'Jade Shards', key: 'statistics.jadeShards', sprite: 'jade-shards', gold: false, by_playtime: true, decimals: 0},
   {group: 'Map currencies', title: 'Fire Orchid Blossoms', key: 'statistics.fireOrchidBlossoms', sprite: 'fire-orchid-blossoms', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Map currencies', title: 'Orrian Pearls', key: 'statistics.orrianPearls', sprite: 'orrian-pearl', gold: false, by_playtime: true, decimals: 0},
   {group: 'Dungeons', title: 'Total Dungeon Tokens', key: 'statistics.dungeonTokenCount', sprite: 'total-dungeon-tokens', gold: false, by_playtime: true, decimals: 0},
   {group: 'Dungeons', title: 'Completed Dungeons', key: 'statistics.completedDungeons', sprite: 'dungeons-overview', gold: false, by_playtime: true, decimals: 0},
   {group: 'Dungeons', title: 'Ascalonian Tears', key: 'statistics.ascalonianTears', sprite: 'ascalonian-catacombs', gold: false, by_playtime: true, decimals: 0},
