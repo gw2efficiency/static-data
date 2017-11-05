@@ -12,7 +12,7 @@ export default [
   {id: 4, name: 'Spicier Flank Steak', image: 'https://render.guildwars2.com/file/061F31FF3D322771E93608A44050C64258B7B113/433623.png', description: 'Orange cat near the harvesting nodes.'},
   {id: 11, name: 'Slab of Poultry Meat', image: 'https://render.guildwars2.com/file/B53CEC437833F87E27B11A2006DD3F4B085A80A9/66874.png', description: 'White kitten that only appears if the instance is entered during night.'},
   {id: 10, name: 'Slab of Poultry Meat', image: 'https://render.guildwars2.com/file/B53CEC437833F87E27B11A2006DD3F4B085A80A9/66874.png', description: 'Black kitten that only appears if the instance is entered during day.'},
-  {id: 28, name: 'Bowl of Simple Poultry Soup', image: 'https://render.guildwars2.com/file/3A1F2D36366D0F7B2FC7B09819AD2BCCD168792D/219408.png', description: 'Orange cat by a Pot of Cat-Made Soup.'},
+  {id: 28, name: 'Super-Hot Saffron-Scented Poultry Soup', image: 'https://render.guildwars2.com/file/3A1F2D36366D0F7B2FC7B09819AD2BCCD168792D/219408.png', description: 'Orange cat by a Pot of Cat-Made Soup.'},
   {id: 26, name: 'Bowl of Poultry and Winter Vegetable Soup', image: 'https://render.guildwars2.com/file/0BA8692C4178DE520C1ED3641AB097A076F4E43B/433635.png', description: 'Orange cat by a Pot of Cat-Made Soup.'},
   {id: 18, name: 'Carrot', image: 'https://render.guildwars2.com/file/F06472A03B49AA6C9256195FC43B49BEA26595D0/62859.png', description: 'Black cat that fights other cats.'},
   {id: 32, name: 'Strawberry Ghost', image: 'https://render.guildwars2.com/file/9CC15FAAFFC41D0C950E4CE60D09A975EC6295B3/499406.png', description: 'Light blue Ghostly Cat.'},
