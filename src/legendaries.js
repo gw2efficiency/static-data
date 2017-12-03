@@ -31,6 +31,7 @@ export default [
   {id: 81206, name: 'Flames of War', type: 'weapon', skin: 7206, precursorId: 81022, precursorName: 'Liturgy', precursorSkin: 7219, generation: 2},
   {id: 81839, name: 'Sharur', type: 'weapon', skin: 7337, precursorId: 81634, precursorName: 'Might of Arah', precursorSkin: 7312, generation: 2},
   {id: 81957, name: 'The Shining Blade', type: 'weapon', skin: 7300, precursorId: 81812, precursorName: 'Save the Queen', precursorSkin: 7306, generation: 2},
+  {id: 86098, name: 'The Binding of Ipos', type: 'weapon', skin: 7907, precursorId: 86097, precursorName: 'Ars Goetia', precursorSkin: 7850, generation: 2},
 
   {id: 81908, name: 'Aurora', type: 'trinket', skin: null, precursorId: 81729, precursorName: 'Spark of Sentience', precursorSkin: null, generation: -1},
 
@@ -38,6 +39,7 @@ export default [
   {id: 77474, name: 'The Ascension', type: 'back', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1},
   {id: 81462, name: 'Warbringer', type: 'back', skin: 7272, precursorId: 81467, precursorName: 'Warcry', precursorSkin: 7248, generation: -1},
 
+  // PvE Legendary Armor
   {id: 80384, name: 'Perfected Envoy Helmet', type: 'armor', skin: 7108, precursorId: 80387, precursorName: 'Refined Envoy Helmet', precursorSkin: 7072, generation: -1},
   {id: 80296, name: 'Perfected Envoy Mask', type: 'armor', skin: 7145, precursorId: 80634, precursorName: 'Refined Envoy Mask', precursorSkin: 7099, generation: -1},
   {id: 80248, name: 'Perfected Envoy Cowl', type: 'armor', skin: 7087, precursorId: 80441, precursorName: 'Refined Envoy Cowl', precursorSkin: 7095, generation: -1},
@@ -55,5 +57,76 @@ export default [
   {id: 80356, name: 'Perfected Envoy Pants', type: 'armor', skin: 7130, precursorId: 80275, precursorName: 'Refined Envoy Pants', precursorSkin: 7093, generation: -1},
   {id: 80557, name: 'Perfected Envoy Greaves', type: 'armor', skin: 7136, precursorId: 80127, precursorName: 'Refined Envoy Greaves', precursorSkin: 7109, generation: -1},
   {id: 80281, name: 'Perfected Envoy Boots', type: 'armor', skin: 7085, precursorId: 80177, precursorName: 'Refined Envoy Boots', precursorSkin: 7120, generation: -1},
-  {id: 80399, name: 'Perfected Envoy Shoes', type: 'armor', skin: 7143, precursorId: 80583, precursorName: 'Refined Envoy Shoes', precursorSkin: 7150, generation: -1}
+  {id: 80399, name: 'Perfected Envoy Shoes', type: 'armor', skin: 7143, precursorId: 80583, precursorName: 'Refined Envoy Shoes', precursorSkin: 7150, generation: -1},
+
+  // WvW Legendary Armor (1)
+  {id: 82925, name: 'Mistforged Triumphant Hero\'s Masque', type: 'armor', skin: 999999, precursorId: 81487, precursorName: 'Mistforged Triumphant Hero\'s Masque', precursorSkin: 7260, generation: -1},
+  {id: 82180, name: 'Mistforged Triumphant Hero\'s Faceguard', type: 'armor', skin: 999999, precursorId: 81325, precursorName: 'Mistforged Triumphant Hero\'s Faceguard', precursorSkin: 7264, generation: -1},
+  {id: 84301, name: 'Mistforged Triumphant Hero\'s Warhelm', type: 'armor', skin: 999999, precursorId: 81498, precursorName: 'Mistforged Triumphant Hero\'s Warhelm', precursorSkin: 7268, generation: -1},
+  {id: 83308, name: 'Mistforged Triumphant Hero\'s Epaulets', type: 'armor', skin: 999999, precursorId: 81482, precursorName: 'Mistforged Triumphant Hero\'s Epaulets', precursorSkin: 7249, generation: -1},
+  {id: 83087, name: 'Mistforged Triumphant Hero\'s Shoulderguards', type: 'armor', skin: 999999, precursorId: 81471, precursorName: 'Mistforged Triumphant Hero\'s Shoulderguards', precursorSkin: 7247, generation: -1},
+  {id: 84181, name: 'Mistforged Triumphant Hero\'s Pauldrons', type: 'armor', skin: 999999, precursorId: 81375, precursorName: 'Mistforged Triumphant Hero\'s Pauldrons', precursorSkin: 7261, generation: -1},
+  {id: 84508, name: 'Sublime Mistforged Triumphant Hero\'s Raiment', type: 'armor', skin: 999999, precursorId: 81365, precursorName: 'Sublime Mistforged Triumphant Hero\'s Raiment', precursorSkin: 7250, generation: -1},
+  {id: 82102, name: 'Sublime Mistforged Triumphant Hero\'s Brigandine', type: 'armor', skin: 999999, precursorId: 81483, precursorName: 'Sublime Mistforged Triumphant Hero\'s Brigandine', precursorSkin: 7255, generation: -1},
+  {id: 84481, name: 'Sublime Mistforged Triumphant Hero\'s Breastplate', type: 'armor', skin: 999999, precursorId: 81509, precursorName: 'Sublime Mistforged Triumphant Hero\'s Breastplate', precursorSkin: 7271, generation: -1},
+  {id: 82109, name: 'Mistforged Triumphant Hero\'s Armguards', type: 'armor', skin: 999999, precursorId: 81510, precursorName: 'Mistforged Triumphant Hero\'s Armguards', precursorSkin: 7269, generation: -1},
+  {id: 82552, name: 'Mistforged Triumphant Hero\'s Wristplates', type: 'armor', skin: 999999, precursorId: 81286, precursorName: 'Mistforged Triumphant Hero\'s Wristplates', precursorSkin: 7254, generation: -1},
+  {id: 82348, name: 'Mistforged Triumphant Hero\'s Gauntlets', type: 'armor', skin: 999999, precursorId: 81458, precursorName: 'Mistforged Triumphant Hero\'s Gauntlets', precursorSkin: 7245, generation: -1},
+  {id: 82502, name: 'Mistforged Triumphant Hero\'s Leggings', type: 'armor', skin: 999999, precursorId: 81397, precursorName: 'Mistforged Triumphant Hero\'s Leggings', precursorSkin: 7270, generation: -1},
+  {id: 83862, name: 'Mistforged Triumphant Hero\'s Legguards', type: 'armor', skin: 999999, precursorId: 81527, precursorName: 'Mistforged Triumphant Hero\'s Legguards', precursorSkin: 7274, generation: -1},
+  {id: 83702, name: 'Mistforged Triumphant Hero\'s Legplates', type: 'armor', skin: 999999, precursorId: 81340, precursorName: 'Mistforged Triumphant Hero\'s Legplates', precursorSkin: 7266, generation: -1},
+  {id: 83482, name: 'Mistforged Triumphant Hero\'s Footgear', type: 'armor', skin: 999999, precursorId: 81419, precursorName: 'Mistforged Triumphant Hero\'s Footgear', precursorSkin: 7277, generation: -1},
+  {id: 83699, name: 'Mistforged Triumphant Hero\'s Shinplates', type: 'armor', skin: 999999, precursorId: 81422, precursorName: 'Mistforged Triumphant Hero\'s Shinplates', precursorSkin: 7259, generation: -1},
+  {id: 83094, name: 'Mistforged Triumphant Hero\'s Wargreaves', type: 'armor', skin: 999999, precursorId: 81437, precursorName: 'Mistforged Triumphant Hero\'s Wargreaves', precursorSkin: 7273, generation: -1},
+
+  // WvW Legendary Armor (2)
+  {id: 82902, name: 'Triumphant Hero\'s Masque', type: 'armor', skin: 999999, precursorId: 81476, precursorName: 'Triumphant Hero\'s Masque', precursorSkin: 6711, generation: -1},
+  {id: 82437, name: 'Triumphant Hero\'s Faceguard', type: 'armor', skin: 999999, precursorId: 81315, precursorName: 'Triumphant Hero\'s Faceguard', precursorSkin: 6695, generation: -1},
+  {id: 84176, name: 'Triumphant Hero\'s Warhelm', type: 'armor', skin: 999999, precursorId: 81330, precursorName: 'Triumphant Hero\'s Warhelm', precursorSkin: 6715, generation: -1},
+  {id: 82173, name: 'Triumphant Hero\'s Epaulets', type: 'armor', skin: 999999, precursorId: 81285, precursorName: 'Triumphant Hero\'s Epaulets', precursorSkin: 6686, generation: -1},
+  {id: 82994, name: 'Triumphant Hero\'s Shoulderguards', type: 'armor', skin: 999999, precursorId: 81446, precursorName: 'Triumphant Hero\'s Shoulderguards', precursorSkin: 6694, generation: -1},
+  {id: 82963, name: 'Triumphant Hero\'s Pauldrons', type: 'armor', skin: 999999, precursorId: 81333, precursorName: 'Triumphant Hero\'s Pauldrons', precursorSkin: 6736, generation: -1},
+  {id: 83036, name: 'Triumphant Hero\'s Raiment', type: 'armor', skin: 999999, precursorId: 81338, precursorName: 'Triumphant Hero\'s Raiment', precursorSkin: 6706, generation: -1},
+  {id: 84578, name: 'Triumphant Hero\'s Brigandine', type: 'armor', skin: 999999, precursorId: 81434, precursorName: 'Triumphant Hero\'s Brigandine', precursorSkin: 6697, generation: -1},
+  {id: 83394, name: 'Triumphant Hero\'s Breastplate', type: 'armor', skin: 999999, precursorId: 81304, precursorName: 'Triumphant Hero\'s Breastplate', precursorSkin: 6698, generation: -1},
+  {id: 84629, name: 'Triumphant Hero\'s Armguards', type: 'armor', skin: 999999, precursorId: 81428, precursorName: 'Triumphant Hero\'s Armguards', precursorSkin: 6718, generation: -1},
+  {id: 84110, name: 'Triumphant Hero\'s Wristplates', type: 'armor', skin: 999999, precursorId: 81489, precursorName: 'Triumphant Hero\'s Wristplates', precursorSkin: 6693, generation: -1},
+  {id: 82456, name: 'Triumphant Hero\'s Gauntlets', type: 'armor', skin: 999999, precursorId: 81349, precursorName: 'Triumphant Hero\'s Gauntlets', precursorSkin: 6713, generation: -1},
+  {id: 83497, name: 'Triumphant Hero\'s Leggings', type: 'armor', skin: 999999, precursorId: 81279, precursorName: 'Triumphant Hero\'s Leggings', precursorSkin: 6701, generation: -1},
+  {id: 82903, name: 'Triumphant Hero\'s Legguards', type: 'armor', skin: 999999, precursorId: 81386, precursorName: 'Triumphant Hero\'s Legguards', precursorSkin: 6690, generation: -1},
+  {id: 82196, name: 'Triumphant Hero\'s Legplates', type: 'armor', skin: 999999, precursorId: 81418, precursorName: 'Triumphant Hero\'s Legplates', precursorSkin: 6721, generation: -1},
+  {id: 83289, name: 'Triumphant Hero\'s Footgear', type: 'armor', skin: 999999, precursorId: 81500, precursorName: 'Triumphant Hero\'s Footgear', precursorSkin: 6707, generation: -1},
+  {id: 82093, name: 'Triumphant Hero\'s Shinplates', type: 'armor', skin: 999999, precursorId: 81420, precursorName: 'Triumphant Hero\'s Shinplates', precursorSkin: 6699, generation: -1},
+  {id: 82801, name: 'Triumphant Hero\'s Wargreaves', type: 'armor', skin: 999999, precursorId: 81336, precursorName: 'Triumphant Hero\'s Wargreaves', precursorSkin: 6691, generation: -1},
+
+  // PvP Legendary Armor (1)
+  {id: 83921, name: 'Ardent Glorious Plate Helm', type: 'armor', skin: 999999, precursorId: 80010, precursorName: 'Ardent Glorious Plate Helm', precursorSkin: 5624, generation: -1},
+  {id: 84643, name: 'Ardent Glorious Cap', type: 'armor', skin: 999999, precursorId: 79947, precursorName: 'Ardent Glorious Cap', precursorSkin: 5635, generation: -1},
+  {id: 84633, name: 'Ardent Glorious Crown', type: 'armor', skin: 999999, precursorId: 79989, precursorName: 'Ardent Glorious Crown', precursorSkin: 5620, generation: -1},
+  {id: 83127, name: 'Ardent Glorious Pauldrons', type: 'armor', skin: 999999, precursorId: 79987, precursorName: 'Ardent Glorious Pauldrons', precursorSkin: 5626, generation: -1},
+  {id: 83929, name: 'Ardent Glorious Shoulderguards', type: 'armor', skin: 999999, precursorId: 80012, precursorName: 'Ardent Glorious Shoulderguards', precursorSkin: 5619, generation: -1},
+  {id: 83595, name: 'Ardent Glorious Epaulets', type: 'armor', skin: 999999, precursorId: 79984, precursorName: 'Ardent Glorious Epaulets', precursorSkin: 5631, generation: -1},
+  {id: 83348, name: 'Ardent Glorious Breastplate', type: 'armor', skin: 999999, precursorId: 80016, precursorName: 'Ardent Glorious Breastplate', precursorSkin: 5622, generation: -1},
+  {id: 82670, name: 'Ardent Glorious Brigandine', type: 'armor', skin: 999999, precursorId: 80001, precursorName: 'Ardent Glorious Brigandine', precursorSkin: 5633, generation: -1},
+  {id: 83113, name: 'Ardent Glorious Raiment', type: 'armor', skin: 999999, precursorId: 80027, precursorName: 'Ardent Glorious Raiment', precursorSkin: 5628, generation: -1},
+  {id: 82465, name: 'Ardent Glorious Gauntlets', type: 'armor', skin: 999999, precursorId: 79965, precursorName: 'Ardent Glorious Gauntlets', precursorSkin: 5623, generation: -1},
+  {id: 82245, name: 'Ardent Glorious Wristplates', type: 'armor', skin: 999999, precursorId: 79955, precursorName: 'Ardent Glorious Wristplates', precursorSkin: 5634, generation: -1},
+  {id: 83162, name: 'Ardent Glorious Armguards', type: 'armor', skin: 999999, precursorId: 79953, precursorName: 'Ardent Glorious Armguards', precursorSkin: 5629, generation: -1},
+  {id: 83323, name: 'Ardent Glorious Legplates', type: 'armor', skin: 999999, precursorId: 79974, precursorName: 'Ardent Glorious Legplates', precursorSkin: 5625, generation: -1},
+  {id: 82512, name: 'Ardent Glorious Legguards', type: 'armor', skin: 999999, precursorId: 79968, precursorName: 'Ardent Glorious Legguards', precursorSkin: 5636, generation: -1},
+  {id: 84546, name: 'Ardent Glorious Leggings', type: 'armor', skin: 999999, precursorId: 80038, precursorName: 'Ardent Glorious Leggings', precursorSkin: 5630, generation: -1},
+  {id: 84655, name: 'Ardent Glorious Wargreaves', type: 'armor', skin: 999999, precursorId: 80045, precursorName: 'Ardent Glorious Wargreaves', precursorSkin: 5621, generation: -1},
+  {id: 82214, name: 'Ardent Glorious Shinplates', type: 'armor', skin: 999999, precursorId: 80000, precursorName: 'Ardent Glorious Shinplates', precursorSkin: 5632, generation: -1},
+  {id: 82519, name: 'Ardent Glorious Footgear', type: 'armor', skin: 999999, precursorId: 80017, precursorName: 'Ardent Glorious Footgear', precursorSkin: 5602, generation: -1},
+
+  // PvP Legendary Armor (2)
+  {id: 82401, name: 'Glorious Hero\'s Cap', type: 'armor', skin: 999999, precursorId: 67116, precursorName: 'Glorious Hero\'s Cap', precursorSkin: 5615, generation: -1},
+  {id: 84723, name: 'Glorious Hero\'s Epaulets', type: 'armor', skin: 999999, precursorId: 67124, precursorName: 'Glorious Hero\'s Epaulets', precursorSkin: 5611, generation: -1},
+  {id: 82268, name: 'Glorious Hero\'s Shoulderguards', type: 'armor', skin: 999999, precursorId: 67120, precursorName: 'Glorious Hero\'s Shoulderguards', precursorSkin: 5617, generation: -1},
+  {id: 83729, name: 'Glorious Hero\'s Raiment', type: 'armor', skin: 999999, precursorId: 67129, precursorName: 'Glorious Hero\'s Raiment', precursorSkin: 5607, generation: -1},
+  {id: 82098, name: 'Glorious Hero\'s Brigandine', type: 'armor', skin: 999999, precursorId: 67122, precursorName: 'Glorious Hero\'s Brigandine', precursorSkin: 5613, generation: -1},
+  {id: 83676, name: 'Glorious Hero\'s Wristplates', type: 'armor', skin: 999999, precursorId: 67121, precursorName: 'Glorious Hero\'s Wristplates', precursorSkin: 5614, generation: -1},
+  {id: 84341, name: 'Glorious Hero\'s Leggings', type: 'armor', skin: 999999, precursorId: 67125, precursorName: 'Glorious Hero\'s Leggings', precursorSkin: 5610, generation: -1},
+  {id: 83240, name: 'Glorious Hero\'s Legguards', type: 'armor', skin: 999999, precursorId: 67119, precursorName: 'Glorious Hero\'s Legguards', precursorSkin: 5616, generation: -1},
+  {id: 82272, name: 'Glorious Hero\'s Shinplates', type: 'armor', skin: 999999, precursorId: 67123, precursorName: 'Glorious Hero\'s Shinplates', precursorSkin: 5612, generation: -1}
 ]
