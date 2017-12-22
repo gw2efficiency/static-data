@@ -166,6 +166,7 @@ export default [
   {group: 'Miscellaneous', title: 'Salvaged Items', key: 'statistics.salvagedItems', sprite: 'salvaged-items', gold: false, by_playtime: true, decimals: 0},
   {group: 'Miscellaneous', title: 'Tradingpost Buy Orders', key: 'statistics.buyOrderCount', sprite: 'tradingpost-test', gold: false, by_playtime: true, decimals: 0},
   {group: 'Miscellaneous', title: 'Tradingpost Sell Orders', key: 'statistics.sellOrderCount', sprite: 'tradingpost-test', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Miscellaneous', title: 'Winter Wonderland Completions', key: 'statistics.winterWonderlandCompletions', sprite: 'winter-wonderland', gold: false, by_playtime: true, decimals: 0},
   {group: 'Gemstore', title: 'Musical Instruments', key: 'statistics.instruments', sprite: 'instruments', gold: false, by_playtime: true, decimals: 0},
   {group: 'Gemstore', title: 'Unlimited Gathering Tools', key: 'statistics.permanentTools', sprite: 'permanent-tools', gold: false, by_playtime: true, decimals: 0},
   {group: 'Gemstore', title: 'Permanent Contracts', key: 'statistics.permanentContracts', sprite: 'permanent-contract', gold: false, by_playtime: true, decimals: 0},
