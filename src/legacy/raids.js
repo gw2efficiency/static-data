@@ -13,5 +13,9 @@ export default [
   {id: 'cairn', raid: 'Bastion of the Penitent', wing: 'Bastion of the Penitent', name: 'Cairn', type: 'Boss'},
   {id: 'mursaat_overseer', raid: 'Bastion of the Penitent', wing: 'Bastion of the Penitent', name: 'Mursaat Overseer', type: 'Boss'},
   {id: 'samarog', raid: 'Bastion of the Penitent', wing: 'Bastion of the Penitent', name: 'Samarog', type: 'Boss'},
-  {id: 'deimos', raid: 'Bastion of the Penitent', wing: 'Bastion of the Penitent', name: 'Deimos', type: 'Boss'}
+  {id: 'deimos', raid: 'Bastion of the Penitent', wing: 'Bastion of the Penitent', name: 'Deimos', type: 'Boss'},
+  {id: 'soulless_horror', raid: 'Hall of Chains', wing: 'Hall of Chains', name: 'Soulless Horror', type: 'Boss'},
+  {id: 'river_of_souls', raid: 'Hall of Chains', wing: 'Hall of Chains', name: 'River of Souls', type: 'Boss'},
+  {id: 'statues_of_grenth', raid: 'Hall of Chains', wing: 'Hall of Chains', name: 'Statues of Grenth', type: 'Boss'},
+  {id: 'voice_in_the_void', raid: 'Hall of Chains', wing: 'Hall of Chains', name: 'Voice in the Void', type: 'Boss'}
 ]
