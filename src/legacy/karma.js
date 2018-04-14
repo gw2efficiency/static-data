@@ -1,7 +1,7 @@
 export default [
   {
     name: 'Trade Caches',
-    description: 'Trade Caches can be bought at merchants throughout the Crystal Desert (also needs Trade Contracts).',
+    description: 'Trade Caches can be bought at merchants throughout the Crystal Desert (also needs 50 Trade Contracts per Cache).',
     items: [
       // Hamaseen
       { id: 83419,
