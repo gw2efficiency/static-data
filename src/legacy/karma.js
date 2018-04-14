@@ -1,5 +1,49 @@
 export default [
   {
+    name: 'Trade Caches',
+    description: 'Trade Caches are chests found throughout the Crystal Desert. They require a Trader\'s Key to open.',
+    items: [
+      { id: 83419,
+        karma: 245,
+        results:
+        [ { id: 19683, quantity: 0.94 },
+           { id: 19681, quantity: 0.62 },
+           { id: 19679, quantity: 1.01 },
+           { id: 19682, quantity: 0.4 } ] },
+      { id: 82564,
+        karma: 245,
+        results: [ { id: 19718, quantity: 4.06 }, { id: 19739, quantity: 3.42 } ] },
+      { id: 82946,
+        karma: 245,
+        results: [ { id: 19726, quantity: 7.02 }, { id: 19723, quantity: 7.85 } ] },
+      { id: 83298,
+        karma: 245,
+        results: [ { id: 19719, quantity: 2.3 }, { id: 19728, quantity: 4.07 } ] },
+      { id: 83462,
+        karma: 245,
+        results:
+        [ { id: 24290, quantity: 0.14 },
+     { id: 24291, quantity: 0.15 },
+     { id: 24292, quantity: 0.16 },
+     { id: 24293, quantity: 0.16 },
+     { id: 24294, quantity: 0.28 },
+     { id: 24295, quantity: 0.06 },
+     { id: 24342, quantity: 0.16 },
+     { id: 24343, quantity: 0.15 },
+     { id: 24344, quantity: 0.16 },
+     { id: 24345, quantity: 0.13 },
+     { id: 24341, quantity: 0.29 },
+     { id: 24358, quantity: 0.04 },
+     { id: 24346, quantity: 0.12 },
+     { id: 24347, quantity: 0.17 },
+     { id: 24348, quantity: 0.15 },
+     { id: 24349, quantity: 0.25 },
+     { id: 24350, quantity: 0.33 },
+     { id: 24351, quantity: 0.06 } ] }
+    ]
+  },
+
+  {
     name: 'Mystic Forge Conversion',
     description: 'Buy four of these karma items and forge them together using the mystic forge.<br>This converts them into items you can salvage for materials.',
     chance: 0.875,
