@@ -1,7 +1,7 @@
 export default [
   {
     name: 'Trade Caches',
-    description: 'Trade Caches are chests found throughout the Crystal Desert. They require a Trader\'s Key to open.',
+    description: 'Trade Caches can be bought at merchants throughout the Crystal Desert (also needs Trade Contracts).',
     items: [
       // Hamaseen
       { id: 83419,
