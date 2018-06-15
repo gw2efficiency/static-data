@@ -874,7 +874,7 @@ export default [
     waypointName: 'Heathen\'s Hold Waypoint',
     waypointCode: '[&BM0JAAA=]',
     videoGuide: 'Ef72rmRaQAk',
-    items: [{id: 74090, quantity: 12}],
+    items: [{id: 74090, quantity: 15}],
     optimal: 9001
   }
 ]
