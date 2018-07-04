@@ -33,6 +33,7 @@ export default [
   {id: 81957, name: 'The Shining Blade', type: 'weapon', skin: 7300, precursorId: 81812, precursorName: 'Save the Queen', precursorSkin: 7306, generation: 2},
   {id: 86098, name: 'The Binding of Ipos', type: 'weapon', skin: 7907, precursorId: 86097, precursorName: 'Ars Goetia', precursorSkin: 7850, generation: 2},
   {id: 87109, name: 'Claw of the Khan-Ur', type: 'weapon', skin: 8051, precursorId: 87037, precursorName: 'Claw of Resolution', precursorSkin: 8046, generation: 2},
+  {id: 87687, name: 'Verdarach', type: 'weapon', skin: 8145, precursorId: 87764, precursorName: 'Call of the Void', precursorSkin: 8177, generation: 2},
 
   {id: 81908, name: 'Aurora', type: 'trinket', skin: null, precursorId: 81729, precursorName: 'Spark of Sentience', precursorSkin: null, generation: -1},
 
