@@ -859,7 +859,7 @@ export default [
     image: 'Ember Bay - Seaweed.jpg',
     zone: 'Ember Bay',
     material: 'seaweed',
-    items: [{id: 12509, quantity: 25}],
+    items: [{id: 12509, quantity: 13}],
     materialName: 'Seaweed',
     waypointName: 'Promontory Waypoint',
     waypointCode: '[&BF8JAAA=]',
