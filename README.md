@@ -1,7 +1,7 @@
 # static-data
 
 [![Build Status](https://img.shields.io/travis/gw2efficiency/static-data.svg?style=flat-square)](https://travis-ci.org/gw2efficiency/static-data)
-[![Coverage Status](https://img.shields.io/codecov/c/github/gw2efficiency/static-data/master.svg?style=flat-square)](https://codecov.io/github/gw2efficiency/static-data)
+[![Coverage Status](https://img.shields.io/codecov/c/github/gw2efficiency/static-data/master.svg?style=flat-square)](https://codecov.io/github/gw2efficiency/static-data) [![Greenkeeper badge](https://badges.greenkeeper.io/gw2efficiency/static-data.svg)](https://greenkeeper.io/)
 
 > All the static data used in gw2efficiency and it's services
 
