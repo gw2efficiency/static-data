@@ -24,7 +24,7 @@ rows.map((row, i) => {
 console.log(']')
 
 function _string (string) {
-  return string.replace(/'/, `\\'`)
+  return string.replace(/'/g, `\\'`)
 }
 
 function _bool (x) {
