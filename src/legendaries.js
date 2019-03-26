@@ -35,6 +35,7 @@ export default [
   {id: 87109, name: 'Claw of the Khan-Ur', type: 'weapon', skin: 8051, precursorId: 87037, precursorName: 'Claw of Resolution', precursorSkin: 8046, generation: 2},
   {id: 87687, name: 'Verdarach', type: 'weapon', skin: 8145, precursorId: 87764, precursorName: 'Call of the Void', precursorSkin: 8177, generation: 2},
   {id: 88576, name: 'Xiuquatl', type: 'weapon', skin: 8389, precursorId: 88851, precursorName: 'Tlehco', precursorSkin: 8341, generation: 2},
+  {id: 89854, name: 'Pharus', type: 'weapon', skin: 8576, precursorId: 89886, precursorName: 'Spero', precursorSkin: 8600, generation: 2},
 
   {id: 81908, name: 'Aurora', type: 'trinket', skin: null, precursorId: 81729, precursorName: 'Spark of Sentience', precursorSkin: null, generation: -1},
 
