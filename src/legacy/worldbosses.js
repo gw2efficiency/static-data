@@ -1,6 +1,6 @@
 export default [
   {
-    id: 1,
+    id: 'tequatl_the_sunless',
     name: 'Tequatl the Sunless',
     icon: 'https://render.guildwars2.com/file/EC27BAEDA6062EC26CB8C145B60B725A5F5AB60C/638238.png',
     reward_dragonite: '15-25',
@@ -10,7 +10,7 @@ export default [
     type: 'megaboss'
   },
   {
-    id: 2,
+    id: 'inquest_golem_mark_ii',
     name: 'Inquest Golem Mark II',
     icon: 'https://render.guildwars2.com/file/9A205FAF5F08C70D5CC7370BAFC0045B4F3AFA4B/66104.png',
     reward_dragonite: '15-25',
@@ -20,7 +20,7 @@ export default [
     type: 'worldboss'
   },
   {
-    id: 3,
+    id: 'NOT_IN_API_fire_shaman',
     name: 'Fire Shaman',
     reward_dragonite: '15-25',
     position: 'Iron Marches',
@@ -28,7 +28,7 @@ export default [
     type: 'event'
   },
   {
-    id: 4,
+    id: 'shadow_behemoth',
     name: 'Shadow Behemoth',
     icon: 'https://render.guildwars2.com/file/A73962956CD61D3F99DC099C9064B8EAB794044F/220511.png',
     reward_dragonite: '3-5',
@@ -38,7 +38,7 @@ export default [
     type: 'worldboss'
   },
   {
-    id: 5,
+    id: 'fire_elemental',
     name: 'Fire Elemental',
     icon: 'https://render.guildwars2.com/file/6CC4302EB706A8C576E66795E10B3CA23E3C0ECE/1633964.png',
     reward_dragonite: '3-5',
@@ -48,7 +48,7 @@ export default [
     type: 'worldboss'
   },
   {
-    id: 6,
+    id: 'svanir_shaman_chief',
     name: 'The Frozen Maw',
     icon: 'https://render.guildwars2.com/file/432931B7A059F87C1D92C23A974B992C0C1C484E/66093.png',
     reward_dragonite: '3-5',
@@ -58,7 +58,7 @@ export default [
     type: 'worldboss'
   },
   {
-    id: 7,
+    id: 'great_jungle_wurm',
     name: 'Jungle Wurm',
     icon: 'https://render.guildwars2.com/file/750804D2EFE9B3370441DDA6B79A39520DA0A4BA/711881.png',
     reward_dragonite: '3-5',
@@ -68,7 +68,7 @@ export default [
     type: 'worldboss'
   },
   {
-    id: 8,
+    id: 'the_shatterer',
     name: 'The Shatterer',
     icon: 'https://render.guildwars2.com/file/3359C5F30AE534F513ABF603023194F0E703D2C3/1601469.png',
     reward_dragonite: '15-25',
@@ -78,7 +78,7 @@ export default [
     type: 'worldboss'
   },
   {
-    id: 9,
+    id: 'claw_of_jormag',
     name: 'Claw of Jormag',
     icon: 'https://render.guildwars2.com/file/CEE0AB90FF1CD1A55C456AB40A62DA09B5F5A32F/1614402.png',
     reward_dragonite: '15-25',
@@ -88,7 +88,7 @@ export default [
     type: 'worldboss'
   },
   {
-    id: 11,
+    id: 'NOT_IN_API_dredge_commissar',
     name: 'Dredge Commissar',
     reward_dragonite: '3-5',
     position: 'Dredgehaunt Cliffs',
@@ -96,7 +96,7 @@ export default [
     type: 'event'
   },
   {
-    id: 12,
+    id: 'NOT_IN_API_eye_of_zhaitan',
     name: 'Eye of Zhaitan',
     reward_dragonite: '3-5',
     position: 'Straits of Devastation',
@@ -104,7 +104,7 @@ export default [
     type: 'event'
   },
   {
-    id: 13,
+    id: 'NOT_IN_API_foulbear_chieftain',
     name: 'Foulbear Chieftain',
     reward_dragonite: '0',
     position: 'Fields of Ruin',
@@ -112,7 +112,7 @@ export default [
     type: 'event'
   },
   {
-    id: 14,
+    id: 'modniir_ulgoth',
     name: 'Ulgoth the Modniir',
     icon: 'https://render.guildwars2.com/file/E6371A00E39BE71AB912FBC407F41D74999C262A/66066.png',
     reward_dragonite: '3-5',
@@ -122,7 +122,7 @@ export default [
     type: 'worldboss'
   },
   {
-    id: 15,
+    id: 'admiral_taidha_covington',
     name: 'Admiral Taidha Covington',
     icon: 'https://render.guildwars2.com/file/55E4FD4BD3D94017E74FF69AADA32E460126FB02/603289.png',
     reward_dragonite: '3-5',
@@ -132,7 +132,7 @@ export default [
     type: 'worldboss'
   },
   {
-    id: 16,
+    id: 'karka_queen',
     name: 'Karka Queen',
     icon: 'https://render.guildwars2.com/file/A278BC80439EF75F354F7EC1F2FE67277EDF7A5E/511871.png',
     reward_dragonite: '30',
@@ -142,7 +142,7 @@ export default [
     type: 'megaboss'
   },
   {
-    id: 17,
+    id: 'NOT_IN_API_rhendak_the_crazed',
     name: 'Rhendak the Crazed',
     reward_dragonite: '0',
     position: 'Diessa Plateau',
@@ -150,7 +150,7 @@ export default [
     type: 'event'
   },
   {
-    id: 18,
+    id: 'NOT_IN_API_gates_of_arah',
     name: 'Gates of Arah',
     reward_dragonite: '0',
     position: 'Cursed Shore',
@@ -158,7 +158,7 @@ export default [
     type: 'event'
   },
   {
-    id: 19,
+    id: 'megadestroyer',
     name: 'Megadestroyer',
     icon: 'https://render.guildwars2.com/file/BEC355AE5F94F62506E7495B2372201C75DA44D0/771029.png',
     reward_dragonite: '0',
@@ -168,7 +168,7 @@ export default [
     type: 'worldboss'
   },
   {
-    id: 20,
+    id: 'NOT_IN_API_branded_devourer_queen',
     name: 'Branded Devourer Queen',
     reward_dragonite: '0',
     position: 'Iron Marches',
@@ -176,7 +176,7 @@ export default [
     type: 'event'
   },
   {
-    id: 21,
+    id: 'NOT_IN_API_temple_of_grenth',
     name: 'Temple of Grenth',
     reward_dragonite: '30',
     position: 'Cursed Shore',
@@ -184,7 +184,7 @@ export default [
     type: 'event'
   },
   {
-    id: 22,
+    id: 'NOT_IN_API_temple_of_melandru',
     name: 'Temple of Melandru',
     reward_dragonite: '30',
     position: 'Cursed Shore',
@@ -192,7 +192,7 @@ export default [
     type: 'event'
   },
   {
-    id: 23,
+    id: 'NOT_IN_API_temple_of_dwayna',
     name: 'Temple of Dwayna',
     reward_dragonite: '30',
     position: "Malchor's Leap",
@@ -200,7 +200,7 @@ export default [
     type: 'event'
   },
   {
-    id: 24,
+    id: 'NOT_IN_API_temple_of_lyssa',
     name: 'Temple of Lyssa',
     reward_dragonite: '30',
     position: "Malchor's Leap",
@@ -208,7 +208,7 @@ export default [
     type: 'event'
   },
   {
-    id: 25,
+    id: 'NOT_IN_API_temple_of_balthazar',
     name: 'Temple of Balthazar',
     reward_dragonite: '30',
     position: 'Straits of Devastation',
@@ -216,8 +216,8 @@ export default [
     type: 'event'
   },
   {
-    id: 26,
-    name: 'Evolved Jungle Wurm',
+    id: 'triple_trouble_wurm',
+    name: 'Triple Trouble Wurm',
     icon: 'https://render.guildwars2.com/file/7A90067D42E7A8F61CE57F68FA56EFA90E4B54AE/711972.png',
     reward_dragonite: '40',
     position: 'Bloodtide Coast',
