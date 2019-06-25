@@ -39,6 +39,8 @@ export default [
   {id: 90551, name: 'Exordium', type: 'weapon', skin: 8748, precursorId: 90883, precursorName: 'Exitare', precursorSkin: 8692, generation: 2},
 
   {id: 81908, name: 'Aurora', type: 'trinket', skin: null, precursorId: 81729, precursorName: 'Spark of Sentience', precursorSkin: null, generation: -1},
+  {id: 91048, name: 'Vision', type: 'trinket', skin: null, precursorId: 91035, precursorName: 'Glimpse', precursorSkin: null, generation: -1},
+  {id: 91234, name: 'Coalescence', type: 'trinket', skin: null, precursorId: 86104, precursorName: 'Hateful Sworl', precursorSkin: null, generation: -1},
 
   {id: 74155, name: 'Ad Infinitum', type: 'back', skin: 6344, precursorId: 72309, precursorName: 'Unbound', precursorSkin: 6234, generation: -1},
   {id: 77474, name: 'The Ascension', type: 'back', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1},
