@@ -73,6 +73,7 @@ export default [
   {group: 'Progression', title: 'Unlocked Outfits', key: 'statistics.outfitCount', sprite: 'outfits', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Mailcarriers', key: 'statistics.mailcarrierCount', sprite: 'mailcarriers', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Gliders', key: 'statistics.gliderCount', sprite: 'gliders', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Progression', title: 'Unlocked Novelties', key: 'statistics.noveltyCount', sprite: 'novelties', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked PvP Heroes', key: 'statistics.pvpHeroCount', sprite: 'pvp-heroes', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Recipes', key: 'statistics.recipeCount', sprite: 'recipes', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Titles', key: 'statistics.titleCount', sprite: 'titles', gold: false, by_playtime: true, decimals: 0},
