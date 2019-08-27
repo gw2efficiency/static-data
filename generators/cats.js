@@ -1,13 +1,15 @@
 // This generates the basic information via this wiki page, but still needs manual cleanup.
 // https://wiki.guildwars2.com/wiki/Hungry_cat_scavenger_hunt
 
-;(function() {
-  function parseRow(row) {
+const existing = []
+
+;(function () {
+  function parseRow (row) {
     console.log('Parsing row', row)
 
     const id = parseInt(row.id.replace('cat', ''), 10)
     const image = existing.find((x) => x.id === id).image
-    if (id === 23) return { id, image }
+    if (id === 23) return {id, image}
 
     const location = row.querySelector(`td:nth-child(1)`).innerText.split('\n')
     const waypoint = row
@@ -44,5 +46,6 @@
     }
   }
 
+  // eslint-disable-next-line
   console.log(Array.from($0.children).map(parseRow))
 })()
