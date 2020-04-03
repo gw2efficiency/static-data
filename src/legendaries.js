@@ -41,6 +41,8 @@ export default [
   {id: 81908, name: 'Aurora', type: 'trinket', skin: null, precursorId: 81729, precursorName: 'Spark of Sentience', precursorSkin: null, generation: -1},
   {id: 91048, name: 'Vision', type: 'trinket', skin: null, precursorId: 91035, precursorName: 'Glimpse', precursorSkin: null, generation: -1},
   {id: 91234, name: 'Coalescence', type: 'trinket', skin: null, precursorId: 86104, precursorName: 'Hateful Sworl', precursorSkin: null, generation: -1},
+  {id: 92991, name: 'Transcendence', type: 'trinket', skin: null, precursorId: 93140, precursorName: 'Slumbering Transcendence', precursorSkin: null, generation: -1},
+  {id: 93105, name: 'Conflux', type: 'trinket', skin: null, precursorId: 93128, precursorName: 'Slumbering Conflux', precursorSkin: null, generation: -1},
 
   {id: 74155, name: 'Ad Infinitum', type: 'back', skin: 6344, precursorId: 72309, precursorName: 'Unbound', precursorSkin: 6234, generation: -1},
   {id: 77474, name: 'The Ascension', type: 'back', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1},
