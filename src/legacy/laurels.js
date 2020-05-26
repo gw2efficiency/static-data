@@ -51,7 +51,7 @@ export default [
           output: 5,
           quantity_min: 2,
           quantity_max: 4,
-          items: [24343, 24347, 24274, 24354, 24286, 24298, 24280, 24292]
+          items: [24344, 24348, 24274, 24354, 24286, 24298, 24280, 24292]
         }
       },
       {
@@ -61,9 +61,9 @@ export default [
         show_min_and_max: true,
         random_results: {
           output: 5,
-          quantity_min: 3,
-          quantity_max: 5,
-          items: [24344, 24348, 24273, 24353, 24285, 24297, 24279, 24291]
+          quantity_min: 2,
+          quantity_max: 4,
+          items: [24343, 24347, 24273, 24353, 24285, 24297, 24279, 24291]
         }
       },
       {
