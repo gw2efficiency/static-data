@@ -198,7 +198,7 @@ export default [
   {group: 'Account', title: 'Mastery Points (Central Tyria)', key: 'statistics.masteryPointsTyria', sprite: 'small-mastery-tyria', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Mastery Points (Heart of Thorns)', key: 'statistics.masteryPointsMaguuma', sprite: 'small-mastery-maguuma', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Mastery Points (Path of Fire)', key: 'statistics.masteryPointsDesert', sprite: 'small-mastery-desert', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Account', title: 'Mastery Points (The Icebrood Saga)', key: 'statistics.masteryPointsCrystal', sprite: 'small-mastery-crystal', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Account', title: 'Mastery Points (The Icebrood Saga)', key: 'statistics.masteryPointsCrystal', sprite: 'small-mastery-tundra', gold: false, by_playtime: true, decimals: 0},
   {group: 'Miscellaneous', title: 'Salvaged Items', key: 'statistics.salvagedItems', sprite: 'salvaged-items', gold: false, by_playtime: true, decimals: 0},
   {group: 'Miscellaneous', title: 'Tradingpost Buy Orders', key: 'statistics.buyOrderCount', sprite: 'tradingpost-test', gold: false, by_playtime: true, decimals: 0},
   {group: 'Miscellaneous', title: 'Tradingpost Sell Orders', key: 'statistics.sellOrderCount', sprite: 'tradingpost-test', gold: false, by_playtime: true, decimals: 0},
