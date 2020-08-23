@@ -1,6 +1,6 @@
 {
   "name": "gw2e-static-data",
-  "version": "0.4.64",
+  "version": "0.4.65",
   "description": "All the static data used in gw2efficiency and it's services",
   "main": "./build/index.js",
   "scripts": {
