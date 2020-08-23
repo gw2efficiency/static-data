@@ -212,5 +212,10 @@ export default [
   {group: 'Gemstore', title: 'Unlimited Gathering Tools', key: 'statistics.permanentTools', sprite: 'permanent-tools', gold: false, by_playtime: true, decimals: 0},
   {group: 'Gemstore', title: 'Permanent Contracts', key: 'statistics.permanentContracts', sprite: 'permanent-contract', gold: false, by_playtime: true, decimals: 0},
   {group: 'Gemstore', title: 'Toys', key: 'statistics.gemstoreToys', sprite: 'gemstore-toys', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Gemstore', title: 'Shared Inventory Slots', key: 'statistics.sharedInventorySlots', sprite: 'shared-inventory-slot', gold: false, by_playtime: true, decimals: 0}
+  {group: 'Gemstore', title: 'Shared Inventory Slots', key: 'statistics.sharedInventorySlots', sprite: 'shared-inventory-slot', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Pointless Statistics', title: 'Broken Twig', key: 'statistics.brokenTwig', sprite: 'broken-twig', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Pointless Statistics', title: 'Warm Stone', key: 'statistics.warmStone', sprite: 'warm-stone', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Pointless Statistics', title: 'Crumbling Bone', key: 'statistics.crumblingBone', sprite: 'crumbling-bone', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Pointless Statistics', title: 'Mangled Talon', key: 'statistics.mangledTalon', sprite: 'mangled-talon', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Pointless Statistics', title: 'Clump of Resin', key: 'statistics.clumpOfResin', sprite: 'clump-of-resin', gold: false, by_playtime: true, decimals: 0}
 ]
