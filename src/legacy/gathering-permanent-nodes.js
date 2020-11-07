@@ -794,7 +794,7 @@ export default [
     materialName: 'Elder Wood',
     waypointName: "Pagga's Waypoint",
     waypointCode: '[&BKYCAAA=]',
-    items: [{ id: 19722, quantity: 12 }],
+    items: [{ id: 19722, quantity: 15 }],
     optimal: 42
   },
   {
@@ -805,7 +805,7 @@ export default [
     materialName: 'Elder Wood',
     waypointName: 'Waywarde Waypoint',
     waypointCode: '[&BPgCAAA=]',
-    items: [{ id: 19722, quantity: 15 }],
+    items: [{ id: 19722, quantity: 12 }],
     optimal: 41
   },
   {
