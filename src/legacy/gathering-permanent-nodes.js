@@ -894,7 +894,7 @@ export default [
     id: 84,
     image: '2 - Quartz - Dry Top - Prosperity Waypoint.png',
     waypointCode: '[&BHoHAAA=]',
-    items: [{ id: 43773, quantity: 3 }],
+    items: [{ id: 43773, quantity: 3, ore: true }],
     material: 'quartz',
     materialName: 'Quartz',
     zone: 'Dry Top',
@@ -905,7 +905,7 @@ export default [
     id: 85,
     image: '3 - Quartz - Dry Top - Prosperity Waypoint.png',
     waypointCode: '[&BHoHAAA=]',
-    items: [{ id: 43773, quantity: 3 }],
+    items: [{ id: 43773, quantity: 3, ore: true }],
     material: 'quartz',
     materialName: 'Quartz',
     zone: 'Dry Top',
@@ -1044,7 +1044,7 @@ export default [
     material: ['mithril', 'quartz'],
     items: [
       { id: 19700, quantity: 10, ore: true },
-      { id: 43773, quantity: 3 }
+      { id: 43773, quantity: 3, ore: true }
     ],
     materialName: 'Quartz & Rich Mithril',
     waypointName: 'Destiny\'s Gorge Waypoint',
