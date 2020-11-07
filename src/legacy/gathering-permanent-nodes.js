@@ -194,7 +194,7 @@ export default [
     ],
     alternating_items: true,
     materialName: 'Rich Iron or Silver',
-    waypointName: 'Overlord’s Waypoint',
+    waypointName: 'Overlord\'s Waypoint',
     waypointCode: '[&BAQAAAA=]',
     optimal: 61
   },
@@ -237,7 +237,7 @@ export default [
     zone: 'Snowden Drifts',
     material: 'strawberries',
     materialName: 'Strawberries',
-    waypointName: 'Reaver’s Waypoint',
+    waypointName: 'Reaver\'s Waypoint',
     waypointCode: '[&BMAAAAA=]',
     items: [{ id: 12253, quantity: 8 }],
     optimal: 25
@@ -303,7 +303,7 @@ export default [
     zone: "Lornar's Pass",
     material: 'grapes',
     materialName: 'Grapes',
-    waypointName: 'Demon’s Maw Waypoint',
+    waypointName: 'Demon\'s Maw Waypoint',
     waypointCode: '[&BOYAAAA=]',
     items: [{ id: 12341, quantity: 8 }],
     optimal: 29
@@ -315,7 +315,7 @@ export default [
     material: 'iron',
     items: [{ id: 19699, quantity: 10, ore: true }],
     materialName: 'Rich Iron',
-    waypointName: 'Icedevil’s Waypoint',
+    waypointName: 'Icedevil\'s Waypoint',
     waypointCode: '[&BFEGAAA=]',
     optimal: 27
   },
@@ -337,7 +337,7 @@ export default [
     material: 'gold',
     items: [{ id: 19698, quantity: 10, ore: true }],
     materialName: 'Rich Gold',
-    waypointName: 'Demon’s Maw Waypoint',
+    waypointName: 'Demon\'s Maw Waypoint',
     waypointCode: '[&BOYAAAA=]',
     optimal: 30
   },
@@ -370,7 +370,7 @@ export default [
     material: 'silver',
     items: [{ id: 19703, quantity: 10, ore: true }],
     materialName: 'Rich Silver',
-    waypointName: 'Rosko’s Campsite Waypoint',
+    waypointName: 'Rosko\'s Campsite Waypoint',
     waypointCode: '[&BNgAAAA=]',
     optimal: 4
   },
@@ -524,7 +524,7 @@ export default [
     material: 'platinum',
     items: [{ id: 19702, quantity: 10, ore: true }],
     materialName: 'Rich Platinum',
-    waypointName: 'Grostogg’s Kraal Waypoint',
+    waypointName: 'Grostogg\'s Kraal Waypoint',
     waypointCode: '[&BO8BAAA=]',
     optimal: 8
   },
@@ -567,7 +567,7 @@ export default [
     zone: 'Sparkfly Fen',
     material: 'cauliflower',
     materialName: 'Cauliflower',
-    waypointName: 'Ocean’s Gulley Waypoint',
+    waypointName: 'Ocean\'s Gulley Waypoint',
     waypointCode: '[&BMkBAAA=]',
     items: [{ id: 12532, quantity: 8 }],
     optimal: 48
@@ -590,7 +590,7 @@ export default [
     material: 'platinum',
     items: [{ id: 19702, quantity: 10, ore: true }],
     materialName: 'Rich Platinum',
-    waypointName: 'Ocean’s Gulley Waypoint',
+    waypointName: 'Ocean\'s Gulley Waypoint',
     waypointCode: '[&BMkBAAA=]',
     optimal: 49
   },
@@ -623,7 +623,7 @@ export default [
     material: 'platinum',
     items: [{ id: 19702, quantity: 10, ore: true }],
     materialName: 'Rich Platinum',
-    waypointName: 'Breaktooth’s Waypoint',
+    waypointName: 'Breaktooth\'s Waypoint',
     waypointCode: '[&BBoCAAA=]',
     optimal: 18
   },
@@ -755,7 +755,7 @@ export default [
     material: 'mithril',
     items: [{ id: 19700, quantity: 10, ore: true }],
     materialName: 'Rich Mithril',
-    waypointName: 'Meddler’s Waypoint',
+    waypointName: 'Meddler\'s Waypoint',
     waypointCode: '[&BB4DAAA=]',
     optimal: 45
   },
@@ -1036,6 +1036,20 @@ export default [
     zone: 'Crystal Oasis',
     waypointName: 'Temple of Kormir Waypoint',
     optimal: 9023
+  },
+  {
+    id: 101,
+    image: 'Crystal Oasis - Perma Rich Mithril.jpg',
+    zone: 'Crystal Oasis',
+    material: ['mithril', 'quartz'],
+    items: [
+      { id: 19700, quantity: 10, ore: true },
+      { id: 43773, quantity: 3 }
+    ],
+    materialName: 'Quartz & Rich Mithril',
+    waypointName: 'Destiny\'s Gorge Waypoint',
+    waypointCode: '[&BJMKAAA=]',
+    optimal: 99999
   },
   {
     id: 97,
