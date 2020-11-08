@@ -224,5 +224,15 @@ export default [
     times: ['03:00', '06:00', '10:00', '14:30', '19:00', '22:00'],
     waypoint: '[&BKoBAAA=]',
     type: 'megaboss'
+  },
+  {
+    id: 'drakkar',
+    name: 'Drakkar and Spirits of the Wild',
+    icon: 'https://render.guildwars2.com/file/CEBF06A096D0EB0AF0410CA90370F0157F70A921/2247707.png',
+    reward_dragonite: '30',
+    position: 'Bjora Marches',
+    times: ['22:05', '00:05', '02:05', '04:05', '06:05', '08:05', '10:05', '12:05', '14:05', '16:05', '18:05', '20:05'],
+    waypoint: '[&BDkMAAA=]',
+    type: 'megaboss'
   }
 ]
