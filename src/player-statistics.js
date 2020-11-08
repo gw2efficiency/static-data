@@ -111,6 +111,7 @@ export default [
   {group: 'Cosmetic Auras', title: 'Peerless Infusions', key: 'statistics.peerlessInfusions', sprite: 'peerlessInfusions', gold: false, by_playtime: true, decimals: 0},
   {group: 'Cosmetic Auras', title: 'Toy Shell Infusions', key: 'statistics.toyShellInfusions', sprite: 'toyShellInfusions', gold: false, by_playtime: true, decimals: 0},
   {group: 'Cosmetic Auras', title: 'Heart of the Khan-Ur Infusions', key: 'statistics.heartOfTheKhanUr', sprite: 'heartOfTheKhanUr', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Cosmetic Auras', title: 'Frost Legion Infusions', key: 'statistics.frostLegionInfusion', sprite: 'frostLegionInfusion', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Any)', key: 'statistics.legendaryItems', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Weapons)', key: 'statistics.legendaryItemsWeapon', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Armor)', key: 'statistics.legendaryItemsArmor', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
