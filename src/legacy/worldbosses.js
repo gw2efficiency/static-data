@@ -231,7 +231,7 @@ export default [
     icon: 'https://render.guildwars2.com/file/CEBF06A096D0EB0AF0410CA90370F0157F70A921/2247707.png',
     reward_dragonite: '30',
     position: 'Bjora Marches',
-    times: ['22:05', '00:05', '02:05', '04:05', '06:05', '08:05', '10:05', '12:05', '14:05', '16:05', '18:05', '20:05'],
+    times: ['21:05', '23:05', '01:05', '03:05', '05:05', '07:05', '09:05', '11:05', '13:05', '15:05', '17:05', '19:05'],
     waypoint: '[&BDkMAAA=]',
     type: 'megaboss'
   }
