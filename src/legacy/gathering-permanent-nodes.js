@@ -1189,7 +1189,90 @@ export default [
     region: 'Shiverpeak Mountains',
     waypointName: 'Moorage Waypoint',
     optimal: 3702
+  },
+  {
+    id: 102,
+    image: 'Flax - Overlook Waypoint.png',
+    waypointCode: '[&BE4JAAA=]',
+    items: [{ id: 74090, quantity: 12 }],
+    material: 'flax',
+    materialName: 'Flax',
+    zone: 'Bloodstone Fen',
+    region: 'Fragmented Wastes',
+    waypointName: 'Zealot\'s Overlook',
+    optimal: 3801
+  },
+  {
+    id: 103,
+    image: 'Flax - Allied Encampment Waypoint.png',
+    waypointCode: '[&BFcLAAA=]',
+    items: [{ id: 74090, quantity: 12 }],
+    material: 'flax',
+    materialName: 'Flax',
+    zone: 'Domain of Kourna',
+    region: 'Arkjok Farmlands',
+    waypointName: 'Allied Encampment',
+    optimal: 3810
+  },
+  {
+    id: 104,
+    image: 'Flax - Reclaimed Chantry Waypoint.png',
+    waypointCode: '[BJkLAAA=]',
+    items: [{ id: 74090, quantity: 12 }],
+    material: 'flax',
+    materialName: 'Flax',
+    zone: 'Jahai Bluffs',
+    region: 'Jungle Anomaly',
+    waypointName: 'Reclaimed Chantry Waypoint',
+    optimal: 3820
+  },
+  {
+    id: 105,
+    image: 'Orichalcum - Sandswept Isles - Atholma Waypoint.png',
+    waypointCode: '[BEMLAAA=]',
+    items: [{ id: 19701, quantity: 3, ore: true }],
+    material: 'orichalcum',
+    materialName: 'Orichalcum',
+    zone: 'Sandswept Isles',
+    region: 'The Ruined Paths',
+    waypointName: 'Atholma Waypoint',
+    optimal: 3602
+  },
+  {
+    id: 106,
+    image: 'Elder Wood - Ember Bay - Castaway Circus Waypoint.png',
+    waypointCode: '[&BHgJAAA=]',
+    material: 'elderwood',
+    materialName: 'Elder Wood',
+    items: [{ id: 19722, quantity: 15 }],
+    zone: 'Ember Bay',
+    region: 'Osprey Pillars',
+    waypointName: 'Castaway Circus Waypoint',
+    optimal: 3102
+  },
+  {
+    id: 107,
+    image: 'Elder Wood - Siren\'s Landing - Camp Reclamation Waypoint.png',
+    waypointCode: '[&BO8JAAA=]',
+    material: 'elderwood',
+    materialName: 'Elder Wood',
+    items: [{ id: 19722, quantity: 12 }],
+    zone: 'Siren\'s Landing',
+    region: 'Merciless Shore',
+    waypointName: 'Camp Reclamation Waypoint',
+    optimal: 3804
+  },
+  {
+    id: 108,
+    image: 'Elder Wood - Soulkeeper\'s Airship Waypoint.png',
+    waypointCode: '[&BEsJAAA=]',
+    material: 'elderwood',
+    materialName: 'Elder Wood',
+    items: [{ id: 19722, quantity: 14 }],
+    zone: 'Bloodstone Fen',
+    region: 'Haunted Canyons',
+    waypointName: 'Soulkeeper\'s Airship Waypoint',
+    optimal: 3802
   }
-
-  // Next ID: 102
+  // Next ID: 109
 ]
