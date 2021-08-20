@@ -112,6 +112,16 @@ export default [
     type: 'event'
   },
   {
+    id: 'NOT_IN_API_dragonstorm',
+    name: 'Dragonstorm',
+    icon: 'https://render.guildwars2.com/file/0DE72811F5176B90454AE16B5E48CA5BBBE6610C/1322567.png',
+    reward_dragonite: '20-30',
+    position: 'Shiverpeak Mountains',
+    times: ['17:00', '19:00', '21:00', '23:00', '01:00', '03:00', '05:00', '07:00', '09:00', '11:00', '13:00', '15:00'],
+    waypoint: '[&BAkMAAA=]',
+    type: 'worldboss'
+  },
+  {
     id: 'modniir_ulgoth',
     name: 'Ulgoth the Modniir',
     icon: 'https://render.guildwars2.com/file/E6371A00E39BE71AB912FBC407F41D74999C262A/66066.png',
