@@ -54,7 +54,7 @@ export default [
     reward_dragonite: '3-5',
     position: 'Wayfarer Foothills',
     times: ['00:15', '02:15', '04:15', '06:15', '08:15', '10:15', '12:15', '14:15', '16:15', '18:15', '20:15', '22:15'],
-    waypoint: '[&BH4BAAA=]',
+    waypoint: '[&BMIDAAA=]',
     type: 'worldboss'
   },
   {
