@@ -1217,7 +1217,7 @@ export default [
   {
     id: 104,
     image: 'Flax - Reclaimed Chantry Waypoint.png',
-    waypointCode: '[BJkLAAA=]',
+    waypointCode: '[&BJkLAAA=]',
     items: [{ id: 74090, quantity: 12 }],
     material: 'flax',
     materialName: 'Flax',
@@ -1229,7 +1229,7 @@ export default [
   {
     id: 105,
     image: 'Orichalcum - Sandswept Isles - Atholma Waypoint.png',
-    waypointCode: '[BEMLAAA=]',
+    waypointCode: '[&BEMLAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
     material: 'orichalcum',
     materialName: 'Orichalcum',
