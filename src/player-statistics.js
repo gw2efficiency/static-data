@@ -102,6 +102,7 @@ export default [
   {group: 'Progression', title: 'Unlocked PvP Heroes', key: 'statistics.pvpHeroCount', sprite: 'pvp-heroes', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Recipes', key: 'statistics.recipeCount', sprite: 'recipes', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Titles', key: 'statistics.titleCount', sprite: 'titles', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Progression', title: 'Unlocked Legendaries', key: 'statistics.legendaryarmoryCount', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Home Cats', key: 'statistics.homeCats', sprite: 'home-cats', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Home Nodes', key: 'statistics.homeNodes', sprite: 'home-nodes', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unique Permanent Tonics', key: 'statistics.uniqueTonics', sprite: 'tonic', gold: false, by_playtime: true, decimals: 0},
