@@ -112,6 +112,36 @@ export default [
     type: 'event'
   },
   {
+    id: 'NOT_IN_API_ley_line_anomaly_iron_marches',
+    name: 'Ley-Line Anomaly (Iron Marches)',
+    icon: 'https://render.guildwars2.com/file/4AF03E00BCE9D7F92FD965A35C495D5A97AACE73/1759622.png',
+    reward_dragonite: '0',
+    position: 'Iron Marches',
+    times: ['20:20', '02:20', '8:20', '14:20'],
+    waypoint: '[&BOYBAAA=]',
+    type: 'worldboss'
+  },
+  {
+    id: 'NOT_IN_API_ley_line_anomaly_gendarran_fields',
+    name: 'Ley-Line Anomaly (Gendarran Fields)',
+    icon: 'https://render.guildwars2.com/file/4AF03E00BCE9D7F92FD965A35C495D5A97AACE73/1759622.png',
+    reward_dragonite: '0',
+    position: 'Gendarran Fields',
+    times: ['22:20', '04:20', '10:20', '16:20'],
+    waypoint: '[&BO0AAAA=]',
+    type: 'worldboss'
+  },
+  {
+    id: 'NOT_IN_API_ley_line_anomaly_timberline_falls',
+    name: 'Ley-Line Anomaly (Timberline Falls)',
+    icon: 'https://render.guildwars2.com/file/4AF03E00BCE9D7F92FD965A35C495D5A97AACE73/1759622.png',
+    reward_dragonite: '0',
+    position: 'Timberline Falls',
+    times: ['00:20', '06:20', '12:20', '18:20'],
+    waypoint: '[&BEwCAAA=]',
+    type: 'worldboss'
+  },
+  {
     id: 'NOT_IN_API_dragonstorm',
     name: 'Dragonstorm',
     icon: 'https://render.guildwars2.com/file/0DE72811F5176B90454AE16B5E48CA5BBBE6610C/1322567.png',
