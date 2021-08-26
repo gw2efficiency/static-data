@@ -1176,7 +1176,7 @@ export default [
     items: [{ id: 19701, quantity: 10, ore: true }],
     material: 'orichalcum',
     materialName: 'Rich Orichalcum',
-    optimal: 3601.5,
+    optimal: 3601.5
   },
   {
     id: 99,
@@ -1369,6 +1369,6 @@ export default [
     waypointName: 'Forward Camp Waypoint',
     waypointCode: '[&BHIMAAA=]',
     optimal: 4006
-  },
+  }
   // 118
 ]
