@@ -1167,6 +1167,18 @@ export default [
     optimal: 3601
   },
   {
+    id: 111,
+    image: 'Sandswept Isles 1.png',
+    waypointCode: '[&BEMLAAA=]',
+    zone: 'Sandswept Isles',
+    region: 'Crystal Desert',
+    waypointName: 'Atholma Waypoint',
+    items: [{ id: 19701, quantity: 10, ore: true }],
+    material: 'orichalcum',
+    materialName: 'Rich Orichalcum',
+    optimal: 3601.5,
+  },
+  {
     id: 99,
     image: 'Iron - Thunderhead Peaks.jpg',
     waypointCode: '[&BLsLAAA=]',
@@ -1273,6 +1285,90 @@ export default [
     region: 'Haunted Canyons',
     waypointName: 'Soulkeeper\'s Airship Waypoint',
     optimal: 3802
-  }
-  // Next ID: 109
+  },
+  {
+    id: 109,
+    image: 'The Desolation 1.png',
+    zone: 'The Desolation',
+    region: 'Crystal Desert',
+    material: 'orichalcum',
+    materialName: 'Orichalcum',
+    waypointName: 'Bonestrand Waypoint',
+    waypointCode: '[&BNwKAAA=]',
+    items: [{ id: 19701, quantity: 3, ore: true }],
+    optimal: 4000
+  },
+  {
+    id: 110,
+    image: 'The Desolation 2.png',
+    zone: 'The Desolation',
+    region: 'Crystal Desert',
+    material: 'orichalcum',
+    materialName: 'Rich Orichalcum',
+    waypointName: 'Bonestrand Waypoint',
+    waypointCode: '[&BNwKAAA=]',
+    items: [{ id: 19701, quantity: 10, ore: true }],
+    optimal: 4001
+  },
+  {
+    id: 112,
+    image: 'Vabbi 1.png',
+    zone: 'Domain of Vabbi',
+    region: 'Crystal Desert',
+    material: 'orichalcum',
+    materialName: 'Orichalcum',
+    waypointName: 'Market Ruins Waypoint',
+    waypointCode: '[&BHQKAAA=]',
+    items: [{ id: 19701, quantity: 3, ore: true }],
+    optimal: 4002
+  },
+  {
+    id: 113,
+    image: 'Vabbi 2.png',
+    zone: 'Domain of Vabbi',
+    region: 'Crystal Desert',
+    material: 'orichalcum',
+    materialName: 'Orichalcum',
+    waypointName: 'Market Ruins Waypoint',
+    waypointCode: '[&BHQKAAA=]',
+    items: [{ id: 19701, quantity: 3, ore: true }],
+    optimal: 4003
+  },
+  {
+    id: 114,
+    image: 'Vabbi 3.png',
+    zone: 'Domain of Vabbi',
+    region: 'Crystal Desert',
+    material: 'orichalcum',
+    materialName: 'Rich Orichalcum',
+    waypointName: 'Market Ruins Waypoint',
+    waypointCode: '[&BHQKAAA=]',
+    items: [{ id: 19701, quantity: 10, ore: true }],
+    optimal: 4004
+  },
+  {
+    id: 115,
+    image: 'Vabbi 4.png',
+    zone: 'Domain of Vabbi',
+    region: 'Crystal Desert',
+    material: 'orichalcum',
+    materialName: 'Rich Orichalcum',
+    waypointName: 'Market Ruins Waypoint',
+    waypointCode: '[&BHQKAAA=]',
+    items: [{ id: 19701, quantity: 10, ore: true }],
+    optimal: 4005
+  },
+  {
+    id: 116,
+    image: 'Drizzlewood1.png',
+    zone: 'Drizzlewood Coast',
+    region: 'Shiverpeak Mountains',
+    material: 'orichalcum',
+    materialName: 'Orichalcum',
+    items: [{ id: 19701, quantity: 3, ore: true }],
+    waypointName: 'Forward Camp Waypoint',
+    waypointCode: '[&BHIMAAA=]',
+    optimal: 4006
+  },
+  // 118
 ]
