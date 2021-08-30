@@ -117,7 +117,7 @@ export default [
     icon: 'https://render.guildwars2.com/file/4AF03E00BCE9D7F92FD965A35C495D5A97AACE73/1759622.png',
     reward_dragonite: '0',
     position: 'Iron Marches',
-    times: ['20:20', '02:20', '8:20', '14:20'],
+    times: ['22:20', '04:20', '10:20', '16:20'],
     waypoint: '[&BOYBAAA=]',
     type: 'worldboss'
   },
@@ -127,7 +127,7 @@ export default [
     icon: 'https://render.guildwars2.com/file/4AF03E00BCE9D7F92FD965A35C495D5A97AACE73/1759622.png',
     reward_dragonite: '0',
     position: 'Gendarran Fields',
-    times: ['22:20', '04:20', '10:20', '16:20'],
+    times: ['00:20', '06:20', '12:20', '18:20'],
     waypoint: '[&BO0AAAA=]',
     type: 'worldboss'
   },
@@ -137,7 +137,7 @@ export default [
     icon: 'https://render.guildwars2.com/file/4AF03E00BCE9D7F92FD965A35C495D5A97AACE73/1759622.png',
     reward_dragonite: '0',
     position: 'Timberline Falls',
-    times: ['00:20', '06:20', '12:20', '18:20'],
+    times: ['20:20', '02:20', '8:20', '14:20'],
     waypoint: '[&BEwCAAA=]',
     type: 'worldboss'
   },
