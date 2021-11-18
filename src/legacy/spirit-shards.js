@@ -935,7 +935,7 @@ export default [
       },
       // Dust
       {
-        result: {quantity: 18.51, id: 24273, quantity_range: [7, 40]},
+        result: {quantity: 86.5, id: 24273, quantity_range: [40, 200]},
         components: [
           {quantity: 1, id: 24273},
           {quantity: 250, id: 24272}
