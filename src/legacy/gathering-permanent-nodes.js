@@ -9,7 +9,7 @@ export default [
     waypointName: 'Ogre Road Waypoint',
     waypointCode: '[&BE8BAAA=]',
     items: [{ id: 12341, quantity: 8 }],
-    optimal: 101
+    optimal: 101,
   },
   {
     id: 32,
@@ -21,7 +21,7 @@ export default [
     materialName: 'Rich Iron',
     waypointName: 'Helliot Mine Waypoint',
     waypointCode: '[&BEsBAAA=]',
-    optimal: 102
+    optimal: 102,
   },
   {
     id: 34,
@@ -33,7 +33,7 @@ export default [
     materialName: 'Rich Gold',
     waypointName: 'Fangfury Watch Waypoint',
     waypointCode: '[&BEwBAAA=]',
-    optimal: 103
+    optimal: 103,
   },
   {
     id: 33,
@@ -45,7 +45,7 @@ export default [
     materialName: 'Rich Silver',
     waypointName: "Rosko's Campsite Waypoint",
     waypointCode: '[&BNgAAAA=]',
-    optimal: 104
+    optimal: 104,
   },
   {
     id: 39,
@@ -57,7 +57,7 @@ export default [
     materialName: 'Rich Iron',
     waypointName: 'Behem Waypoint',
     waypointCode: '[&BP0BAAA=]',
-    optimal: 201
+    optimal: 201,
   },
   {
     id: 38,
@@ -69,7 +69,7 @@ export default [
     waypointName: 'Lunk Kraal Waypoint',
     waypointCode: '[&BAACAAA=]',
     items: [{ id: 12332, quantity: 8 }],
-    optimal: 202
+    optimal: 202,
   },
   {
     id: 40,
@@ -81,7 +81,7 @@ export default [
     materialName: 'Rich Gold',
     waypointName: 'Terra Carorunda Waypoint',
     waypointCode: '[&BAECAAA=]',
-    optimal: 203
+    optimal: 203,
   },
   {
     id: 47,
@@ -93,7 +93,7 @@ export default [
     materialName: 'Rich Platinum',
     waypointName: "Grostogg's Kraal Waypoint",
     waypointCode: '[&BO8BAAA=]',
-    optimal: 301
+    optimal: 301,
   },
   {
     id: 48,
@@ -105,7 +105,7 @@ export default [
     materialName: 'Rich Platinum',
     waypointName: 'Gladefall Waypoint',
     waypointCode: '[&BO4BAAA=]',
-    optimal: 302
+    optimal: 302,
   },
   {
     id: 46,
@@ -117,7 +117,7 @@ export default [
     waypointName: 'Bulwark Waypoint',
     waypointCode: '[&BOwBAAA=]',
     items: [{ id: 12538, quantity: 8 }],
-    optimal: 303
+    optimal: 303,
   },
   {
     id: 1,
@@ -129,7 +129,7 @@ export default [
     waypointName: 'Loreclaw Waypoint',
     waypointCode: '[&BMcDAAA=]',
     items: [{ id: 12135, quantity: 8 }],
-    optimal: 401
+    optimal: 401,
   },
   {
     id: 2,
@@ -141,7 +141,7 @@ export default [
     materialName: 'Rich Copper',
     waypointName: 'Ashford Waypoint',
     waypointCode: '[&BIQBAAA=]',
-    optimal: 402
+    optimal: 402,
   },
   {
     id: 3,
@@ -153,7 +153,7 @@ export default [
     materialName: 'Rich Copper',
     waypointName: 'Guardpoint Decimus Waypoint',
     waypointCode: '[&BJgDAAA=]',
-    optimal: 403
+    optimal: 403,
   },
   {
     id: 11,
@@ -165,7 +165,7 @@ export default [
     waypointName: 'Nolan Waypoint',
     waypointCode: '[&BN4AAAA=]',
     items: [{ id: 12253, quantity: 8 }],
-    optimal: 501
+    optimal: 501,
   },
   {
     id: 12,
@@ -177,7 +177,7 @@ export default [
     materialName: 'Rich Iron',
     waypointName: 'Oldgate Waypoint',
     waypointCode: '[&BF4BAAA=]',
-    optimal: 502
+    optimal: 502,
   },
   {
     id: 13,
@@ -189,7 +189,7 @@ export default [
     materialName: 'Rich Silver',
     waypointName: 'Blasted Moors Waypoint',
     waypointCode: '[&BNoAAAA=]',
-    optimal: 503
+    optimal: 503,
   },
   {
     id: 54,
@@ -201,7 +201,7 @@ export default [
     waypointName: 'Apostate Waypoint',
     waypointCode: '[&BB0CAAA=]',
     items: [{ id: 12511, quantity: 8 }],
-    optimal: 601
+    optimal: 601,
   },
   {
     id: 56,
@@ -213,7 +213,7 @@ export default [
     materialName: 'Rich Platinum',
     waypointName: "Breaktooth's Waypoint",
     waypointCode: '[&BBoCAAA=]',
-    optimal: 602
+    optimal: 602,
   },
   {
     id: 57,
@@ -225,7 +225,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: 'The Citadel of Flame Waypoint',
     waypointCode: '[&BEAFAAA=]',
-    optimal: 603
+    optimal: 603,
   },
   {
     id: 55,
@@ -237,7 +237,7 @@ export default [
     materialName: 'Rich Platinum',
     waypointName: 'Rustbowl Waypoint',
     waypointCode: '[&BB4CAAA=]',
-    optimal: 604
+    optimal: 604,
   },
   {
     id: 63,
@@ -249,7 +249,7 @@ export default [
     waypointName: 'Arundon Waypoint',
     waypointCode: '[&BHgCAAA=]',
     items: [{ id: 12511, quantity: 8 }],
-    optimal: 701
+    optimal: 701,
   },
   {
     id: 64,
@@ -261,7 +261,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: 'Slough of Despond',
     waypointCode: '[&BHwCAAA=]',
-    optimal: 702
+    optimal: 702,
   },
   {
     id: 65,
@@ -273,7 +273,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: 'Groznev Waypoint',
     waypointCode: '[&BHkCAAA=]',
-    optimal: 703
+    optimal: 703,
   },
   {
     id: 80,
@@ -285,7 +285,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: "Koda's Welcome Waypoint",
     waypointCode: '[&BIEJAAA=]',
-    optimal: 801
+    optimal: 801,
   },
   {
     id: 22,
@@ -297,7 +297,7 @@ export default [
     materialName: 'Rich Iron',
     waypointName: 'Snowhawk Landing Waypoint',
     waypointCode: '[&BL8AAAA=]',
-    optimal: 901
+    optimal: 901,
   },
   {
     id: 21,
@@ -309,7 +309,7 @@ export default [
     waypointName: "Reaver's Waypoint",
     waypointCode: '[&BMAAAAA=]',
     items: [{ id: 12253, quantity: 8 }],
-    optimal: 902
+    optimal: 902,
   },
   {
     id: 23,
@@ -321,7 +321,7 @@ export default [
     materialName: 'Rich Silver',
     waypointName: 'Valslake Waypoint',
     waypointCode: '[&BMADAAA=]',
-    optimal: 903
+    optimal: 903,
   },
   {
     id: 28,
@@ -333,7 +333,7 @@ export default [
     materialName: 'Rich Iron',
     waypointName: "Icedevil's Waypoint",
     waypointCode: '[&BFEGAAA=]',
-    optimal: 1001
+    optimal: 1001,
   },
   {
     id: 29,
@@ -345,7 +345,7 @@ export default [
     materialName: 'Rich Silver',
     waypointName: 'Durmand Priory Waypoint',
     waypointCode: '[&BOkAAAA=]',
-    optimal: 1002
+    optimal: 1002,
   },
   {
     id: 27,
@@ -357,7 +357,7 @@ export default [
     waypointName: "Demon's Maw Waypoint",
     waypointCode: '[&BOYAAAA=]',
     items: [{ id: 12341, quantity: 8 }],
-    optimal: 1003
+    optimal: 1003,
   },
   {
     id: 30,
@@ -369,7 +369,7 @@ export default [
     materialName: 'Rich Gold',
     waypointName: "Demon's Maw Waypoint",
     waypointCode: '[&BOYAAAA=]',
-    optimal: 1004
+    optimal: 1004,
   },
   {
     id: 42,
@@ -381,7 +381,7 @@ export default [
     materialName: 'Rich Iron',
     waypointName: 'Wyrmblood Waypoint',
     waypointCode: '[&BGUCAAA=]',
-    optimal: 1101
+    optimal: 1101,
   },
   {
     id: 41,
@@ -393,7 +393,7 @@ export default [
     waypointName: 'Wide Expanse',
     waypointCode: '[&BF8CAAA=]',
     items: [{ id: 12332, quantity: 8 }],
-    optimal: 1102
+    optimal: 1102,
   },
   {
     id: 43,
@@ -405,7 +405,7 @@ export default [
     materialName: 'Rich Gold',
     waypointName: 'Steelbrachen',
     waypointCode: '[&BFsCAAA=]',
-    optimal: 1103
+    optimal: 1103,
   },
   {
     id: 50,
@@ -417,7 +417,7 @@ export default [
     materialName: 'Rich Platinum',
     waypointName: 'Thistlereed Waypoint',
     waypointCode: '[&BFECAAA=]',
-    optimal: 1201
+    optimal: 1201,
   },
   {
     id: 49,
@@ -429,7 +429,7 @@ export default [
     waypointName: 'Thistlereed Waypoint',
     waypointCode: '[&BFECAAA=]',
     items: [{ id: 12532, quantity: 8 }],
-    optimal: 1202
+    optimal: 1202,
   },
   {
     id: 58,
@@ -441,7 +441,7 @@ export default [
     waypointName: 'Oxbow Isle Waypoint',
     waypointCode: '[&BNECAAA=]',
     items: [{ id: 12512, quantity: 8 }],
-    optimal: 1301
+    optimal: 1301,
   },
   {
     id: 59,
@@ -453,7 +453,7 @@ export default [
     materialName: 'Rich Platinum',
     waypointName: 'Old Sledge Site Waypoint',
     waypointCode: '[&BNQCAAA=]',
-    optimal: 1302
+    optimal: 1302,
   },
   {
     id: 60,
@@ -465,7 +465,7 @@ export default [
     materialName: 'Rich Platinum',
     waypointName: 'Criterion Waypoint',
     waypointCode: '[&BMkCAAA=]',
-    optimal: 1303
+    optimal: 1303,
   },
   {
     id: 61,
@@ -477,7 +477,7 @@ export default [
     waypointName: 'Plinth Timberland Waypoint',
     waypointCode: '[&BFgGAAA=]',
     items: [{ id: 12512, quantity: 8 }],
-    optimal: 1401
+    optimal: 1401,
   },
   {
     id: 62,
@@ -489,7 +489,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: 'Dire Shoal Waypoint',
     waypointCode: '[&BOUGAAA=]',
-    optimal: 1402
+    optimal: 1402,
   },
   {
     id: 75,
@@ -501,7 +501,7 @@ export default [
     waypointName: 'Waywarde Waypoint',
     waypointCode: '[&BPgCAAA=]',
     items: [{ id: 19722, quantity: 12 }],
-    optimal: 1403
+    optimal: 1403,
   },
   {
     id: 71,
@@ -513,7 +513,7 @@ export default [
     waypointName: "Pagga's Waypoint",
     waypointCode: '[&BKYCAAA=]',
     items: [{ id: 19722, quantity: 15 }],
-    optimal: 1501
+    optimal: 1501,
   },
   {
     id: 66,
@@ -525,7 +525,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: 'Waste Hollows',
     waypointCode: '[&BKgCAAA=]',
-    optimal: 1502
+    optimal: 1502,
   },
   {
     id: 67,
@@ -537,7 +537,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: 'Lights Waypoint',
     waypointCode: '[&BLICAAA=]',
-    optimal: 1503
+    optimal: 1503,
   },
   {
     id: 68,
@@ -549,7 +549,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: "Meddler's Waypoint",
     waypointCode: '[&BB4DAAA=]',
-    optimal: 1601
+    optimal: 1601,
   },
   {
     id: 69,
@@ -561,7 +561,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: 'Shipwreck Rock Waypoint',
     waypointCode: '[&BOQGAAA=]',
-    optimal: 1602
+    optimal: 1602,
   },
   {
     id: 52,
@@ -573,7 +573,7 @@ export default [
     materialName: 'Rich Platinum',
     waypointName: 'Flamefrog Waypoint',
     waypointCode: '[&BMwBAAA=]',
-    optimal: 1701
+    optimal: 1701,
   },
   {
     id: 51,
@@ -585,7 +585,7 @@ export default [
     waypointName: "Ocean's Gulley Waypoint",
     waypointCode: '[&BMkBAAA=]',
     items: [{ id: 12532, quantity: 8 }],
-    optimal: 1702
+    optimal: 1702,
   },
   {
     id: 53,
@@ -597,7 +597,7 @@ export default [
     materialName: 'Rich Platinum',
     waypointName: "Ocean's Gulley Waypoint",
     waypointCode: '[&BMkBAAA=]',
-    optimal: 1703
+    optimal: 1703,
   },
   {
     id: 45,
@@ -609,7 +609,7 @@ export default [
     materialName: 'Rich Platinum',
     waypointName: 'Mournful Waypoint',
     waypointCode: '[&BK0BAAA=]',
-    optimal: 1801
+    optimal: 1801,
   },
   {
     id: 44,
@@ -621,7 +621,7 @@ export default [
     waypointName: 'Remanda Waypoint',
     waypointCode: '[&BKcBAAA=]',
     items: [{ id: 12538, quantity: 8 }],
-    optimal: 1802
+    optimal: 1802,
   },
   {
     id: 25,
@@ -633,7 +633,7 @@ export default [
     materialName: 'Rich Iron',
     waypointName: 'Icegate Waypoint',
     waypointCode: '[&BJMBAAA=]',
-    optimal: 1901
+    optimal: 1901,
   },
   {
     id: 26,
@@ -645,7 +645,7 @@ export default [
     materialName: 'Rich Silver',
     waypointName: 'Icegate Waypoint',
     waypointCode: '[&BJMBAAA=]',
-    optimal: 1902
+    optimal: 1902,
   },
   {
     id: 24,
@@ -657,7 +657,7 @@ export default [
     waypointName: 'Provern Shore Waypoint',
     waypointCode: '[&BOQAAAA=]',
     items: [{ id: 12241, quantity: 8 }],
-    optimal: 1903
+    optimal: 1903,
   },
   {
     id: 37,
@@ -669,7 +669,7 @@ export default [
     materialName: 'Rich Gold',
     waypointName: 'Cloven Hoof Waypoint',
     waypointCode: '[&BLEAAAA=]',
-    optimal: 2001
+    optimal: 2001,
   },
   {
     id: 36,
@@ -681,7 +681,7 @@ export default [
     materialName: 'Rich Iron',
     waypointName: 'Demetra Waypoint',
     waypointCode: '[&BKsAAAA=]',
-    optimal: 2002
+    optimal: 2002,
   },
   {
     id: 35,
@@ -693,7 +693,7 @@ export default [
     waypointName: 'Demetra Waypoint',
     waypointCode: '[&BKsAAAA=]',
     items: [{ id: 12332, quantity: 8 }],
-    optimal: 2003
+    optimal: 2003,
   },
   {
     id: 4,
@@ -705,7 +705,7 @@ export default [
     waypointName: 'Beetletun Waypoint',
     waypointCode: '[&BPoAAAA=]',
     items: [{ id: 12238, quantity: 8 }],
-    optimal: 2101
+    optimal: 2101,
   },
   {
     id: 5,
@@ -717,7 +717,7 @@ export default [
     materialName: 'Rich Copper',
     waypointName: 'Phinney Waypoint',
     waypointCode: '[&BPMAAAA=]',
-    optimal: 2102
+    optimal: 2102,
   },
   {
     id: 6,
@@ -729,7 +729,7 @@ export default [
     materialName: 'Rich Copper',
     waypointName: 'Godslost Waypoint',
     waypointCode: '[&BPwAAAA=]',
-    optimal: 2103
+    optimal: 2103,
   },
   {
     id: 17,
@@ -739,13 +739,13 @@ export default [
     material: ['iron', 'silver'],
     items: [
       { id: 19699, quantity: 10, ore: true },
-      { id: 19703, quantity: 10, ore: true }
+      { id: 19703, quantity: 10, ore: true },
     ],
     alternating_items: true,
     materialName: 'Rich Iron or Silver',
     waypointName: "Overlord's Waypoint",
     waypointCode: '[&BAQAAAA=]',
-    optimal: 2201
+    optimal: 2201,
   },
   {
     id: 14,
@@ -757,7 +757,7 @@ export default [
     waypointName: 'Cereboth Waypoint',
     waypointCode: '[&BBIAAAA=]',
     items: [{ id: 12253, quantity: 8 }],
-    optimal: 2202
+    optimal: 2202,
   },
   {
     id: 15,
@@ -767,13 +767,13 @@ export default [
     material: ['iron', 'silver'],
     items: [
       { id: 19699, quantity: 10, ore: true },
-      { id: 19703, quantity: 10, ore: true }
+      { id: 19703, quantity: 10, ore: true },
     ],
     alternating_items: true,
     materialName: 'Rich Iron or Silver',
     waypointName: 'Cereboth Waypoint',
     waypointCode: '[&BBIAAAA=]',
-    optimal: 2203
+    optimal: 2203,
   },
   {
     id: 16,
@@ -783,13 +783,13 @@ export default [
     material: ['iron', 'silver'],
     items: [
       { id: 19699, quantity: 10, ore: true },
-      { id: 19703, quantity: 10, ore: true }
+      { id: 19703, quantity: 10, ore: true },
     ],
     alternating_items: true,
     materialName: 'Rich Iron or Silver',
     waypointName: 'Cereboth Waypoint',
     waypointCode: '[&BBIAAAA=]',
-    optimal: 2204
+    optimal: 2204,
   },
   {
     id: 9,
@@ -801,7 +801,7 @@ export default [
     materialName: 'Rich Copper',
     waypointName: 'Caledon Haven Waypoint',
     waypointCode: '[&BDwBAAA=]',
-    optimal: 2301
+    optimal: 2301,
   },
   {
     id: 7,
@@ -813,7 +813,7 @@ export default [
     waypointName: 'Kraitbane Haven Waypoint',
     waypointCode: '[&BEABAAA=]',
     items: [{ id: 12238, quantity: 8 }],
-    optimal: 2302
+    optimal: 2302,
   },
   {
     id: 8,
@@ -825,7 +825,7 @@ export default [
     materialName: 'Rich Copper',
     waypointName: 'Wychmire Waypoint',
     waypointCode: '[&BEEBAAA=]',
-    optimal: 2303
+    optimal: 2303,
   },
   {
     id: 10,
@@ -837,7 +837,7 @@ export default [
     waypointName: 'Akk Wilds Waypoint',
     waypointCode: '[&BEIAAAA=]',
     items: [{ id: 12135, quantity: 8 }],
-    optimal: 2401
+    optimal: 2401,
   },
   {
     id: 18,
@@ -849,7 +849,7 @@ export default [
     waypointName: 'Watchful Source Waypoint',
     waypointCode: '[&BFwAAAA=]',
     items: [{ id: 12241, quantity: 8 }],
-    optimal: 2501
+    optimal: 2501,
   },
   {
     id: 19,
@@ -861,7 +861,7 @@ export default [
     materialName: 'Rich Iron',
     waypointName: 'Gallowfields Waypoint',
     waypointCode: '[&BGMAAAA=]',
-    optimal: 2502
+    optimal: 2502,
   },
   {
     id: 20,
@@ -873,7 +873,7 @@ export default [
     materialName: 'Rich Silver',
     waypointName: 'Gallowfields Waypoint',
     waypointCode: '[&BGMAAAA=]',
-    optimal: 2503
+    optimal: 2503,
   },
   {
     id: 98,
@@ -885,7 +885,7 @@ export default [
     zone: 'Brisban Wildlands',
     region: 'Tarnished Coast',
     waypointName: 'Mrot Boru Waypoint',
-    optimal: 2504
+    optimal: 2504,
   },
   {
     id: 74,
@@ -897,7 +897,7 @@ export default [
     waypointName: "Owain's Refuge Waypoint",
     waypointCode: '[&BNgGAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
-    optimal: 2601
+    optimal: 2601,
   },
   {
     id: 83,
@@ -909,7 +909,7 @@ export default [
     materialName: 'Rich Mithril',
     waypointName: 'Pearl Islet Waypoint',
     waypointCode: '[&BNUGAAA=]',
-    optimal: 2602
+    optimal: 2602,
   },
   {
     id: 95,
@@ -921,7 +921,7 @@ export default [
     zone: 'Southsun Cove',
     region: 'Kryta',
     waypointName: 'Pearl Islet',
-    optimal: 2603
+    optimal: 2603,
   },
   {
     id: 70,
@@ -936,9 +936,9 @@ export default [
       { id: 12134, quantity: 4 },
       { id: 12238, quantity: 4 },
       { id: 12332, quantity: 2 },
-      { id: 66524, quantity: 4 }
+      { id: 66524, quantity: 4 },
     ],
-    optimal: 2701
+    optimal: 2701,
   },
   {
     id: 84,
@@ -950,7 +950,7 @@ export default [
     zone: 'Dry Top',
     region: 'Maguuma Wastes',
     waypointName: 'Prosperity Waypoint',
-    optimal: 2702
+    optimal: 2702,
   },
   {
     id: 85,
@@ -962,7 +962,7 @@ export default [
     zone: 'Dry Top',
     region: 'Maguuma Wastes',
     waypointName: 'Prosperity Waypoint',
-    optimal: 2703
+    optimal: 2703,
   },
   {
     id: 76,
@@ -975,7 +975,7 @@ export default [
     waypointCode: '[&BOAHAAA=]',
     videoGuide: 'Y1c1EebeOkA',
     items: [{ id: 74090, quantity: 12 }],
-    optimal: 2801
+    optimal: 2801,
   },
   {
     id: 97,
@@ -987,7 +987,7 @@ export default [
     zone: 'Verdant Brink',
     region: 'Heart of Maguuma',
     waypointName: 'Shipwreck Peak Waypoint',
-    optimal: 2802
+    optimal: 2802,
   },
   {
     id: 73,
@@ -1000,7 +1000,7 @@ export default [
     waypointCode: '[&BAUIAAA=]',
     videoGuide: 'LdQBK79j34Q',
     items: [{ id: 74090, quantity: 12 }],
-    optimal: 2901
+    optimal: 2901,
   },
   {
     id: 82,
@@ -1013,7 +1013,7 @@ export default [
     waypointCode: '[&BM0JAAA=]',
     videoGuide: 'Ef72rmRaQAk',
     items: [{ id: 74090, quantity: 15 }],
-    optimal: 3001
+    optimal: 3001,
   },
   {
     id: 81,
@@ -1025,7 +1025,7 @@ export default [
     materialName: 'Seaweed',
     waypointName: 'Promontory Waypoint',
     waypointCode: '[&BF8JAAA=]',
-    optimal: 3101
+    optimal: 3101,
   },
   {
     id: 86,
@@ -1037,7 +1037,7 @@ export default [
     zone: 'Auric Basin',
     region: 'Heart of Maguuma',
     waypointName: 'Eastwatch Waypoint',
-    optimal: 3201
+    optimal: 3201,
   },
   {
     id: 87,
@@ -1049,7 +1049,7 @@ export default [
     zone: 'Desert Highlands',
     region: 'Crystal Desert',
     waypointName: 'Highjump Ranch Waypoint',
-    optimal: 3301
+    optimal: 3301,
   },
   {
     id: 88,
@@ -1061,7 +1061,7 @@ export default [
     zone: 'Desert Highlands',
     region: 'Crystal Desert',
     waypointName: 'Brightwater Waypoint',
-    optimal: 3302
+    optimal: 3302,
   },
   {
     id: 89,
@@ -1073,7 +1073,7 @@ export default [
     zone: 'Desert Highlands',
     region: 'Crystal Desert',
     waypointName: 'Brightwater Waypoint',
-    optimal: 3303
+    optimal: 3303,
   },
   {
     id: 92,
@@ -1085,7 +1085,7 @@ export default [
     zone: 'Desert Highlands',
     region: 'Crystal Desert',
     waypointName: 'Brightwater Waypoint',
-    optimal: 3304
+    optimal: 3304,
   },
   {
     id: 90,
@@ -1097,7 +1097,7 @@ export default [
     zone: 'Crystal Oasis',
     region: 'Crystal Desert',
     waypointName: 'Amnoon Waypoint',
-    optimal: 3401
+    optimal: 3401,
   },
   {
     id: 91,
@@ -1109,7 +1109,7 @@ export default [
     zone: 'Crystal Oasis',
     region: 'Crystal Desert',
     waypointName: "Destiny's Gorge Waypoint",
-    optimal: 3402
+    optimal: 3402,
   },
   {
     id: 96,
@@ -1121,7 +1121,7 @@ export default [
     zone: 'Crystal Oasis',
     region: 'Crystal Desert',
     waypointName: 'Temple of Kormir Waypoint',
-    optimal: 3403
+    optimal: 3403,
   },
   {
     id: 101,
@@ -1131,12 +1131,12 @@ export default [
     material: ['mithril', 'quartz'],
     items: [
       { id: 19700, quantity: 10, ore: true },
-      { id: 43773, quantity: 3, ore: true }
+      { id: 43773, quantity: 3, ore: true },
     ],
     materialName: 'Quartz & Rich Mithril',
     waypointName: "Destiny's Gorge Waypoint",
     waypointCode: '[&BJMKAAA=]',
-    optimal: 3404
+    optimal: 3404,
   },
   {
     id: 93,
@@ -1148,7 +1148,7 @@ export default [
     zone: 'The Desolation',
     region: 'Crystal Desert',
     waypointName: 'Bonestrand Waypoint',
-    optimal: 3501
+    optimal: 3501,
   },
   {
     id: 94,
@@ -1157,14 +1157,14 @@ export default [
     items: [
       { id: 12512, quantity: 4 },
       { id: 12332, quantity: 4 },
-      { id: 82866, quantity: 4 }
+      { id: 82866, quantity: 4 },
     ],
     material: ['cabbage', 'artichoke', 'lentils'],
     materialName: 'Cabbage, Artichoke, Lentils, Cluster of Desert Herbs, Desert Vegetables',
     zone: 'Sandswept Isles',
     region: 'Crystal Desert',
     waypointName: 'Atholma Waypoint',
-    optimal: 3601
+    optimal: 3601,
   },
   {
     id: 111,
@@ -1176,7 +1176,7 @@ export default [
     items: [{ id: 19701, quantity: 10, ore: true }],
     material: 'orichalcum',
     materialName: 'Rich Orichalcum',
-    optimal: 3601.5
+    optimal: 3601.5,
   },
   {
     id: 99,
@@ -1188,7 +1188,7 @@ export default [
     zone: 'Thunderhead Peaks',
     region: 'Shiverpeak Mountains',
     waypointName: "History's End Waypoint",
-    optimal: 3701
+    optimal: 3701,
   },
   {
     id: 100,
@@ -1200,7 +1200,7 @@ export default [
     zone: 'Thunderhead Peaks',
     region: 'Shiverpeak Mountains',
     waypointName: 'Moorage Waypoint',
-    optimal: 3702
+    optimal: 3702,
   },
   {
     id: 102,
@@ -1211,8 +1211,8 @@ export default [
     materialName: 'Flax',
     zone: 'Bloodstone Fen',
     region: 'Fragmented Wastes',
-    waypointName: 'Zealot\'s Overlook',
-    optimal: 3801
+    waypointName: "Zealot's Overlook",
+    optimal: 3801,
   },
   {
     id: 103,
@@ -1224,7 +1224,7 @@ export default [
     zone: 'Domain of Kourna',
     region: 'Arkjok Farmlands',
     waypointName: 'Allied Encampment',
-    optimal: 3810
+    optimal: 3810,
   },
   {
     id: 104,
@@ -1236,7 +1236,7 @@ export default [
     zone: 'Jahai Bluffs',
     region: 'Jungle Anomaly',
     waypointName: 'Reclaimed Chantry Waypoint',
-    optimal: 3820
+    optimal: 3820,
   },
   {
     id: 105,
@@ -1248,7 +1248,7 @@ export default [
     zone: 'Sandswept Isles',
     region: 'The Ruined Paths',
     waypointName: 'Atholma Waypoint',
-    optimal: 3602
+    optimal: 3602,
   },
   {
     id: 106,
@@ -1260,31 +1260,31 @@ export default [
     zone: 'Ember Bay',
     region: 'Osprey Pillars',
     waypointName: 'Castaway Circus Waypoint',
-    optimal: 3102
+    optimal: 3102,
   },
   {
     id: 107,
-    image: 'Elder Wood - Siren\'s Landing - Camp Reclamation Waypoint.png',
+    image: "Elder Wood - Siren's Landing - Camp Reclamation Waypoint.png",
     waypointCode: '[&BO8JAAA=]',
     material: 'elderwood',
     materialName: 'Elder Wood',
     items: [{ id: 19722, quantity: 12 }],
-    zone: 'Siren\'s Landing',
+    zone: "Siren's Landing",
     region: 'Merciless Shore',
     waypointName: 'Camp Reclamation Waypoint',
-    optimal: 3804
+    optimal: 3804,
   },
   {
     id: 108,
-    image: 'Elder Wood - Soulkeeper\'s Airship Waypoint.png',
+    image: "Elder Wood - Soulkeeper's Airship Waypoint.png",
     waypointCode: '[&BEsJAAA=]',
     material: 'elderwood',
     materialName: 'Elder Wood',
     items: [{ id: 19722, quantity: 14 }],
     zone: 'Bloodstone Fen',
     region: 'Haunted Canyons',
-    waypointName: 'Soulkeeper\'s Airship Waypoint',
-    optimal: 3802
+    waypointName: "Soulkeeper's Airship Waypoint",
+    optimal: 3802,
   },
   {
     id: 109,
@@ -1296,7 +1296,7 @@ export default [
     waypointName: 'Bonestrand Waypoint',
     waypointCode: '[&BNwKAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
-    optimal: 4000
+    optimal: 4000,
   },
   {
     id: 110,
@@ -1308,7 +1308,7 @@ export default [
     waypointName: 'Bonestrand Waypoint',
     waypointCode: '[&BNwKAAA=]',
     items: [{ id: 19701, quantity: 10, ore: true }],
-    optimal: 4001
+    optimal: 4001,
   },
   {
     id: 112,
@@ -1320,7 +1320,7 @@ export default [
     waypointName: 'Market Ruins Waypoint',
     waypointCode: '[&BHQKAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
-    optimal: 4002
+    optimal: 4002,
   },
   {
     id: 113,
@@ -1332,7 +1332,7 @@ export default [
     waypointName: 'Market Ruins Waypoint',
     waypointCode: '[&BHQKAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
-    optimal: 4003
+    optimal: 4003,
   },
   {
     id: 114,
@@ -1344,7 +1344,7 @@ export default [
     waypointName: 'Market Ruins Waypoint',
     waypointCode: '[&BHQKAAA=]',
     items: [{ id: 19701, quantity: 10, ore: true }],
-    optimal: 4004
+    optimal: 4004,
   },
   {
     id: 115,
@@ -1356,7 +1356,7 @@ export default [
     waypointName: 'Market Ruins Waypoint',
     waypointCode: '[&BHQKAAA=]',
     items: [{ id: 19701, quantity: 10, ore: true }],
-    optimal: 4005
+    optimal: 4005,
   },
   {
     id: 116,
@@ -1368,24 +1368,24 @@ export default [
     items: [{ id: 19701, quantity: 3, ore: true }],
     waypointName: 'Forward Camp Waypoint',
     waypointCode: '[&BHIMAAA=]',
-    optimal: 4006
+    optimal: 4006,
   },
   {
     id: 118,
     image: 'Domain of Kourna1.png',
     zone: 'Domain of Kourna',
     region: 'Dabiji Hollows',
-    material: '['mithril', 'orichalcum'],
-    materialName: 'Rich Mithril', 'Rich Orichalcum',
+    material: ['mithril', 'orichalcum'],
+    materialName: 'Rich Mithril, Rich Orichalcum',
     items: [
-    { id: 19700, quantity: 10, ore: true },
-    { id: 19701, quantity: 10, ore: true }
+      { id: 19700, quantity: 10, ore: true },
+      { id: 19701, quantity: 10, ore: true },
     ],
     waypointName: 'Allied Encampment Waypoint',
     waypointCode: '[&BFcLAAA=]',
     optimal: 4007,
   },
-    {
+  {
     id: 119,
     image: 'The Desolation2.png',
     zone: 'The Desolation',
@@ -1397,7 +1397,7 @@ export default [
     waypointCode: '[&BHcKAAA=]',
     optimal: 4008,
   },
-    {
+  {
     id: 120,
     image: 'The Desolation3.png',
     zone: 'The Desolation',
@@ -1437,7 +1437,7 @@ export default [
     id: 123,
     image: 'Crystal Oasis2.png',
     zone: 'Crystal Oasis',
-    region: 'Diviner's Passage',
+    region: "Diviner's Passage",
     material: 'orichalcum',
     materialName: 'Rich Orichalcum',
     items: [{ id: 19701, quantity: 10, ore: true }],
@@ -1450,15 +1450,15 @@ export default [
     image: 'Grothmar Valley1.png',
     zone: 'Grothmar Valley',
     region: 'Rusty Meadows',
-    material: '['cabbage', 'lettuce', 'potatoes', 'strawberries', 'pumpkins', 'zucchini']',
-    materialName: 'Cabbage', 'Lettuce', 'Potatoes', 'Strawberries', 'Sugar Pumpkins', 'Zucchini',
-    items: [ 
-    { id: 12332, quantity: 3 },
-    { id: 12238, quantity: 3 }, 
-    { id: 12135, quantity: 3 }, 
-    { id: 12253, quantity: 3 }, 
-    { id: 12538, quantity: 3 }, 
-    { id: 12330, quantity: 3 }
+    material: ['cabbage', 'lettuce', 'potatoes', 'strawberries', 'pumpkins', 'zucchini'],
+    materialName: 'Cabbage, Lettuce, Potatoes, Strawberries, Sugar Pumpkins, Zucchini',
+    items: [
+      { id: 12332, quantity: 3 },
+      { id: 12238, quantity: 3 },
+      { id: 12135, quantity: 3 },
+      { id: 12253, quantity: 3 },
+      { id: 12538, quantity: 3 },
+      { id: 12330, quantity: 3 },
     ],
     waypointName: 'Blood Keep Waypoint',
     waypointCode: '[&BBsMAAA=]',
@@ -1469,19 +1469,31 @@ export default [
     image: 'Seitung Province1.png',
     zone: 'Seitung Province',
     region: 'Seitung Harbor',
-    material: '['cabbage', 'carrot', 'flax', 'thyme', 'parsley', 'lotus', 'potatoes', 'soybeans', 'pumpkins', 'zucchini']',
-    materialName: 'Cabbage', 'Carrot', 'Flax', 'Thyme', 'Parsley', 'Lotus', 'Potatoes', 'Soybeans', 'Sugar Pumpkins', 'Zucchini',
-    items: [ 
-    { id: 12332, quantity: 3 }, 
-    { id: 12134, quantity: 3 }, 
-    { id: 74090, quantity: 5 }, 
-    { id: 12248, quantity: 1 }, 
-    { id: 12246, quantity: 1 }, 
-    { id: 12510, quantity: 9 }, 
-    { id: 12135, quantity: 4 },
-    { id: 97105, quantity: 3 },
-    { id: 12538, quantity: 4 },
-    { id: 12330, quantity: 4 }
+    material: [
+      'cabbage',
+      'carrot',
+      'flax',
+      'thyme',
+      'parsley',
+      'lotus',
+      'potatoes',
+      'soybeans',
+      'pumpkins',
+      'zucchini',
+    ],
+    materialName:
+      'Cabbage, Carrot, Flax, Thyme, Parsley, Lotus, Potatoes, Soybeans, Sugar Pumpkins, Zucchini',
+    items: [
+      { id: 12332, quantity: 3 },
+      { id: 12134, quantity: 3 },
+      { id: 74090, quantity: 5 },
+      { id: 12248, quantity: 1 },
+      { id: 12246, quantity: 1 },
+      { id: 12510, quantity: 9 },
+      { id: 12135, quantity: 4 },
+      { id: 97105, quantity: 3 },
+      { id: 12538, quantity: 4 },
+      { id: 12330, quantity: 4 },
     ],
     waypointName: 'Village Waypoint',
     waypointCode: '[&BJ4MAAA=]',
