@@ -1,7 +1,8 @@
-export default [
+const GATHERING_NODES = [
   {
     id: 31,
     image: 'Fields of Ruin - Perma Grapes.jpg',
+    area: 'Wildlin Narrows',
     zone: 'Fields of Ruin',
     region: 'Ascalon',
     material: 'grapes',
@@ -14,6 +15,7 @@ export default [
   {
     id: 32,
     image: 'Fields of Ruin - Perma Rich Iron.jpg',
+    area: 'Dragonrot Domains',
     zone: 'Fields of Ruin',
     region: 'Ascalon',
     material: 'iron',
@@ -26,6 +28,7 @@ export default [
   {
     id: 34,
     image: 'Fields of Ruin - Perma Rich Gold.jpg',
+    area: 'Highden Caves',
     zone: 'Fields of Ruin',
     region: 'Ascalon',
     material: 'gold',
@@ -38,6 +41,7 @@ export default [
   {
     id: 33,
     image: 'Fields of Ruin - Perma Rich Silver.jpg',
+    area: 'Halkor Meadows',
     zone: 'Fields of Ruin',
     region: 'Ascalon',
     material: 'silver',
@@ -50,6 +54,7 @@ export default [
   {
     id: 39,
     image: 'Blazeridge Steppes - Perma Rich Iron.jpg',
+    area: 'Behem Gauntlet',
     zone: 'Blazeridge Steppes',
     region: 'Ascalon',
     material: 'iron',
@@ -62,6 +67,7 @@ export default [
   {
     id: 38,
     image: 'Blazeridge Steppes - Perma Cabbage.jpg',
+    area: 'Heretic Plain',
     zone: 'Blazeridge Steppes',
     region: 'Ascalon',
     material: 'cabbage',
@@ -74,6 +80,7 @@ export default [
   {
     id: 40,
     image: 'Blazeridge Steppes - Perma Rich Gold.jpg',
+    area: 'Terra Carorunda',
     zone: 'Blazeridge Steppes',
     region: 'Ascalon',
     material: 'gold',
@@ -86,6 +93,7 @@ export default [
   {
     id: 47,
     image: 'Iron Marches - Perma Rich Platinum.jpg',
+    area: 'Ebbing Heart Run',
     zone: 'Iron Marches',
     region: 'Ascalon',
     material: 'platinum',
@@ -98,6 +106,7 @@ export default [
   {
     id: 48,
     image: 'Iron Marches - Perma Rich Platinum 2.jpg',
+    area: 'Gladefall Run',
     zone: 'Iron Marches',
     region: 'Ascalon',
     material: 'platinum',
@@ -110,6 +119,7 @@ export default [
   {
     id: 46,
     image: 'Iron Marches - Perma Sugar Pumpkins.jpg',
+    area: 'Victium Moors',
     zone: 'Iron Marches',
     region: 'Ascalon',
     material: 'pumpkins',
@@ -122,6 +132,7 @@ export default [
   {
     id: 1,
     image: 'Plains of Ashford - Perma Potatoes.jpg',
+    area: 'Loreclaw Expanse',
     zone: 'Plains of Ashford',
     region: 'Ascalon',
     material: 'potatoes',
@@ -134,6 +145,7 @@ export default [
   {
     id: 2,
     image: 'Plains of Ashford - Perma Rich Copper.jpg',
+    area: 'Windrock Maze',
     zone: 'Plains of Ashford',
     region: 'Ascalon',
     material: 'copper',
@@ -146,6 +158,7 @@ export default [
   {
     id: 3,
     image: 'Plains of Ashford - Perma Rich Copper 2.jpg',
+    area: 'Victor\'s Presidium',
     zone: 'Plains of Ashford',
     region: 'Ascalon',
     material: 'copper',
@@ -158,6 +171,7 @@ export default [
   {
     id: 11,
     image: 'Diessa Plateau - Perma Strawberry Patch.jpg',
+    area: 'Town of Nolan',
     zone: 'Diessa Plateau',
     region: 'Ascalon',
     material: 'strawberries',
@@ -170,6 +184,7 @@ export default [
   {
     id: 12,
     image: 'Diessa Plateau - Perma Rich Iron.jpg',
+    area: 'Arcovian Foothills',
     zone: 'Diessa Plateau',
     region: 'Ascalon',
     material: 'iron',
@@ -182,6 +197,7 @@ export default [
   {
     id: 13,
     image: 'Diessa Plateau - Perma Rich Silver.jpg',
+    area: 'The Blasted Moors',
     zone: 'Diessa Plateau',
     region: 'Ascalon',
     material: 'silver',
@@ -194,6 +210,7 @@ export default [
   {
     id: 54,
     image: 'Fireheart Rise - Perma Butternut Squash.jpg',
+    area: 'Apostate Wastes',
     zone: 'Fireheart Rise',
     region: 'Ascalon',
     material: 'butternut',
@@ -206,6 +223,7 @@ export default [
   {
     id: 56,
     image: 'Fireheart Rise - Perma Rich Platinum 2.jpg',
+    area: 'Rebel\'s Seclusion',
     zone: 'Fireheart Rise',
     region: 'Ascalon',
     material: 'platinum',
@@ -218,6 +236,7 @@ export default [
   {
     id: 57,
     image: 'Fireheart Rise - Perma Rich Mithril.jpg',
+    area: 'The Baelfire',
     zone: 'Fireheart Rise',
     region: 'Ascalon',
     material: 'mithril',
@@ -230,6 +249,7 @@ export default [
   {
     id: 55,
     image: 'Fireheart Rise - Perma Rich Platinum.jpg',
+    area: 'Onager Bivouac',
     zone: 'Fireheart Rise',
     region: 'Ascalon',
     material: 'platinum',
@@ -242,6 +262,7 @@ export default [
   {
     id: 63,
     image: 'Frostgorge Sound - Perma Butternut Squash.jpg',
+    area: 'Arundon Vale',
     zone: 'Frostgorge Sound',
     region: 'Shiverpeak Mountains',
     material: 'butternut',
@@ -254,18 +275,20 @@ export default [
   {
     id: 64,
     image: 'Frostgorge Sound - Perma Rich Mithril.jpg',
+    area: 'Grimstone Mol',
     zone: 'Frostgorge Sound',
     region: 'Shiverpeak Mountains',
     material: 'mithril',
     items: [{ id: 19700, quantity: 10, ore: true }],
     materialName: 'Rich Mithril',
-    waypointName: 'Slough of Despond',
+    waypointName: 'Slough of Despond Waypoint',
     waypointCode: '[&BHwCAAA=]',
     optimal: 702,
   },
   {
     id: 65,
     image: 'Frostgorge Sound - Perma Rich Mithril 2.jpg',
+    area: 'Bore Lynch',
     zone: 'Frostgorge Sound',
     region: 'Shiverpeak Mountains',
     material: 'mithril',
@@ -278,6 +301,7 @@ export default [
   {
     id: 80,
     image: 'Bitterfrost Frontier - Permanent Mithril.jpg',
+    area: 'Blizzard Basin',
     zone: 'Bitterfrost Frontier',
     region: 'Shiverpeak Mountains',
     material: 'mithril',
@@ -290,6 +314,7 @@ export default [
   {
     id: 22,
     image: 'Snowden Drifts - Perma Rich Iron.jpg',
+    area: 'Reaver\'s Dale',
     zone: 'Snowden Drifts',
     region: 'Shiverpeak Mountains',
     material: 'iron',
@@ -302,6 +327,7 @@ export default [
   {
     id: 21,
     image: 'Snowden Drifts - Perma Strawberry Patch.jpg',
+    area: 'Griffonfall',
     zone: 'Snowden Drifts',
     region: 'Shiverpeak Mountains',
     material: 'strawberries',
@@ -314,6 +340,7 @@ export default [
   {
     id: 23,
     image: 'Snowden Drifts - Perma Rich Silver.jpg',
+    area: 'Valslake',
     zone: 'Snowden Drifts',
     region: 'Shiverpeak Mountains',
     material: 'silver',
@@ -326,6 +353,7 @@ export default [
   {
     id: 28,
     image: "Lornar's Pass - Perma Rich Iron.jpg",
+    area: 'Icedevil\'s Needle',
     zone: "Lornar's Pass",
     region: 'Shiverpeak Mountains',
     material: 'iron',
@@ -338,6 +366,7 @@ export default [
   {
     id: 29,
     image: "Lornar's Pass - Perma Rich Silver.jpg",
+    area: 'Durmand Priory',
     zone: "Lornar's Pass",
     region: 'Shiverpeak Mountains',
     material: 'silver',
@@ -350,6 +379,7 @@ export default [
   {
     id: 27,
     image: "Lornar's Pass - Perma Grapes.jpg",
+    area: 'False Lake',
     zone: "Lornar's Pass",
     region: 'Shiverpeak Mountains',
     material: 'grapes',
@@ -362,6 +392,7 @@ export default [
   {
     id: 30,
     image: "Lornar's Pass - Perma Rich Gold.jpg",
+    area: 'Demon\'s Maw',
     zone: "Lornar's Pass",
     region: 'Shiverpeak Mountains',
     material: 'gold',
@@ -374,6 +405,7 @@ export default [
   {
     id: 42,
     image: 'Dredgehaunt Cliffs - Perma Rich Iron.jpg',
+    area: 'Kolkorensburg',
     zone: 'Dredgehaunt Cliffs',
     region: 'Shiverpeak Mountains',
     material: 'iron',
@@ -386,11 +418,12 @@ export default [
   {
     id: 41,
     image: 'Dredgehaunt Cliffs - Perma Cabbage.jpg',
+    area: 'The Wide Expanse',
     zone: 'Dredgehaunt Cliffs',
     region: 'Shiverpeak Mountains',
     material: 'cabbage',
     materialName: 'Cabbage',
-    waypointName: 'Wide Expanse',
+    waypointName: 'Wide Expanse Waypoint',
     waypointCode: '[&BF8CAAA=]',
     items: [{ id: 12332, quantity: 8 }],
     optimal: 1102,
@@ -398,18 +431,20 @@ export default [
   {
     id: 43,
     image: 'Dredgehaunt Cliffs - Perma Rich Gold.jpg',
+    area: 'Kapellenburg',
     zone: 'Dredgehaunt Cliffs',
     region: 'Shiverpeak Mountains',
     material: 'gold',
     items: [{ id: 19698, quantity: 10, ore: true }],
     materialName: 'Rich Gold',
-    waypointName: 'Steelbrachen',
+    waypointName: 'Steelbrachen Waypoint',
     waypointCode: '[&BFsCAAA=]',
     optimal: 1103,
   },
   {
     id: 50,
     image: 'Timberline Falls - Perma Rich Platinum.jpg',
+    area: 'Gentle River',
     zone: 'Timberline Falls',
     region: 'Shiverpeak Mountains',
     material: 'platinum',
@@ -422,6 +457,7 @@ export default [
   {
     id: 49,
     image: 'Timberline Falls - Perma Cauliflower.jpg',
+    area: 'Gentle River',
     zone: 'Timberline Falls',
     region: 'Shiverpeak Mountains',
     material: 'cauliflower',
@@ -434,6 +470,7 @@ export default [
   {
     id: 58,
     image: 'Mount Maelstrom - Perma Artichokes.jpg',
+    area: 'Treacherous Depths',
     zone: 'Mount Maelstrom',
     region: 'Tarnished Coast',
     material: 'artichoke',
@@ -446,6 +483,7 @@ export default [
   {
     id: 59,
     image: 'Mount Maelstrom - Perma Rich Platinum.jpg',
+    area: 'Sunken Droknah',
     zone: 'Mount Maelstrom',
     region: 'Tarnished Coast',
     material: 'platinum',
@@ -458,6 +496,7 @@ export default [
   {
     id: 60,
     image: 'Mount Maelstrom - Perma Rich Platinum 2.jpg',
+    area: 'Criterion Canyon',
     zone: 'Mount Maelstrom',
     region: 'Tarnished Coast',
     material: 'platinum',
@@ -470,6 +509,7 @@ export default [
   {
     id: 61,
     image: 'Straits of Devastation - Perma Artichokes.jpg',
+    area: 'Bramble Pass',
     zone: 'Straits of Devastation',
     region: 'Ruins of Orr',
     material: 'artichoke',
@@ -482,6 +522,7 @@ export default [
   {
     id: 62,
     image: 'Straits of Devastation - Perma Rich Mithril.jpg',
+    area: 'Straits of Malediction',
     zone: 'Straits of Devastation',
     region: 'Ruins of Orr',
     material: 'mithril',
@@ -494,6 +535,7 @@ export default [
   {
     id: 75,
     image: 'Straits of Devastation - Perma Elder Wood.jpg',
+    area: 'Waywarde Way',
     zone: 'Straits of Devastation',
     region: 'Ruins of Orr',
     material: 'elderwood',
@@ -506,6 +548,7 @@ export default [
   {
     id: 71,
     image: "Machor's Leap - Perma Elder Wood.jpg",
+    area: 'Theater of Delight',
     zone: "Malchor's Leap",
     region: 'Ruins of Orr',
     material: 'elderwood',
@@ -518,18 +561,20 @@ export default [
   {
     id: 66,
     image: "Malchor's Leap - Perma Rich Mithril.jpg",
+    area: 'Midwater Hollows',
     zone: "Malchor's Leap",
     region: 'Ruins of Orr',
     material: 'mithril',
     items: [{ id: 19700, quantity: 10, ore: true }],
     materialName: 'Rich Mithril',
-    waypointName: 'Waste Hollows',
+    waypointName: 'Waste Hollows Waypoint',
     waypointCode: '[&BKgCAAA=]',
     optimal: 1502,
   },
   {
     id: 67,
     image: "Malchor's Leap - Perma Rich Mithril 2.jpg",
+    area: 'Jinx Isle',
     zone: "Malchor's Leap",
     region: 'Ruins of Orr',
     material: 'mithril',
@@ -542,6 +587,7 @@ export default [
   {
     id: 68,
     image: 'Cursed Shore - Perma Rich Mithril.jpg',
+    area: 'The Shipyard',
     zone: 'Cursed Shore',
     region: 'Ruins of Orr',
     material: 'mithril',
@@ -554,6 +600,7 @@ export default [
   {
     id: 69,
     image: 'Cursed Shore - Perma Rich Mithril 2.jpg',
+    area: 'Mausollus Sea',
     zone: 'Cursed Shore',
     region: 'Ruins of Orr',
     material: 'mithril',
@@ -566,6 +613,7 @@ export default [
   {
     id: 52,
     image: 'Sparkfly Fen - Perma Rich Platinum.jpg',
+    area: 'Shimmerstone Cave',
     zone: 'Sparkfly Fen',
     region: 'Tarnished Coast',
     material: 'platinum',
@@ -578,6 +626,7 @@ export default [
   {
     id: 51,
     image: 'Sparkfly Fen - Perma Cauliflower.jpg',
+    area: 'Orvanic Shore',
     zone: 'Sparkfly Fen',
     region: 'Tarnished Coast',
     material: 'cauliflower',
@@ -590,6 +639,7 @@ export default [
   {
     id: 53,
     image: 'Sparkfly Fen - Perma Rich Platinum 2.jpg',
+    area: 'Karinn\'s Passage',
     zone: 'Sparkfly Fen',
     region: 'Tarnished Coast',
     material: 'platinum',
@@ -602,6 +652,7 @@ export default [
   {
     id: 45,
     image: 'Bloodtide Coast - Perma Rich Platinum.jpg',
+    area: 'Mole\'s Head',
     zone: 'Bloodtide Coast',
     region: 'Kryta',
     material: 'platinum',
@@ -614,6 +665,7 @@ export default [
   {
     id: 44,
     image: 'Bloodtide Coast - Perma Sugar Pumpkins.jpg',
+    area: 'Risewild Hills',
     zone: 'Bloodtide Coast',
     region: 'Kryta',
     material: 'pumpkins',
@@ -626,6 +678,7 @@ export default [
   {
     id: 25,
     image: 'Gendarran Fields - Perma Rich Iron.jpg',
+    area: 'Overlook Caverns',
     zone: 'Gendarran Fields',
     region: 'Kryta',
     material: 'iron',
@@ -638,6 +691,7 @@ export default [
   {
     id: 26,
     image: 'Gendarran Fields - Perma Rich Silver.jpg',
+    area: 'Icegate Gorge',
     zone: 'Gendarran Fields',
     region: 'Kryta',
     material: 'silver',
@@ -650,6 +704,7 @@ export default [
   {
     id: 24,
     image: 'Gendarren Fields - Perma Spinach.jpg',
+    area: 'Provernic Crypt',
     zone: 'Gendarran Fields',
     region: 'Kryta',
     material: 'spinach',
@@ -662,6 +717,7 @@ export default [
   {
     id: 37,
     image: 'Harathi Hinterlands - Perma Rich Gold.jpg',
+    area: 'Modniir Gorge',
     zone: 'Harathi Hinterlands',
     region: 'Kryta',
     material: 'gold',
@@ -674,6 +730,7 @@ export default [
   {
     id: 36,
     image: 'Harathi Hinterlands - Perma Rich Iron.jpg',
+    area: 'Ruins of Holy Demetra',
     zone: 'Harathi Hinterlands',
     region: 'Kryta',
     material: 'iron',
@@ -686,6 +743,7 @@ export default [
   {
     id: 35,
     image: 'Harathi Hinterlands - Perma Cabbage.jpg',
+    area: 'Ruins of Holy Demetra',
     zone: 'Harathi Hinterlands',
     region: 'Kryta',
     material: 'cabbage',
@@ -698,6 +756,7 @@ export default [
   {
     id: 4,
     image: 'Queensdale - Perma Lettuce.jpg',
+    area: 'Beetletun Farms',
     zone: 'Queensdale',
     region: 'Kryta',
     material: 'lettuce',
@@ -710,6 +769,7 @@ export default [
   {
     id: 5,
     image: 'Queensdale - Perma Rich Copper.jpg',
+    area: 'Phinney Ridge',
     zone: 'Queensdale',
     region: 'Kryta',
     material: 'copper',
@@ -722,6 +782,7 @@ export default [
   {
     id: 6,
     image: 'Queensdale - Perma Rich Copper 2.jpg',
+    area: 'Taminn Foothills',
     zone: 'Queensdale',
     region: 'Kryta',
     material: 'copper',
@@ -734,6 +795,7 @@ export default [
   {
     id: 17,
     image: 'Kessex Hills - Perma Rich Iron or Silver 3.jpg',
+    area: 'Overlord\'s Greatcamp',
     zone: 'Kessex Hills',
     region: 'Kryta',
     material: ['iron', 'silver'],
@@ -750,6 +812,7 @@ export default [
   {
     id: 14,
     image: 'Kessex Hills - Perma Strawberry Patch.jpg',
+    area: 'Wizard\'s Fief',
     zone: 'Kessex Hills',
     region: 'Kryta',
     material: 'strawberries',
@@ -762,6 +825,7 @@ export default [
   {
     id: 15,
     image: 'Kessex Hills - Perma Rich Iron or Silver.jpg',
+    area: 'Cereboth Canyon',
     zone: 'Kessex Hills',
     region: 'Kryta',
     material: ['iron', 'silver'],
@@ -778,6 +842,7 @@ export default [
   {
     id: 16,
     image: 'Kessex Hills - Perma Rich Iron or Silver 2.jpg',
+    area: 'Cereeboth Canyon',
     zone: 'Kessex Hills',
     region: 'Kryta',
     material: ['iron', 'silver'],
@@ -794,6 +859,7 @@ export default [
   {
     id: 9,
     image: 'Caledon Forest - Perma Rich Copper 2.jpg',
+    area: 'Ruins of the Unseen',
     zone: 'Caledon Forest',
     region: 'Tarnished Coast',
     material: 'copper',
@@ -806,6 +872,7 @@ export default [
   {
     id: 7,
     image: 'Caledon Forest - Perma Lettuce.jpg',
+    area: 'The Rowanwoods',
     zone: 'Caledon Forest',
     region: 'Tarnished Coast',
     material: 'lettuce',
@@ -818,6 +885,7 @@ export default [
   {
     id: 8,
     image: 'Caledon Forest - Perma Rich Copper.jpg',
+    area: 'Wychmire Swamp',
     zone: 'Caledon Forest',
     region: 'Tarnished Coast',
     material: 'copper',
@@ -830,6 +898,7 @@ export default [
   {
     id: 10,
     image: 'Metrica Province - Perma Potatoes.jpg',
+    area: 'Akk Wilds',
     zone: 'Metrica Province',
     region: 'Tarnished Coast',
     material: 'potatoes',
@@ -842,6 +911,7 @@ export default [
   {
     id: 18,
     image: 'Brisban Wildlands - Perma Spinach.jpg',
+    area: 'Karston Chambers',
     zone: 'Brisban Wildlands',
     region: 'Tarnished Coast',
     material: 'spinach',
@@ -854,6 +924,7 @@ export default [
   {
     id: 19,
     image: 'Brisban Wildlands - Perma Rich Iron.jpg',
+    area: 'The Gallowfields',
     zone: 'Brisban Wildlands',
     region: 'Tarnished Coast',
     material: 'iron',
@@ -866,6 +937,7 @@ export default [
   {
     id: 20,
     image: 'Brisban Wildlands - Perma Rich Silver.jpg',
+    area: 'Lionshead Outcrops',
     zone: 'Brisban Wildlands',
     region: 'Tarnished Coast',
     material: 'silver',
@@ -878,6 +950,7 @@ export default [
   {
     id: 98,
     image: '16 - Clams - Brisban Wildlands - Mrot Boru Waypoint.png',
+    area: 'Venlin Vale',
     items: [{ id: 12327, quantity: 7 }],
     waypointCode: '[&BHUAAAA=]',
     material: 'clams',
@@ -890,6 +963,7 @@ export default [
   {
     id: 74,
     image: 'Southsun Cove - Permanent Orichalcum.jpg',
+    area: 'Bakestone Cavern',
     zone: 'Southsun Cove',
     region: 'Kryta',
     material: 'orichalcum',
@@ -902,6 +976,7 @@ export default [
   {
     id: 83,
     image: '1 - Mithril - Southsun Cove - Pearl Islet Waypoint.png',
+    area: 'Dappled Shores',
     zone: 'Southsun Cove',
     region: 'Kryta',
     items: [{ id: 19700, quantity: 10, ore: true }],
@@ -914,18 +989,20 @@ export default [
   {
     id: 95,
     image: '13 - Passiflora - Southsun Cove - Pearl Islet Waypoint.png',
+    area: 'Dappled Shores',
     waypointCode: '[&BNUGAAA=]',
     items: [{ id: 36731, quantity: 8 }],
     material: 'passiflora',
     materialName: 'Passiflora',
     zone: 'Southsun Cove',
     region: 'Kryta',
-    waypointName: 'Pearl Islet',
+    waypointName: 'Pearl Islet Waypoint',
     optimal: 2603,
   },
   {
     id: 70,
     image: 'Dry Top - Perma Carrot Lettuce Cabbage & Cactus.jpg',
+    area: 'Uplands Oasis',
     zone: 'Dry Top',
     region: 'Maguuma Wastes',
     material: ['carrot', 'lettuce', 'cabbage', 'cactus'],
@@ -943,6 +1020,7 @@ export default [
   {
     id: 84,
     image: '2 - Quartz - Dry Top - Prosperity Waypoint.png',
+    area: 'Prospect Valley',
     waypointCode: '[&BHoHAAA=]',
     items: [{ id: 43773, quantity: 3, ore: true }],
     material: 'quartz',
@@ -955,6 +1033,7 @@ export default [
   {
     id: 85,
     image: '3 - Quartz - Dry Top - Prosperity Waypoint.png',
+    area: 'Prospect Valley',
     waypointCode: '[&BHoHAAA=]',
     items: [{ id: 43773, quantity: 3, ore: true }],
     material: 'quartz',
@@ -967,6 +1046,7 @@ export default [
   {
     id: 76,
     image: 'Verdant Brink - Perma Flax.jpg',
+    area: 'Jaka Itzel',
     zone: 'Verdant Brink',
     region: 'Heart of Maguuma',
     material: 'flax',
@@ -980,6 +1060,7 @@ export default [
   {
     id: 97,
     image: '15 - Mussels - Verdant Brink - Shipwreck Peak Waypoint.png',
+    area: 'Maguuma\'s Breach',
     waypointCode: '[&BN4HAAA=]',
     items: [{ id: 74266, quantity: 11 }],
     material: 'mussels',
@@ -992,6 +1073,7 @@ export default [
   {
     id: 73,
     image: 'Tangled Depths - Perma Flax.jpg',
+    area: 'The Great Tree',
     zone: 'Tangled Depths',
     region: 'Heart of Maguuma',
     material: 'flax',
@@ -1005,6 +1087,7 @@ export default [
   {
     id: 82,
     image: 'Draconis Mons - Flax.jpg',
+    area: 'Savage Rise',
     zone: 'Draconis Mons',
     region: 'Ring of Fire',
     material: 'flax',
@@ -1018,6 +1101,7 @@ export default [
   {
     id: 81,
     image: 'Ember Bay - Seaweed.jpg',
+    area: 'Sulfurous Deep',
     zone: 'Ember Bay',
     region: 'Heart of Maguuma',
     material: 'seaweed',
@@ -1030,6 +1114,7 @@ export default [
   {
     id: 86,
     image: '4 - Orichalcum - Auric Basin - Eastwatch Waypoint.png',
+    area: 'Eastwatch Bluff',
     waypointCode: '[&BGwIAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
     material: 'orichalcum',
@@ -1042,6 +1127,7 @@ export default [
   {
     id: 87,
     image: '5 - Orichalcum - Desert Highlands - Highjump Ranch Waypoint.png',
+    area: 'Stampede Uplands',
     waypointCode: '[&BJ0KAAA=]',
     items: [{ id: 19701, quantity: 10, ore: true }],
     material: 'orichalcum',
@@ -1054,6 +1140,7 @@ export default [
   {
     id: 88,
     image: '6 - Orichalcum - Desert Highlands - Brightwater Waypoint.png',
+    area: 'Brightwater Inlet',
     waypointCode: '[&BJEKAAA=]',
     items: [{ id: 19701, quantity: 10, ore: true }],
     material: 'orichalcum',
@@ -1066,6 +1153,7 @@ export default [
   {
     id: 89,
     image: '7 - Strawberry - Desert Highlands - Brightwater Waypoint.png',
+    area: 'Brightwater Inlet',
     waypointCode: '[&BJEKAAA=]',
     items: [{ id: 12253, quantity: 6 }],
     material: 'strawberries',
@@ -1078,6 +1166,7 @@ export default [
   {
     id: 92,
     image: '10 - Clams - Desert Highlands - Brightwater Waypoint.png',
+    area: 'Transcendent Bay',
     waypointCode: '[&BJEKAAA=]',
     items: [{ id: 12327, quantity: 7 }],
     material: 'clams',
@@ -1090,6 +1179,7 @@ export default [
   {
     id: 90,
     image: '8 - Clams - Crystal Oasis - Amnoon Waypoint.png',
+    area: 'Bay of Elon',
     waypointCode: '[&BLsKAAA=]',
     items: [{ id: 12327, quantity: 7 }],
     material: 'clams',
@@ -1102,6 +1192,7 @@ export default [
   {
     id: 91,
     image: "9 - Orichalcum - Crystal Oasis - Destiny's Gorge Waypoint.png",
+    area: 'Glint\'s Legacy',
     waypointCode: '[&BJMKAAA=]',
     items: [{ id: 19701, quantity: 10, ore: true }],
     material: 'orichalcum',
@@ -1114,6 +1205,7 @@ export default [
   {
     id: 96,
     image: '14 - Lentils - Crystal Oasis - Temple of Kormir Waypoint.png',
+    area: 'Elona Reach',
     items: [{ id: 82866, quantity: 8 }],
     waypointCode: '[&BEAKAAA=]',
     material: 'lentils',
@@ -1126,6 +1218,7 @@ export default [
   {
     id: 101,
     image: 'Crystal Oasis - Perma Rich Mithril.jpg',
+    area: 'Forged Foothold',
     zone: 'Crystal Oasis',
     region: 'Crystal Desert',
     material: ['mithril', 'quartz'],
@@ -1141,6 +1234,7 @@ export default [
   {
     id: 93,
     image: '11 - Carrots - The Desolation - Bonestrand Waypoint.png',
+    area: 'The Bonestrand',
     waypointCode: '[&BNwKAAA=]',
     items: [{ id: 12134, quantity: 7 }],
     material: 'carrot',
@@ -1153,6 +1247,7 @@ export default [
   {
     id: 94,
     image: '12 - Mixed - Sandswept Isles - Atholma Waypoint.png',
+    area: 'The Ruined Paths',
     waypointCode: '[&BEMLAAA=]',
     items: [
       { id: 12512, quantity: 4 },
@@ -1169,6 +1264,7 @@ export default [
   {
     id: 111,
     image: 'Sandswept Isles 1.png',
+    area: 'The Ruined Paths',
     waypointCode: '[&BEMLAAA=]',
     zone: 'Sandswept Isles',
     region: 'Crystal Desert',
@@ -1181,6 +1277,7 @@ export default [
   {
     id: 99,
     image: 'Iron - Thunderhead Peaks.jpg',
+    area: 'The Weeping Crest',
     waypointCode: '[&BLsLAAA=]',
     items: [{ id: 19699, quantity: 24, ore: true }],
     material: 'iron',
@@ -1193,6 +1290,7 @@ export default [
   {
     id: 100,
     image: 'Platinum - Thunderhead Peaks.jpg',
+    area: 'Hundar Pike',
     waypointCode: '[&BLoLAAA=]',
     items: [{ id: 19702, quantity: 21, ore: true }],
     material: 'platinum',
@@ -1205,90 +1303,98 @@ export default [
   {
     id: 102,
     image: 'Flax - Overlook Waypoint.png',
+    area: 'Fragmented Wastes',
     waypointCode: '[&BE4JAAA=]',
     items: [{ id: 74090, quantity: 12 }],
     material: 'flax',
     materialName: 'Flax',
     zone: 'Bloodstone Fen',
-    region: 'Fragmented Wastes',
+    region: 'Heart of Maguuma',
     waypointName: "Zealot's Overlook",
     optimal: 3801,
   },
   {
     id: 103,
     image: 'Flax - Allied Encampment Waypoint.png',
+    area: 'Arkjok Farmlands',
     waypointCode: '[&BFcLAAA=]',
     items: [{ id: 74090, quantity: 12 }],
     material: 'flax',
     materialName: 'Flax',
     zone: 'Domain of Kourna',
-    region: 'Arkjok Farmlands',
+    region: 'Crystal Desert',
     waypointName: 'Allied Encampment',
     optimal: 3810,
   },
   {
     id: 104,
     image: 'Flax - Reclaimed Chantry Waypoint.png',
+    area: 'Jungle Anomaly',
     waypointCode: '[&BJkLAAA=]',
     items: [{ id: 74090, quantity: 12 }],
     material: 'flax',
     materialName: 'Flax',
     zone: 'Jahai Bluffs',
-    region: 'Jungle Anomaly',
+    region: 'Crystal Desert',
     waypointName: 'Reclaimed Chantry Waypoint',
     optimal: 3820,
   },
   {
     id: 105,
     image: 'Orichalcum - Sandswept Isles - Atholma Waypoint.png',
+    area:'The Ruined Paths',
     waypointCode: '[&BEMLAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
     material: 'orichalcum',
     materialName: 'Orichalcum',
     zone: 'Sandswept Isles',
-    region: 'The Ruined Paths',
+    region: 'Crystal Desert',
     waypointName: 'Atholma Waypoint',
     optimal: 3602,
   },
   {
     id: 106,
     image: 'Elder Wood - Ember Bay - Castaway Circus Waypoint.png',
+    area: 'Osprey Pillars',
     waypointCode: '[&BHgJAAA=]',
     material: 'elderwood',
     materialName: 'Elder Wood',
     items: [{ id: 19722, quantity: 15 }],
     zone: 'Ember Bay',
-    region: 'Osprey Pillars',
+    region: 'Heart of Maguuma',
     waypointName: 'Castaway Circus Waypoint',
     optimal: 3102,
   },
   {
     id: 107,
     image: "Elder Wood - Siren's Landing - Camp Reclamation Waypoint.png",
+    area:'Merciless Shore',
     waypointCode: '[&BO8JAAA=]',
     material: 'elderwood',
     materialName: 'Elder Wood',
     items: [{ id: 19722, quantity: 12 }],
     zone: "Siren's Landing",
-    region: 'Merciless Shore',
+    region: 'Ruins of Orr',
     waypointName: 'Camp Reclamation Waypoint',
     optimal: 3804,
   },
   {
     id: 108,
     image: "Elder Wood - Soulkeeper's Airship Waypoint.png",
+    area: 'Haunted Canyons',
     waypointCode: '[&BEsJAAA=]',
     material: 'elderwood',
     materialName: 'Elder Wood',
     items: [{ id: 19722, quantity: 14 }],
     zone: 'Bloodstone Fen',
-    region: 'Haunted Canyons',
+    region: 'Heart of Maguuma',
     waypointName: "Soulkeeper's Airship Waypoint",
     optimal: 3802,
   },
   {
     id: 109,
     image: 'The Desolation 1.png',
+    area:'Silent Vale',
     zone: 'The Desolation',
     region: 'Crystal Desert',
     material: 'orichalcum',
@@ -1301,6 +1407,7 @@ export default [
   {
     id: 110,
     image: 'The Desolation 2.png',
+    area:'Silent Vale',
     zone: 'The Desolation',
     region: 'Crystal Desert',
     material: 'orichalcum',
@@ -1313,6 +1420,7 @@ export default [
   {
     id: 112,
     image: 'Vabbi 1.png',
+    area:'Kodash Bazaar',
     zone: 'Domain of Vabbi',
     region: 'Crystal Desert',
     material: 'orichalcum',
@@ -1325,6 +1433,7 @@ export default [
   {
     id: 113,
     image: 'Vabbi 2.png',
+    area: 'Zagonur Cliffs',
     zone: 'Domain of Vabbi',
     region: 'Crystal Desert',
     material: 'orichalcum',
@@ -1337,6 +1446,7 @@ export default [
   {
     id: 114,
     image: 'Vabbi 3.png',
+    area: 'Yahnur Plateau',
     zone: 'Domain of Vabbi',
     region: 'Crystal Desert',
     material: 'orichalcum',
@@ -1349,6 +1459,7 @@ export default [
   {
     id: 115,
     image: 'Vabbi 4.png',
+    area: 'Yahnur Plateau',
     zone: 'Domain of Vabbi',
     region: 'Crystal Desert',
     material: 'orichalcum',
@@ -1361,6 +1472,7 @@ export default [
   {
     id: 116,
     image: 'Drizzlewood1.png',
+    area: 'Legion\'s Alcove',
     zone: 'Drizzlewood Coast',
     region: 'Shiverpeak Mountains',
     material: 'orichalcum',
@@ -1373,8 +1485,9 @@ export default [
   {
     id: 118,
     image: 'Domain of Kourna1.png',
+    area: 'Dabiji Hollows',
     zone: 'Domain of Kourna',
-    region: 'Dabiji Hollows',
+    region: 'Crystal Desert',
     material: ['mithril', 'orichalcum'],
     materialName: 'Rich Mithril, Rich Orichalcum',
     items: [
@@ -1388,8 +1501,9 @@ export default [
   {
     id: 119,
     image: 'The Desolation2.png',
+    area: 'Sand Jackal Run',
     zone: 'The Desolation',
-    region: 'Sand Jackal Run',
+    region: 'Crystal Desert',
     material: 'orichalcum',
     materialName: 'Rich Orichalcum',
     items: [{ id: 19701, quantity: 10, ore: true }],
@@ -1400,8 +1514,9 @@ export default [
   {
     id: 120,
     image: 'The Desolation3.png',
+    area: 'Lair of the Forgotten',
     zone: 'The Desolation',
-    region: 'Lair of the Forgotten',
+    region: 'Crystal Desert',
     material: 'orichalcum',
     materialName: 'Rich Orichalcum',
     items: [{ id: 19701, quantity: 10, ore: true }],
@@ -1412,8 +1527,9 @@ export default [
   {
     id: 121,
     image: 'Vabbi 5.png',
+    area: 'The Necropolis',
     zone: 'Domain of Vabbi',
-    region: 'The Necropolis',
+    region: 'Crystal Desert',
     material: 'orichalcum',
     materialName: 'Rich Orichalcum',
     items: [{ id: 19701, quantity: 10, ore: true }],
@@ -1424,8 +1540,9 @@ export default [
   {
     id: 122,
     image: 'Crystal Oasis1.png',
+    area: 'Amnoon Southern Outskirts',
     zone: 'Crystal Oasis',
-    region: 'Amnoon Southern Outskirts',
+    region: 'Crystal Desert',
     material: 'orichalcum',
     materialName: 'Rich Orichalcum',
     items: [{ id: 19701, quantity: 10, ore: true }],
@@ -1436,8 +1553,9 @@ export default [
   {
     id: 123,
     image: 'Crystal Oasis2.png',
+    area: "Diviner's Passage",
     zone: 'Crystal Oasis',
-    region: "Diviner's Passage",
+    region: 'Crystal Desert',
     material: 'orichalcum',
     materialName: 'Rich Orichalcum',
     items: [{ id: 19701, quantity: 10, ore: true }],
@@ -1448,8 +1566,9 @@ export default [
   {
     id: 124,
     image: 'Grothmar Valley1.png',
+    area: 'Rusty Meadows',
     zone: 'Grothmar Valley',
-    region: 'Rusty Meadows',
+    region: 'Ascalon',
     material: ['cabbage', 'lettuce', 'potatoes', 'strawberries', 'pumpkins', 'zucchini'],
     materialName: 'Cabbage, Lettuce, Potatoes, Strawberries, Sugar Pumpkins, Zucchini',
     items: [
@@ -1467,8 +1586,9 @@ export default [
   {
     id: 125,
     image: 'Seitung Province1.png',
+    area: 'Seitung Harbor',
     zone: 'Seitung Province',
-    region: 'Seitung Harbor',
+    region: 'Cantha',
     material: [
       'cabbage',
       'carrot',
@@ -1501,3 +1621,18 @@ export default [
   },
   // id: 126
 ]
+
+const GATHERING_NODES_OPTIMIZED = JSON.parse(JSON.stringify(GATHERING_NODES));
+  
+  GATHERING_NODES_OPTIMIZED.sort((a, b) => {
+  if (a.region !== b.region) {
+    return a.region.localeCompare(b.region)
+  }
+  return a.zone - b.zone
+})
+
+GATHERING_NODES_OPTIMIZED.forEach((item, index) => {
+  item.optimal = index
+});
+
+export default GATHERING_NODES_OPTIMIZED
