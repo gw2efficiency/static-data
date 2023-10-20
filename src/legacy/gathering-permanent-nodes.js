@@ -10,7 +10,7 @@ const GATHERING_NODES = [
     waypointName: 'Ogre Road Waypoint',
     waypointCode: '[&BE8BAAA=]',
     items: [{ id: 12341, quantity: 8 }],
-    optimal: 101,
+    optimal: 101
   },
   {
     id: 32,
@@ -23,7 +23,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Iron',
     waypointName: 'Helliot Mine Waypoint',
     waypointCode: '[&BEsBAAA=]',
-    optimal: 102,
+    optimal: 102
   },
   {
     id: 34,
@@ -36,7 +36,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Gold',
     waypointName: 'Fangfury Watch Waypoint',
     waypointCode: '[&BEwBAAA=]',
-    optimal: 103,
+    optimal: 103
   },
   {
     id: 33,
@@ -49,7 +49,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Silver',
     waypointName: "Rosko's Campsite Waypoint",
     waypointCode: '[&BNgAAAA=]',
-    optimal: 104,
+    optimal: 104
   },
   {
     id: 39,
@@ -62,7 +62,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Iron',
     waypointName: 'Behem Waypoint',
     waypointCode: '[&BP0BAAA=]',
-    optimal: 201,
+    optimal: 201
   },
   {
     id: 38,
@@ -75,7 +75,7 @@ const GATHERING_NODES = [
     waypointName: 'Lunk Kraal Waypoint',
     waypointCode: '[&BAACAAA=]',
     items: [{ id: 12332, quantity: 8 }],
-    optimal: 202,
+    optimal: 202
   },
   {
     id: 40,
@@ -88,7 +88,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Gold',
     waypointName: 'Terra Carorunda Waypoint',
     waypointCode: '[&BAECAAA=]',
-    optimal: 203,
+    optimal: 203
   },
   {
     id: 47,
@@ -101,7 +101,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Platinum',
     waypointName: "Grostogg's Kraal Waypoint",
     waypointCode: '[&BO8BAAA=]',
-    optimal: 301,
+    optimal: 301
   },
   {
     id: 48,
@@ -114,7 +114,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Platinum',
     waypointName: 'Gladefall Waypoint',
     waypointCode: '[&BO4BAAA=]',
-    optimal: 302,
+    optimal: 302
   },
   {
     id: 46,
@@ -127,7 +127,7 @@ const GATHERING_NODES = [
     waypointName: 'Bulwark Waypoint',
     waypointCode: '[&BOwBAAA=]',
     items: [{ id: 12538, quantity: 8 }],
-    optimal: 303,
+    optimal: 303
   },
   {
     id: 1,
@@ -140,7 +140,7 @@ const GATHERING_NODES = [
     waypointName: 'Loreclaw Waypoint',
     waypointCode: '[&BMcDAAA=]',
     items: [{ id: 12135, quantity: 8 }],
-    optimal: 401,
+    optimal: 401
   },
   {
     id: 2,
@@ -153,7 +153,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Copper',
     waypointName: 'Ashford Waypoint',
     waypointCode: '[&BIQBAAA=]',
-    optimal: 402,
+    optimal: 402
   },
   {
     id: 3,
@@ -166,7 +166,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Copper',
     waypointName: 'Guardpoint Decimus Waypoint',
     waypointCode: '[&BJgDAAA=]',
-    optimal: 403,
+    optimal: 403
   },
   {
     id: 11,
@@ -179,7 +179,7 @@ const GATHERING_NODES = [
     waypointName: 'Nolan Waypoint',
     waypointCode: '[&BN4AAAA=]',
     items: [{ id: 12253, quantity: 8 }],
-    optimal: 501,
+    optimal: 501
   },
   {
     id: 12,
@@ -192,7 +192,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Iron',
     waypointName: 'Oldgate Waypoint',
     waypointCode: '[&BF4BAAA=]',
-    optimal: 502,
+    optimal: 502
   },
   {
     id: 13,
@@ -205,7 +205,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Silver',
     waypointName: 'Blasted Moors Waypoint',
     waypointCode: '[&BNoAAAA=]',
-    optimal: 503,
+    optimal: 503
   },
   {
     id: 54,
@@ -218,7 +218,7 @@ const GATHERING_NODES = [
     waypointName: 'Apostate Waypoint',
     waypointCode: '[&BB0CAAA=]',
     items: [{ id: 12511, quantity: 8 }],
-    optimal: 601,
+    optimal: 601
   },
   {
     id: 56,
@@ -231,7 +231,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Platinum',
     waypointName: "Breaktooth's Waypoint",
     waypointCode: '[&BBoCAAA=]',
-    optimal: 602,
+    optimal: 602
   },
   {
     id: 57,
@@ -244,7 +244,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril',
     waypointName: 'The Citadel of Flame Waypoint',
     waypointCode: '[&BEAFAAA=]',
-    optimal: 603,
+    optimal: 603
   },
   {
     id: 55,
@@ -257,7 +257,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Platinum',
     waypointName: 'Rustbowl Waypoint',
     waypointCode: '[&BB4CAAA=]',
-    optimal: 604,
+    optimal: 604
   },
   {
     id: 63,
@@ -270,7 +270,7 @@ const GATHERING_NODES = [
     waypointName: 'Arundon Waypoint',
     waypointCode: '[&BHgCAAA=]',
     items: [{ id: 12511, quantity: 8 }],
-    optimal: 701,
+    optimal: 701
   },
   {
     id: 64,
@@ -283,7 +283,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril',
     waypointName: 'Slough of Despond Waypoint',
     waypointCode: '[&BHwCAAA=]',
-    optimal: 702,
+    optimal: 702
   },
   {
     id: 65,
@@ -296,7 +296,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril',
     waypointName: 'Groznev Waypoint',
     waypointCode: '[&BHkCAAA=]',
-    optimal: 703,
+    optimal: 703
   },
   {
     id: 80,
@@ -309,7 +309,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril',
     waypointName: "Koda's Welcome Waypoint",
     waypointCode: '[&BIEJAAA=]',
-    optimal: 801,
+    optimal: 801
   },
   {
     id: 22,
@@ -322,7 +322,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Iron',
     waypointName: 'Snowhawk Landing Waypoint',
     waypointCode: '[&BL8AAAA=]',
-    optimal: 901,
+    optimal: 901
   },
   {
     id: 21,
@@ -335,7 +335,7 @@ const GATHERING_NODES = [
     waypointName: "Reaver's Waypoint",
     waypointCode: '[&BMAAAAA=]',
     items: [{ id: 12253, quantity: 8 }],
-    optimal: 902,
+    optimal: 902
   },
   {
     id: 23,
@@ -348,7 +348,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Silver',
     waypointName: 'Valslake Waypoint',
     waypointCode: '[&BMADAAA=]',
-    optimal: 903,
+    optimal: 903
   },
   {
     id: 28,
@@ -361,7 +361,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Iron',
     waypointName: "Icedevil's Waypoint",
     waypointCode: '[&BFEGAAA=]',
-    optimal: 1001,
+    optimal: 1001
   },
   {
     id: 29,
@@ -374,7 +374,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Silver',
     waypointName: 'Durmand Priory Waypoint',
     waypointCode: '[&BOkAAAA=]',
-    optimal: 1002,
+    optimal: 1002
   },
   {
     id: 27,
@@ -387,7 +387,7 @@ const GATHERING_NODES = [
     waypointName: "Demon's Maw Waypoint",
     waypointCode: '[&BOYAAAA=]',
     items: [{ id: 12341, quantity: 8 }],
-    optimal: 1003,
+    optimal: 1003
   },
   {
     id: 30,
@@ -400,7 +400,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Gold',
     waypointName: "Demon's Maw Waypoint",
     waypointCode: '[&BOYAAAA=]',
-    optimal: 1004,
+    optimal: 1004
   },
   {
     id: 42,
@@ -413,7 +413,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Iron',
     waypointName: 'Wyrmblood Waypoint',
     waypointCode: '[&BGUCAAA=]',
-    optimal: 1101,
+    optimal: 1101
   },
   {
     id: 41,
@@ -426,7 +426,7 @@ const GATHERING_NODES = [
     waypointName: 'Wide Expanse Waypoint',
     waypointCode: '[&BF8CAAA=]',
     items: [{ id: 12332, quantity: 8 }],
-    optimal: 1102,
+    optimal: 1102
   },
   {
     id: 43,
@@ -439,7 +439,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Gold',
     waypointName: 'Steelbrachen Waypoint',
     waypointCode: '[&BFsCAAA=]',
-    optimal: 1103,
+    optimal: 1103
   },
   {
     id: 50,
@@ -452,7 +452,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Platinum',
     waypointName: 'Thistlereed Waypoint',
     waypointCode: '[&BFECAAA=]',
-    optimal: 1201,
+    optimal: 1201
   },
   {
     id: 49,
@@ -465,7 +465,7 @@ const GATHERING_NODES = [
     waypointName: 'Thistlereed Waypoint',
     waypointCode: '[&BFECAAA=]',
     items: [{ id: 12532, quantity: 8 }],
-    optimal: 1202,
+    optimal: 1202
   },
   {
     id: 58,
@@ -478,7 +478,7 @@ const GATHERING_NODES = [
     waypointName: 'Oxbow Isle Waypoint',
     waypointCode: '[&BNECAAA=]',
     items: [{ id: 12512, quantity: 8 }],
-    optimal: 1301,
+    optimal: 1301
   },
   {
     id: 59,
@@ -491,7 +491,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Platinum',
     waypointName: 'Old Sledge Site Waypoint',
     waypointCode: '[&BNQCAAA=]',
-    optimal: 1302,
+    optimal: 1302
   },
   {
     id: 60,
@@ -504,7 +504,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Platinum',
     waypointName: 'Criterion Waypoint',
     waypointCode: '[&BMkCAAA=]',
-    optimal: 1303,
+    optimal: 1303
   },
   {
     id: 61,
@@ -517,7 +517,7 @@ const GATHERING_NODES = [
     waypointName: 'Plinth Timberland Waypoint',
     waypointCode: '[&BFgGAAA=]',
     items: [{ id: 12512, quantity: 8 }],
-    optimal: 1401,
+    optimal: 1401
   },
   {
     id: 62,
@@ -530,7 +530,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril',
     waypointName: 'Dire Shoal Waypoint',
     waypointCode: '[&BOUGAAA=]',
-    optimal: 1402,
+    optimal: 1402
   },
   {
     id: 75,
@@ -543,7 +543,7 @@ const GATHERING_NODES = [
     waypointName: 'Waywarde Waypoint',
     waypointCode: '[&BPgCAAA=]',
     items: [{ id: 19722, quantity: 12 }],
-    optimal: 1403,
+    optimal: 1403
   },
   {
     id: 71,
@@ -556,7 +556,7 @@ const GATHERING_NODES = [
     waypointName: "Pagga's Waypoint",
     waypointCode: '[&BKYCAAA=]',
     items: [{ id: 19722, quantity: 15 }],
-    optimal: 1501,
+    optimal: 1501
   },
   {
     id: 66,
@@ -569,7 +569,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril',
     waypointName: 'Waste Hollows Waypoint',
     waypointCode: '[&BKgCAAA=]',
-    optimal: 1502,
+    optimal: 1502
   },
   {
     id: 67,
@@ -582,7 +582,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril',
     waypointName: 'Lights Waypoint',
     waypointCode: '[&BLICAAA=]',
-    optimal: 1503,
+    optimal: 1503
   },
   {
     id: 68,
@@ -595,7 +595,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril',
     waypointName: "Meddler's Waypoint",
     waypointCode: '[&BB4DAAA=]',
-    optimal: 1601,
+    optimal: 1601
   },
   {
     id: 69,
@@ -608,7 +608,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril',
     waypointName: 'Shipwreck Rock Waypoint',
     waypointCode: '[&BOQGAAA=]',
-    optimal: 1602,
+    optimal: 1602
   },
   {
     id: 52,
@@ -621,7 +621,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Platinum',
     waypointName: 'Flamefrog Waypoint',
     waypointCode: '[&BMwBAAA=]',
-    optimal: 1701,
+    optimal: 1701
   },
   {
     id: 51,
@@ -634,7 +634,7 @@ const GATHERING_NODES = [
     waypointName: "Ocean's Gulley Waypoint",
     waypointCode: '[&BMkBAAA=]',
     items: [{ id: 12532, quantity: 8 }],
-    optimal: 1702,
+    optimal: 1702
   },
   {
     id: 53,
@@ -647,7 +647,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Platinum',
     waypointName: "Ocean's Gulley Waypoint",
     waypointCode: '[&BMkBAAA=]',
-    optimal: 1703,
+    optimal: 1703
   },
   {
     id: 45,
@@ -660,7 +660,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Platinum',
     waypointName: 'Mournful Waypoint',
     waypointCode: '[&BK0BAAA=]',
-    optimal: 1801,
+    optimal: 1801
   },
   {
     id: 44,
@@ -673,7 +673,7 @@ const GATHERING_NODES = [
     waypointName: 'Remanda Waypoint',
     waypointCode: '[&BKcBAAA=]',
     items: [{ id: 12538, quantity: 8 }],
-    optimal: 1802,
+    optimal: 1802
   },
   {
     id: 25,
@@ -686,7 +686,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Iron',
     waypointName: 'Icegate Waypoint',
     waypointCode: '[&BJMBAAA=]',
-    optimal: 1901,
+    optimal: 1901
   },
   {
     id: 26,
@@ -699,7 +699,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Silver',
     waypointName: 'Icegate Waypoint',
     waypointCode: '[&BJMBAAA=]',
-    optimal: 1902,
+    optimal: 1902
   },
   {
     id: 24,
@@ -712,7 +712,7 @@ const GATHERING_NODES = [
     waypointName: 'Provern Shore Waypoint',
     waypointCode: '[&BOQAAAA=]',
     items: [{ id: 12241, quantity: 8 }],
-    optimal: 1903,
+    optimal: 1903
   },
   {
     id: 37,
@@ -725,7 +725,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Gold',
     waypointName: 'Cloven Hoof Waypoint',
     waypointCode: '[&BLEAAAA=]',
-    optimal: 2001,
+    optimal: 2001
   },
   {
     id: 36,
@@ -738,7 +738,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Iron',
     waypointName: 'Demetra Waypoint',
     waypointCode: '[&BKsAAAA=]',
-    optimal: 2002,
+    optimal: 2002
   },
   {
     id: 35,
@@ -751,7 +751,7 @@ const GATHERING_NODES = [
     waypointName: 'Demetra Waypoint',
     waypointCode: '[&BKsAAAA=]',
     items: [{ id: 12332, quantity: 8 }],
-    optimal: 2003,
+    optimal: 2003
   },
   {
     id: 4,
@@ -764,7 +764,7 @@ const GATHERING_NODES = [
     waypointName: 'Beetletun Waypoint',
     waypointCode: '[&BPoAAAA=]',
     items: [{ id: 12238, quantity: 8 }],
-    optimal: 2101,
+    optimal: 2101
   },
   {
     id: 5,
@@ -777,7 +777,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Copper',
     waypointName: 'Phinney Waypoint',
     waypointCode: '[&BPMAAAA=]',
-    optimal: 2102,
+    optimal: 2102
   },
   {
     id: 6,
@@ -790,7 +790,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Copper',
     waypointName: 'Godslost Waypoint',
     waypointCode: '[&BPwAAAA=]',
-    optimal: 2103,
+    optimal: 2103
   },
   {
     id: 17,
@@ -801,13 +801,13 @@ const GATHERING_NODES = [
     material: ['iron', 'silver'],
     items: [
       { id: 19699, quantity: 10, ore: true },
-      { id: 19703, quantity: 10, ore: true },
+      { id: 19703, quantity: 10, ore: true }
     ],
     alternating_items: true,
     materialName: 'Rich Iron or Silver',
     waypointName: "Overlord's Waypoint",
     waypointCode: '[&BAQAAAA=]',
-    optimal: 2201,
+    optimal: 2201
   },
   {
     id: 14,
@@ -820,7 +820,7 @@ const GATHERING_NODES = [
     waypointName: 'Cereboth Waypoint',
     waypointCode: '[&BBIAAAA=]',
     items: [{ id: 12253, quantity: 8 }],
-    optimal: 2202,
+    optimal: 2202
   },
   {
     id: 15,
@@ -831,13 +831,13 @@ const GATHERING_NODES = [
     material: ['iron', 'silver'],
     items: [
       { id: 19699, quantity: 10, ore: true },
-      { id: 19703, quantity: 10, ore: true },
+      { id: 19703, quantity: 10, ore: true }
     ],
     alternating_items: true,
     materialName: 'Rich Iron or Silver',
     waypointName: 'Cereboth Waypoint',
     waypointCode: '[&BBIAAAA=]',
-    optimal: 2203,
+    optimal: 2203
   },
   {
     id: 16,
@@ -848,13 +848,13 @@ const GATHERING_NODES = [
     material: ['iron', 'silver'],
     items: [
       { id: 19699, quantity: 10, ore: true },
-      { id: 19703, quantity: 10, ore: true },
+      { id: 19703, quantity: 10, ore: true }
     ],
     alternating_items: true,
     materialName: 'Rich Iron or Silver',
     waypointName: 'Cereboth Waypoint',
     waypointCode: '[&BBIAAAA=]',
-    optimal: 2204,
+    optimal: 2204
   },
   {
     id: 9,
@@ -867,7 +867,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Copper',
     waypointName: 'Caledon Haven Waypoint',
     waypointCode: '[&BDwBAAA=]',
-    optimal: 2301,
+    optimal: 2301
   },
   {
     id: 7,
@@ -880,7 +880,7 @@ const GATHERING_NODES = [
     waypointName: 'Kraitbane Haven Waypoint',
     waypointCode: '[&BEABAAA=]',
     items: [{ id: 12238, quantity: 8 }],
-    optimal: 2302,
+    optimal: 2302
   },
   {
     id: 8,
@@ -893,7 +893,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Copper',
     waypointName: 'Wychmire Waypoint',
     waypointCode: '[&BEEBAAA=]',
-    optimal: 2303,
+    optimal: 2303
   },
   {
     id: 10,
@@ -906,7 +906,7 @@ const GATHERING_NODES = [
     waypointName: 'Akk Wilds Waypoint',
     waypointCode: '[&BEIAAAA=]',
     items: [{ id: 12135, quantity: 8 }],
-    optimal: 2401,
+    optimal: 2401
   },
   {
     id: 18,
@@ -919,7 +919,7 @@ const GATHERING_NODES = [
     waypointName: 'Watchful Source Waypoint',
     waypointCode: '[&BFwAAAA=]',
     items: [{ id: 12241, quantity: 8 }],
-    optimal: 2501,
+    optimal: 2501
   },
   {
     id: 19,
@@ -932,7 +932,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Iron',
     waypointName: 'Gallowfields Waypoint',
     waypointCode: '[&BGMAAAA=]',
-    optimal: 2502,
+    optimal: 2502
   },
   {
     id: 20,
@@ -945,7 +945,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Silver',
     waypointName: 'Gallowfields Waypoint',
     waypointCode: '[&BGMAAAA=]',
-    optimal: 2503,
+    optimal: 2503
   },
   {
     id: 98,
@@ -958,7 +958,7 @@ const GATHERING_NODES = [
     zone: 'Brisban Wildlands',
     region: 'Tarnished Coast',
     waypointName: 'Mrot Boru Waypoint',
-    optimal: 2504,
+    optimal: 2504
   },
   {
     id: 74,
@@ -971,7 +971,7 @@ const GATHERING_NODES = [
     waypointName: "Owain's Refuge Waypoint",
     waypointCode: '[&BNgGAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
-    optimal: 2601,
+    optimal: 2601
   },
   {
     id: 83,
@@ -984,7 +984,7 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril',
     waypointName: 'Pearl Islet Waypoint',
     waypointCode: '[&BNUGAAA=]',
-    optimal: 2602,
+    optimal: 2602
   },
   {
     id: 95,
@@ -997,7 +997,7 @@ const GATHERING_NODES = [
     zone: 'Southsun Cove',
     region: 'Kryta',
     waypointName: 'Pearl Islet Waypoint',
-    optimal: 2603,
+    optimal: 2603
   },
   {
     id: 70,
@@ -1013,9 +1013,9 @@ const GATHERING_NODES = [
       { id: 12134, quantity: 4 },
       { id: 12238, quantity: 4 },
       { id: 12332, quantity: 2 },
-      { id: 66524, quantity: 4 },
+      { id: 66524, quantity: 4 }
     ],
-    optimal: 2701,
+    optimal: 2701
   },
   {
     id: 84,
@@ -1028,7 +1028,7 @@ const GATHERING_NODES = [
     zone: 'Dry Top',
     region: 'Maguuma Wastes',
     waypointName: 'Prosperity Waypoint',
-    optimal: 2702,
+    optimal: 2702
   },
   {
     id: 85,
@@ -1041,7 +1041,7 @@ const GATHERING_NODES = [
     zone: 'Dry Top',
     region: 'Maguuma Wastes',
     waypointName: 'Prosperity Waypoint',
-    optimal: 2703,
+    optimal: 2703
   },
   {
     id: 76,
@@ -1055,7 +1055,7 @@ const GATHERING_NODES = [
     waypointCode: '[&BOAHAAA=]',
     videoGuide: 'Y1c1EebeOkA',
     items: [{ id: 74090, quantity: 12 }],
-    optimal: 2801,
+    optimal: 2801
   },
   {
     id: 97,
@@ -1068,7 +1068,7 @@ const GATHERING_NODES = [
     zone: 'Verdant Brink',
     region: 'Heart of Maguuma',
     waypointName: 'Shipwreck Peak Waypoint',
-    optimal: 2802,
+    optimal: 2802
   },
   {
     id: 73,
@@ -1082,7 +1082,7 @@ const GATHERING_NODES = [
     waypointCode: '[&BAUIAAA=]',
     videoGuide: 'LdQBK79j34Q',
     items: [{ id: 74090, quantity: 12 }],
-    optimal: 2901,
+    optimal: 2901
   },
   {
     id: 82,
@@ -1096,7 +1096,7 @@ const GATHERING_NODES = [
     waypointCode: '[&BM0JAAA=]',
     videoGuide: 'Ef72rmRaQAk',
     items: [{ id: 74090, quantity: 15 }],
-    optimal: 3001,
+    optimal: 3001
   },
   {
     id: 81,
@@ -1109,7 +1109,7 @@ const GATHERING_NODES = [
     materialName: 'Seaweed',
     waypointName: 'Promontory Waypoint',
     waypointCode: '[&BF8JAAA=]',
-    optimal: 3101,
+    optimal: 3101
   },
   {
     id: 86,
@@ -1122,7 +1122,7 @@ const GATHERING_NODES = [
     zone: 'Auric Basin',
     region: 'Heart of Maguuma',
     waypointName: 'Eastwatch Waypoint',
-    optimal: 3201,
+    optimal: 3201
   },
   {
     id: 87,
@@ -1135,7 +1135,7 @@ const GATHERING_NODES = [
     zone: 'Desert Highlands',
     region: 'Crystal Desert',
     waypointName: 'Highjump Ranch Waypoint',
-    optimal: 3301,
+    optimal: 3301
   },
   {
     id: 88,
@@ -1148,7 +1148,7 @@ const GATHERING_NODES = [
     zone: 'Desert Highlands',
     region: 'Crystal Desert',
     waypointName: 'Brightwater Waypoint',
-    optimal: 3302,
+    optimal: 3302
   },
   {
     id: 89,
@@ -1161,7 +1161,7 @@ const GATHERING_NODES = [
     zone: 'Desert Highlands',
     region: 'Crystal Desert',
     waypointName: 'Brightwater Waypoint',
-    optimal: 3303,
+    optimal: 3303
   },
   {
     id: 92,
@@ -1174,7 +1174,7 @@ const GATHERING_NODES = [
     zone: 'Desert Highlands',
     region: 'Crystal Desert',
     waypointName: 'Brightwater Waypoint',
-    optimal: 3304,
+    optimal: 3304
   },
   {
     id: 90,
@@ -1187,7 +1187,7 @@ const GATHERING_NODES = [
     zone: 'Crystal Oasis',
     region: 'Crystal Desert',
     waypointName: 'Amnoon Waypoint',
-    optimal: 3401,
+    optimal: 3401
   },
   {
     id: 91,
@@ -1200,7 +1200,7 @@ const GATHERING_NODES = [
     zone: 'Crystal Oasis',
     region: 'Crystal Desert',
     waypointName: "Destiny's Gorge Waypoint",
-    optimal: 3402,
+    optimal: 3402
   },
   {
     id: 96,
@@ -1213,7 +1213,7 @@ const GATHERING_NODES = [
     zone: 'Crystal Oasis',
     region: 'Crystal Desert',
     waypointName: 'Temple of Kormir Waypoint',
-    optimal: 3403,
+    optimal: 3403
   },
   {
     id: 101,
@@ -1224,12 +1224,12 @@ const GATHERING_NODES = [
     material: ['mithril', 'quartz'],
     items: [
       { id: 19700, quantity: 10, ore: true },
-      { id: 43773, quantity: 3, ore: true },
+      { id: 43773, quantity: 3, ore: true }
     ],
     materialName: 'Quartz & Rich Mithril',
     waypointName: "Destiny's Gorge Waypoint",
     waypointCode: '[&BJMKAAA=]',
-    optimal: 3404,
+    optimal: 3404
   },
   {
     id: 93,
@@ -1242,7 +1242,7 @@ const GATHERING_NODES = [
     zone: 'The Desolation',
     region: 'Crystal Desert',
     waypointName: 'Bonestrand Waypoint',
-    optimal: 3501,
+    optimal: 3501
   },
   {
     id: 94,
@@ -1252,14 +1252,14 @@ const GATHERING_NODES = [
     items: [
       { id: 12512, quantity: 4 },
       { id: 12332, quantity: 4 },
-      { id: 82866, quantity: 4 },
+      { id: 82866, quantity: 4 }
     ],
     material: ['cabbage', 'artichoke', 'lentils'],
     materialName: 'Cabbage, Artichoke, Lentils, Cluster of Desert Herbs, Desert Vegetables',
     zone: 'Sandswept Isles',
     region: 'Crystal Desert',
     waypointName: 'Atholma Waypoint',
-    optimal: 3601,
+    optimal: 3601
   },
   {
     id: 111,
@@ -1272,7 +1272,7 @@ const GATHERING_NODES = [
     items: [{ id: 19701, quantity: 10, ore: true }],
     material: 'orichalcum',
     materialName: 'Rich Orichalcum',
-    optimal: 3601.5,
+    optimal: 3601.5
   },
   {
     id: 99,
@@ -1285,7 +1285,7 @@ const GATHERING_NODES = [
     zone: 'Thunderhead Peaks',
     region: 'Shiverpeak Mountains',
     waypointName: "History's End Waypoint",
-    optimal: 3701,
+    optimal: 3701
   },
   {
     id: 100,
@@ -1298,7 +1298,7 @@ const GATHERING_NODES = [
     zone: 'Thunderhead Peaks',
     region: 'Shiverpeak Mountains',
     waypointName: 'Moorage Waypoint',
-    optimal: 3702,
+    optimal: 3702
   },
   {
     id: 102,
@@ -1311,7 +1311,7 @@ const GATHERING_NODES = [
     zone: 'Bloodstone Fen',
     region: 'Heart of Maguuma',
     waypointName: "Zealot's Overlook",
-    optimal: 3801,
+    optimal: 3801
   },
   {
     id: 103,
@@ -1324,7 +1324,7 @@ const GATHERING_NODES = [
     zone: 'Domain of Kourna',
     region: 'Crystal Desert',
     waypointName: 'Allied Encampment',
-    optimal: 3810,
+    optimal: 3810
   },
   {
     id: 104,
@@ -1337,12 +1337,12 @@ const GATHERING_NODES = [
     zone: 'Jahai Bluffs',
     region: 'Crystal Desert',
     waypointName: 'Reclaimed Chantry Waypoint',
-    optimal: 3820,
+    optimal: 3820
   },
   {
     id: 105,
     image: 'Orichalcum - Sandswept Isles - Atholma Waypoint.png',
-    area:'The Ruined Paths',
+    area: 'The Ruined Paths',
     waypointCode: '[&BEMLAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
     material: 'orichalcum',
@@ -1350,7 +1350,7 @@ const GATHERING_NODES = [
     zone: 'Sandswept Isles',
     region: 'Crystal Desert',
     waypointName: 'Atholma Waypoint',
-    optimal: 3602,
+    optimal: 3602
   },
   {
     id: 106,
@@ -1363,12 +1363,12 @@ const GATHERING_NODES = [
     zone: 'Ember Bay',
     region: 'Heart of Maguuma',
     waypointName: 'Castaway Circus Waypoint',
-    optimal: 3102,
+    optimal: 3102
   },
   {
     id: 107,
     image: "Elder Wood - Siren's Landing - Camp Reclamation Waypoint.png",
-    area:'Merciless Shore',
+    area: 'Merciless Shore',
     waypointCode: '[&BO8JAAA=]',
     material: 'elderwood',
     materialName: 'Elder Wood',
@@ -1376,7 +1376,7 @@ const GATHERING_NODES = [
     zone: "Siren's Landing",
     region: 'Ruins of Orr',
     waypointName: 'Camp Reclamation Waypoint',
-    optimal: 3804,
+    optimal: 3804
   },
   {
     id: 108,
@@ -1389,12 +1389,12 @@ const GATHERING_NODES = [
     zone: 'Bloodstone Fen',
     region: 'Heart of Maguuma',
     waypointName: "Soulkeeper's Airship Waypoint",
-    optimal: 3802,
+    optimal: 3802
   },
   {
     id: 109,
     image: 'The Desolation 1.png',
-    area:'Silent Vale',
+    area: 'Silent Vale',
     zone: 'The Desolation',
     region: 'Crystal Desert',
     material: 'orichalcum',
@@ -1402,12 +1402,12 @@ const GATHERING_NODES = [
     waypointName: 'Bonestrand Waypoint',
     waypointCode: '[&BNwKAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
-    optimal: 4000,
+    optimal: 4000
   },
   {
     id: 110,
     image: 'The Desolation 2.png',
-    area:'Silent Vale',
+    area: 'Silent Vale',
     zone: 'The Desolation',
     region: 'Crystal Desert',
     material: 'orichalcum',
@@ -1415,12 +1415,12 @@ const GATHERING_NODES = [
     waypointName: 'Bonestrand Waypoint',
     waypointCode: '[&BNwKAAA=]',
     items: [{ id: 19701, quantity: 10, ore: true }],
-    optimal: 4001,
+    optimal: 4001
   },
   {
     id: 112,
     image: 'Vabbi 1.png',
-    area:'Kodash Bazaar',
+    area: 'Kodash Bazaar',
     zone: 'Domain of Vabbi',
     region: 'Crystal Desert',
     material: 'orichalcum',
@@ -1428,7 +1428,7 @@ const GATHERING_NODES = [
     waypointName: 'Market Ruins Waypoint',
     waypointCode: '[&BHQKAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
-    optimal: 4002,
+    optimal: 4002
   },
   {
     id: 113,
@@ -1441,7 +1441,7 @@ const GATHERING_NODES = [
     waypointName: 'Market Ruins Waypoint',
     waypointCode: '[&BHQKAAA=]',
     items: [{ id: 19701, quantity: 3, ore: true }],
-    optimal: 4003,
+    optimal: 4003
   },
   {
     id: 114,
@@ -1454,7 +1454,7 @@ const GATHERING_NODES = [
     waypointName: 'Market Ruins Waypoint',
     waypointCode: '[&BHQKAAA=]',
     items: [{ id: 19701, quantity: 10, ore: true }],
-    optimal: 4004,
+    optimal: 4004
   },
   {
     id: 115,
@@ -1467,7 +1467,7 @@ const GATHERING_NODES = [
     waypointName: 'Market Ruins Waypoint',
     waypointCode: '[&BHQKAAA=]',
     items: [{ id: 19701, quantity: 10, ore: true }],
-    optimal: 4005,
+    optimal: 4005
   },
   {
     id: 116,
@@ -1480,7 +1480,7 @@ const GATHERING_NODES = [
     items: [{ id: 19701, quantity: 3, ore: true }],
     waypointName: 'Forward Camp Waypoint',
     waypointCode: '[&BHIMAAA=]',
-    optimal: 4006,
+    optimal: 4006
   },
   {
     id: 118,
@@ -1492,11 +1492,11 @@ const GATHERING_NODES = [
     materialName: 'Rich Mithril, Rich Orichalcum',
     items: [
       { id: 19700, quantity: 10, ore: true },
-      { id: 19701, quantity: 10, ore: true },
+      { id: 19701, quantity: 10, ore: true }
     ],
     waypointName: 'Allied Encampment Waypoint',
     waypointCode: '[&BFcLAAA=]',
-    optimal: 4007,
+    optimal: 4007
   },
   {
     id: 119,
@@ -1509,7 +1509,7 @@ const GATHERING_NODES = [
     items: [{ id: 19701, quantity: 10, ore: true }],
     waypointName: 'Sand Jackal Run Waypoint',
     waypointCode: '[&BHcKAAA=]',
-    optimal: 4008,
+    optimal: 4008
   },
   {
     id: 120,
@@ -1522,7 +1522,7 @@ const GATHERING_NODES = [
     items: [{ id: 19701, quantity: 10, ore: true }],
     waypointName: 'Lair of the Forgotten Waypoint',
     waypointCode: '[&BMEKAAA=]',
-    optimal: 4009,
+    optimal: 4009
   },
   {
     id: 121,
@@ -1535,7 +1535,7 @@ const GATHERING_NODES = [
     items: [{ id: 19701, quantity: 10, ore: true }],
     waypointName: 'Necropolis Waypoint',
     waypointCode: '[&BEoKAAA=]',
-    optimal: 4010,
+    optimal: 4010
   },
   {
     id: 122,
@@ -1548,7 +1548,7 @@ const GATHERING_NODES = [
     items: [{ id: 19701, quantity: 10, ore: true }],
     waypointName: 'Amnoon Waypoint',
     waypointCode: '[&BLsKAAA=]',
-    optimal: 4011,
+    optimal: 4011
   },
   {
     id: 123,
@@ -1561,7 +1561,7 @@ const GATHERING_NODES = [
     items: [{ id: 19701, quantity: 10, ore: true }],
     waypointName: 'Temple of Kormir Waypoint',
     waypointCode: '[&BEAKAAA=]',
-    optimal: 4012,
+    optimal: 4012
   },
   {
     id: 124,
@@ -1577,11 +1577,11 @@ const GATHERING_NODES = [
       { id: 12135, quantity: 3 },
       { id: 12253, quantity: 3 },
       { id: 12538, quantity: 3 },
-      { id: 12330, quantity: 3 },
+      { id: 12330, quantity: 3 }
     ],
     waypointName: 'Blood Keep Waypoint',
     waypointCode: '[&BBsMAAA=]',
-    optimal: 4013,
+    optimal: 4013
   },
   {
     id: 125,
@@ -1599,7 +1599,7 @@ const GATHERING_NODES = [
       'potatoes',
       'soybeans',
       'pumpkins',
-      'zucchini',
+      'zucchini'
     ],
     materialName:
       'Cabbage, Carrot, Flax, Thyme, Parsley, Lotus, Potatoes, Soybeans, Sugar Pumpkins, Zucchini',
@@ -1613,18 +1613,18 @@ const GATHERING_NODES = [
       { id: 12135, quantity: 4 },
       { id: 97105, quantity: 3 },
       { id: 12538, quantity: 4 },
-      { id: 12330, quantity: 4 },
+      { id: 12330, quantity: 4 }
     ],
     waypointName: 'Village Waypoint',
     waypointCode: '[&BJ4MAAA=]',
-    optimal: 4014,
-  },
+    optimal: 4014
+  }
   // id: 126
 ]
 
-const GATHERING_NODES_OPTIMIZED = JSON.parse(JSON.stringify(GATHERING_NODES));
-  
-  GATHERING_NODES_OPTIMIZED.sort((a, b) => {
+const GATHERING_NODES_OPTIMIZED = JSON.parse(JSON.stringify(GATHERING_NODES))
+
+GATHERING_NODES_OPTIMIZED.sort((a, b) => {
   if (a.region !== b.region) {
     return a.region.localeCompare(b.region)
   }
@@ -1633,6 +1633,6 @@ const GATHERING_NODES_OPTIMIZED = JSON.parse(JSON.stringify(GATHERING_NODES));
 
 GATHERING_NODES_OPTIMIZED.forEach((item, index) => {
   item.optimal = index
-});
+})
 
 export default GATHERING_NODES_OPTIMIZED
