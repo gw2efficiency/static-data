@@ -1625,10 +1625,7 @@ const GATHERING_NODES = [
 const GATHERING_NODES_OPTIMIZED = JSON.parse(JSON.stringify(GATHERING_NODES))
 
 GATHERING_NODES_OPTIMIZED.sort((a, b) => {
-  if (a.region !== b.region) {
-    return a.region.localeCompare(b.region)
-  }
-  return a.zone.localeCompare(b.zone)
+  return a.region.localeCompare(b.region) || a.zone.localeCompare(b.zone)
 })
 
 GATHERING_NODES_OPTIMIZED.forEach((item, index) => {
