@@ -1628,6 +1628,15 @@ GATHERING_NODES_OPTIMIZED.sort((a, b) => {
   return a.region.localeCompare(b.region) || a.zone.localeCompare(b.zone)
 })
 
+const REGION_ZONE_COUNT = GATHERING_NODES_OPTIMIZED.reduce((counts, item) => {
+  counts[item.region] = (counts[item.region] || 0) + 1
+  return counts
+}, {})
+
+GATHERING_NODES_OPTIMIZED.sort((a, b) => {
+  return (REGION_ZONE_COUNT[b.region] || 0) - (REGION_ZONE_COUNT[a.region] || 0) || a.region.localeCompare(b.region) || a.zone.localeCompare(b.zone)
+})
+
 GATHERING_NODES_OPTIMIZED.forEach((item, index) => {
   item.optimal = index
 })
