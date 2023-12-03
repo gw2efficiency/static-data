@@ -28,7 +28,7 @@ export default [
   {group: 'Currencies', title: 'Unusual Coins', key: 'statistics.unusualCoins', sprite: 'unusual-coin', gold: false, by_playtime: true, decimals: 0},
   {group: 'Currencies', title: 'Imperial Favor', key: 'statistics.imperialFavor', sprite: 'imperial-favor', gold: false, by_playtime: true, decimals: 0},
   {group: 'Currencies', title: 'Canach Coins', key: 'statistics.canachCoins', sprite: 'canach-coins', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Currencies', title: 'Ancient Coins', key: 'statistics.ancientCoins', sprite: 'ancient-coins', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Currencies', title: 'Ancient Coins', key: 'statistics.ancientCoins', sprite: 'ancient-coin', gold: false, by_playtime: true, decimals: 0},
   {group: 'Map currencies', title: 'Geodes', key: 'statistics.geodes', sprite: 'geode', gold: false, by_playtime: true, decimals: 0},
   {group: 'Map currencies', title: 'Bandit Crests', key: 'statistics.banditCrests', sprite: 'bandit-crest', gold: false, by_playtime: true, decimals: 0},
   {group: 'Map currencies', title: 'Airship Parts', key: 'statistics.airshipParts', sprite: 'airship-part', gold: false, by_playtime: true, decimals: 0},
