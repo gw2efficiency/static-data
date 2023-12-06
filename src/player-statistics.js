@@ -255,7 +255,7 @@ export default [
   {group: 'Gemstore', title: 'Permanent Contracts', key: 'statistics.permanentContracts', sprite: 'permanent-contract', gold: false, by_playtime: true, decimals: 0},
   {group: 'Gemstore', title: 'Toys', key: 'statistics.gemstoreToys', sprite: 'gemstore-toys', gold: false, by_playtime: true, decimals: 0},
   {group: 'Gemstore', title: 'Shared Inventory Slots', key: 'statistics.sharedInventorySlots', sprite: 'shared-inventory-slot', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Gemstore', title: 'Permanent Lounge Passes', key: 'statistics.UniquePermanentLoungePasses', sprite: 'permanentLoungePasses', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Gemstore', title: 'Permanent Lounge Passes', key: 'statistics.permanentLoungePasses', sprite: 'permanentLoungePasses', gold: false, by_playtime: true, decimals: 0},
   {group: 'Pointless Statistics', title: 'Broken Twig', key: 'statistics.brokenTwig', sprite: 'broken-twig', gold: false, by_playtime: true, decimals: 0},
   {group: 'Pointless Statistics', title: 'Warm Stone', key: 'statistics.warmStone', sprite: 'warm-stone', gold: false, by_playtime: true, decimals: 0},
   {group: 'Pointless Statistics', title: 'Crumbling Bone', key: 'statistics.crumblingBone', sprite: 'crumbling-bone', gold: false, by_playtime: true, decimals: 0},
