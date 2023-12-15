@@ -60,7 +60,7 @@ export default [
   {group: 'Map currencies', title: 'Eitrite Ingot', key: 'statistics.eitriteIngots', sprite: 'eitriteIngot', gold: false, by_playtime: true, decimals: 0},
   {group: 'Map currencies', title: 'Essence of Despair', key: 'statistics.essenceOfDespair', sprite: 'essenceOfDespair', gold: false, by_playtime: true, decimals: 0},
   {group: 'Map currencies', title: 'Essence of Greed', key: 'statistics.essenceOfGreed', sprite: 'essenceOfGreed', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Map currencies', title: 'Essence of Triumph', key: 'statistics.esssenceOfTriumph', sprite: 'essenceOfTriumph', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Map currencies', title: 'Essence of Triumph', key: 'statistics.essenceOfTriumph', sprite: 'essenceOfTriumph', gold: false, by_playtime: true, decimals: 0},
   {group: 'Keys', title: 'Zephyrite Lockpicks', key: 'statistics.zephyriteLockpicks', sprite: 'zephyrite-lockpick', gold: false, by_playtime: true, decimals: 0},
   {group: 'Keys', title: 'Bandit Skeleton Keys', key: 'statistics.banditSkeletonKeys', sprite: 'bandit-skeleton-key', gold: false, by_playtime: true, decimals: 0},
   {group: 'Keys', title: 'Pact Crowbars', key: 'statistics.pactCrowbars', sprite: 'pact-crowbar', gold: false, by_playtime: true, decimals: 0},
