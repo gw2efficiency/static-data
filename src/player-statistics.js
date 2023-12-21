@@ -64,7 +64,7 @@ export default [
   {group: 'Map currencies', title: 'Essence of Triumph', key: 'statistics.essenceOfTriumph', sprite: 'essenceOfTriumph', gold: false, by_playtime: true, decimals: 0},
   {group: 'Map currencies', title: 'Static Charge', key: 'statistics.staticCharge', sprite: 'static-charge', gold: false, by_playtime: true, decimals: 0},
   {group: 'Map currencies', title: 'Pinch of Stardust', key: 'statistics.pinchOfStardust', sprite: 'pinch-of-stardust', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Map currencies', title: 'Calcified Gasp', key: 'statistics. calcifiedGasp', sprite: 'calcified-gasp', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Map currencies', title: 'Calcified Gasp', key: 'statistics.calcifiedGasp', sprite: 'calcified-gasp', gold: false, by_playtime: true, decimals: 0},
   {group: 'Keys', title: 'Zephyrite Lockpicks', key: 'statistics.zephyriteLockpicks', sprite: 'zephyrite-lockpick', gold: false, by_playtime: true, decimals: 0},
   {group: 'Keys', title: 'Bandit Skeleton Keys', key: 'statistics.banditSkeletonKeys', sprite: 'bandit-skeleton-key', gold: false, by_playtime: true, decimals: 0},
   {group: 'Keys', title: 'Pact Crowbars', key: 'statistics.pactCrowbars', sprite: 'pact-crowbar', gold: false, by_playtime: true, decimals: 0},
