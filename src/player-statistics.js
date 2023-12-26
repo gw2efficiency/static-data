@@ -140,6 +140,9 @@ export default [
   {group: 'Cosmetic Auras', title: 'Deldrimor Stoneskin Infusions', key: 'statistics.deldrimorStoneskinInfusions', sprite: 'deldrimorStoneskinInfusions', gold: false, by_playtime: true, decimals: 0},
   {group: 'Cosmetic Auras', title: 'Jormag Eye Infusions', key: 'statistics.jormagEyeInfusions', sprite: 'jormagEyeInfusions', gold: false, by_playtime: true, decimals: 0},
   {group: 'Cosmetic Auras', title: 'Primordus Eye Infusions', key: 'statistics.primordusEyeInfusions', sprite: 'primordusEyeInfusions', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Cosmetic Auras', title: 'Imperial Everbloom', key: 'statistics.imperialEverbloom', sprite: 'imperialEverbloom', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Cosmetic Auras', title: 'Clockwork Infusion', key: 'statistics.clockworkInfusion', sprite: 'clockworkInfusion', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Cosmetic Auras', title: 'Jotun Infusion', key: 'statistics.jotunInfusion', sprite: 'jotunInfusion', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Any)', key: 'statistics.legendaryItems', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Weapons)', key: 'statistics.legendaryItemsWeapon', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Armor)', key: 'statistics.legendaryItemsArmor', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
@@ -170,6 +173,7 @@ export default [
   {group: 'Collectables', title: 'Emblem of the Conqueror', key: 'statistics.emblemOfTheConqueror', sprite: 'emblemOfTheConqueror', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Emblem of Tournament Victory', key: 'statistics.emblemOfTournamentVictory', sprite: 'emblemOfTournamentVictory', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Emblem of Victory', key: 'statistics.emblemOfVictory', sprite: 'emblemOfVictory', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Collectables', title: 'Mini Professor Mew', key: 'statistics.miniProfessorMew', sprite: 'miniProfessorMew', gold: false, by_playtime: true, decimals: 0},
   {group: 'Ascended Materials', title: 'Dragonite Ore', key: 'statistics.dragoniteOre', sprite: 'dragonite-ore', gold: false, by_playtime: true, decimals: 0},
   {group: 'Ascended Materials', title: 'Bloodstone Dust', key: 'statistics.bloodstoneDust', sprite: 'bloodstone-dust', gold: false, by_playtime: true, decimals: 0},
   {group: 'Ascended Materials', title: 'Empyreal Fragments', key: 'statistics.empyrealFragments', sprite: 'empyreal-fragments', gold: false, by_playtime: true, decimals: 0},
@@ -254,6 +258,7 @@ export default [
   {group: 'Miscellaneous', title: '32-Slot Bags', key: 'statistics.thirtyTwoSlotBags', sprite: '32-slot-bags', gold: false, by_playtime: true, decimals: 0},
   {group: 'Miscellaneous', title: 'New Year, New Quaggan (Luck Donated)', key: 'statistics.newYearNewQuaggan', sprite: 'account-luck', gold: false, by_playtime: true, decimals: 0},
   {group: 'Miscellaneous', title: 'Flying Cow Token', key: 'statistics.flyingCowTokens', sprite: 'flying-cow-token', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Miscellaneous', title: 'Mad King\'s Clock Tower Completions', key: 'statistics.madKingsClockTowerCompletions', sprite: 'madKingsClockTowerCompletions', gold: false, by_playtime: true, decimals: 0},
   {group: 'Gemstore', title: 'Musical Instruments', key: 'statistics.instruments', sprite: 'instruments', gold: false, by_playtime: true, decimals: 0},
   {group: 'Gemstore', title: 'Unlimited Gathering Tools', key: 'statistics.permanentTools', sprite: 'permanent-tools', gold: false, by_playtime: true, decimals: 0},
   {group: 'Gemstore', title: 'Permanent Contracts', key: 'statistics.permanentContracts', sprite: 'permanent-contract', gold: false, by_playtime: true, decimals: 0},
@@ -264,5 +269,6 @@ export default [
   {group: 'Pointless Statistics', title: 'Warm Stone', key: 'statistics.warmStone', sprite: 'warm-stone', gold: false, by_playtime: true, decimals: 0},
   {group: 'Pointless Statistics', title: 'Crumbling Bone', key: 'statistics.crumblingBone', sprite: 'crumbling-bone', gold: false, by_playtime: true, decimals: 0},
   {group: 'Pointless Statistics', title: 'Mangled Talon', key: 'statistics.mangledTalon', sprite: 'mangled-talon', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Pointless Statistics', title: 'Clump of Resin', key: 'statistics.clumpOfResin', sprite: 'clump-of-resin', gold: false, by_playtime: true, decimals: 0}
+  {group: 'Pointless Statistics', title: 'Clump of Resin', key: 'statistics.clumpOfResin', sprite: 'clump-of-resin', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Pointless Statistics', title: 'Marsh Frog', key: 'statistics.marshFrog', sprite: 'marshFrog', gold: false, by_playtime: true, decimals: 0}
 ]
