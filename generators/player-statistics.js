@@ -1,7 +1,7 @@
 const content = `copy & paste from excel into here`
 
 console.log('export default [')
-const rows = content.split('\n').slice(1)
+const rows = content.split('\n').slice(1).filter(x => !!x.trim())
 rows.map((row, i) => {
   row = row.split('\t')
   let comma = i === rows.length - 1 ? '' : ','

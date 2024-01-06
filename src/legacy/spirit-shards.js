@@ -613,7 +613,7 @@ export default [
     recipes: [
       // Bones
       {
-        result: {quantity: 18.51, id: 24343, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24343, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24343},
           {quantity: 50, id: 24342},
@@ -622,7 +622,7 @@ export default [
         spiritshards: [{quantity: 1, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24344, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24344, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24344},
           {quantity: 50, id: 24343},
@@ -631,7 +631,7 @@ export default [
         spiritshards: [{quantity: 2, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24345, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24345, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24345},
           {quantity: 50, id: 24344},
@@ -640,7 +640,7 @@ export default [
         spiritshards: [{quantity: 3, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24341, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24341, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24341},
           {quantity: 50, id: 24345},
@@ -659,7 +659,7 @@ export default [
       },
       // Claws
       {
-        result: {quantity: 18.51, id: 24347, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24347, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24347},
           {quantity: 50, id: 24346},
@@ -668,7 +668,7 @@ export default [
         spiritshards: [{quantity: 1, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24348, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24348, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24348},
           {quantity: 50, id: 24347},
@@ -677,7 +677,7 @@ export default [
         spiritshards: [{quantity: 2, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24349, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24349, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24349},
           {quantity: 50, id: 24348},
@@ -686,7 +686,7 @@ export default [
         spiritshards: [{quantity: 3, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24350, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24350, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24350},
           {quantity: 50, id: 24349},
@@ -705,7 +705,7 @@ export default [
       },
       // Fangs
       {
-        result: {quantity: 18.51, id: 24353, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24353, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24353},
           {quantity: 50, id: 24352},
@@ -714,7 +714,7 @@ export default [
         spiritshards: [{quantity: 1, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24354, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24354, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24354},
           {quantity: 50, id: 24353},
@@ -723,7 +723,7 @@ export default [
         spiritshards: [{quantity: 2, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24355, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24355, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24355},
           {quantity: 50, id: 24354},
@@ -732,7 +732,7 @@ export default [
         spiritshards: [{quantity: 3, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24356, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24356, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24356},
           {quantity: 50, id: 24355},
@@ -751,7 +751,7 @@ export default [
       },
       // Scales
       {
-        result: {quantity: 18.51, id: 24285, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24285, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24285},
           {quantity: 50, id: 24284},
@@ -760,7 +760,7 @@ export default [
         spiritshards: [{quantity: 1, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24286, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24286, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24286},
           {quantity: 50, id: 24285},
@@ -769,7 +769,7 @@ export default [
         spiritshards: [{quantity: 2, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24287, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24287, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24287},
           {quantity: 50, id: 24286},
@@ -778,7 +778,7 @@ export default [
         spiritshards: [{quantity: 3, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24288, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24288, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24288},
           {quantity: 50, id: 24287},
@@ -797,7 +797,7 @@ export default [
       },
       // Totems
       {
-        result: {quantity: 18.51, id: 24297, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24297, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24297},
           {quantity: 50, id: 24296},
@@ -806,7 +806,7 @@ export default [
         spiritshards: [{quantity: 1, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24298, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24298, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24298},
           {quantity: 50, id: 24297},
@@ -815,7 +815,7 @@ export default [
         spiritshards: [{quantity: 2, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24363, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24363, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24363},
           {quantity: 50, id: 24298},
@@ -824,7 +824,7 @@ export default [
         spiritshards: [{quantity: 3, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24299, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24299, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24299},
           {quantity: 50, id: 24363},
@@ -843,7 +843,7 @@ export default [
       },
       // Venom Sacs
       {
-        result: {quantity: 18.51, id: 24279, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24279, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24279},
           {quantity: 50, id: 24278},
@@ -852,7 +852,7 @@ export default [
         spiritshards: [{quantity: 1, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24280, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24280, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24280},
           {quantity: 50, id: 24279},
@@ -861,7 +861,7 @@ export default [
         spiritshards: [{quantity: 2, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24281, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24281, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24281},
           {quantity: 50, id: 24280},
@@ -870,7 +870,7 @@ export default [
         spiritshards: [{quantity: 3, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24282, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24282, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24282},
           {quantity: 50, id: 24281},
@@ -889,7 +889,7 @@ export default [
       },
       // Vials of Blood
       {
-        result: {quantity: 18.51, id: 24291, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24291, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24291},
           {quantity: 50, id: 24290},
@@ -898,7 +898,7 @@ export default [
         spiritshards: [{quantity: 1, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24292, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24292, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24292},
           {quantity: 50, id: 24291},
@@ -907,7 +907,7 @@ export default [
         spiritshards: [{quantity: 2, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24293, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24293, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24293},
           {quantity: 50, id: 24292},
@@ -916,7 +916,7 @@ export default [
         spiritshards: [{quantity: 3, currency: 0.1}]
       },
       {
-        result: {quantity: 18.51, id: 24294, quantity_range: [7, 40]},
+        result: {quantity: 17, id: 24294, quantity_range: [7, 40]},
         components: [
           {quantity: 1, id: 24294},
           {quantity: 50, id: 24293},
@@ -957,7 +957,7 @@ export default [
         ]
       },
       {
-        result: {quantity: 18.51, id: 24275, quantity_range: [7, 40]},
+        result: {quantity: 86.5, id: 24275, quantity_range: [40, 200]},
         components: [
           {quantity: 1, id: 24275},
           {quantity: 250, id: 24274}
@@ -968,7 +968,7 @@ export default [
         ]
       },
       {
-        result: {quantity: 18.51, id: 24276, quantity_range: [7, 40]},
+        result: {quantity: 86.5, id: 24276, quantity_range: [40, 200]},
         components: [
           {quantity: 1, id: 24276},
           {quantity: 250, id: 24275}
