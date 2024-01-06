@@ -232,6 +232,7 @@ export default [
   {group: 'Player vs. Player', title: 'Ascended Shards of Glory', key: 'statistics.ascendedShardsOfGlory', sprite: 'ascended-shards-of-glory', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Playtime', key: 'statistics.playtime', sprite: 'playtime', gold: false, by_playtime: false, decimals: 2},
   {group: 'Account', title: 'Playtime per Day', key: 'statistics.playtimePerDay', sprite: 'playtime', gold: false, by_playtime: false, decimals: 2},
+  {group: 'Account', title: 'Playtime on Most Played Character', key: 'statistics.mostPlayedCharacterPlaytime', sprite: 'playtime', gold: false, by_playtime: false, decimals: 2},
   {group: 'Account', title: 'Characters', key: 'statistics.characterCount', sprite: 'account-characters', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Max-level Characters', key: 'statistics.maxLevelCharacterCount', sprite: 'account-characters', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Deaths', key: 'statistics.deathCount', sprite: 'deaths', gold: false, by_playtime: true, decimals: 0},
