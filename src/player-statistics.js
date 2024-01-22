@@ -148,6 +148,7 @@ export default [
   {group: 'Cosmetic Auras', title: 'Jotun Infusion', key: 'statistics.jotunInfusion', sprite: 'jotunInfusion', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Any)', key: 'statistics.legendaryItems', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Weapons)', key: 'statistics.legendaryItemsWeapon', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Collectables', title: 'Aurene Legendary Variants', key: 'statistics.aureneLegendaryVariantSkins', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Armor)', key: 'statistics.legendaryItemsArmor', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Backpieces)', key: 'statistics.legendaryItemsBack', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Trinkets)', key: 'statistics.legendaryItemsTrinket', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
