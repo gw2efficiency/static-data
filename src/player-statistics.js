@@ -248,6 +248,7 @@ export default [
   {group: 'Account', title: 'Deaths', key: 'statistics.deathCount', sprite: 'deaths', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Deaths per Hour', key: 'statistics.deathCountPerHour', sprite: 'deaths', gold: false, by_playtime: true, decimals: 2},
   {group: 'Account', title: 'Guilds', key: 'statistics.guildCount', sprite: 'account-guild', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Account', title: 'Total Storage Slots', key: 'statistics.totalStorageSlots', sprite: 'account-bank', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Mastery Points (Total)', key: 'statistics.masteryPoints', sprite: 'small-mastery', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Mastery Points (Central Tyria)', key: 'statistics.masteryPointsTyria', sprite: 'small-mastery-tyria', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Mastery Points (Heart of Thorns)', key: 'statistics.masteryPointsMaguuma', sprite: 'small-mastery-maguuma', gold: false, by_playtime: true, decimals: 0},
