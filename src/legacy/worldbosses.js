@@ -274,5 +274,14 @@ export default [
     times: ['21:05', '23:05', '01:05', '03:05', '05:05', '07:05', '09:05', '11:05', '13:05', '15:05', '17:05', '19:05'],
     waypoint: '[&BDkMAAA=]',
     type: 'megaboss'
+  },
+  {
+    id: 'NOT_IN_API_death-branded_shatterer',
+    name: 'Death-Branded Shatterer',
+    reward_dragonite: '15-25',
+    position: "Jahai Bluffs",
+    times: ['01:15', '03:15', '05:15', '07:15', '09:15', '11:15', '13:15', '15:15', '17:15', '19:15', '21:15', '23:15'],
+    waypoint: '[&BJMLAAA=]',
+    type: 'worldboss'
   }
 ]
