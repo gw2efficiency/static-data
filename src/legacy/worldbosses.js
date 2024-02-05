@@ -278,6 +278,7 @@ export default [
   {
     id: 'NOT_IN_API_death-branded_shatterer',
     name: 'Death-Branded Shatterer',
+    icon: 'https://render.guildwars2.com/file/F850370E4D6EB26D1EA545ADAFE935441D2D07FE/2038500.png',
     reward_dragonite: '15-25',
     position: "Jahai Bluffs",
     times: ['01:15', '03:15', '05:15', '07:15', '09:15', '11:15', '13:15', '15:15', '17:15', '19:15', '21:15', '23:15'],
