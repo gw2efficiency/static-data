@@ -194,6 +194,7 @@ export default [
   {group: 'Collectables', title: 'Emblem of Tournament Victory', key: 'statistics.emblemOfTournamentVictory', sprite: 'emblemOfTournamentVictory', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Emblem of Victory', key: 'statistics.emblemOfVictory', sprite: 'emblemOfVictory', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Mini Professor Mew', key: 'statistics.miniProfessorMew', sprite: 'miniProfessorMew', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Collectables', title: 'Stat Infusions', key: 'statistics.statInfusions', sprite: 'statInfusion', gold: false, by_playtime: true, decimals: 0},
   {group: 'Ascended Materials', title: 'Dragonite Ore', key: 'statistics.dragoniteOre', sprite: 'dragonite-ore', gold: false, by_playtime: true, decimals: 0},
   {group: 'Ascended Materials', title: 'Bloodstone Dust', key: 'statistics.bloodstoneDust', sprite: 'bloodstone-dust', gold: false, by_playtime: true, decimals: 0},
   {group: 'Ascended Materials', title: 'Empyreal Fragments', key: 'statistics.empyrealFragments', sprite: 'empyreal-fragments', gold: false, by_playtime: true, decimals: 0},
