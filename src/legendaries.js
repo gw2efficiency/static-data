@@ -85,7 +85,7 @@ export default [
   {id: 80557, name: 'Perfected Envoy Greaves', type: 'armor', skin: 7136, precursorId: 80127, precursorName: 'Refined Envoy Greaves', precursorSkin: 7109, generation: -1},
   {id: 80281, name: 'Perfected Envoy Boots', type: 'armor', skin: 7085, precursorId: 80177, precursorName: 'Refined Envoy Boots', precursorSkin: 7120, generation: -1},
   {id: 80399, name: 'Perfected Envoy Shoes', type: 'armor', skin: 7143, precursorId: 80583, precursorName: 'Refined Envoy Shoes', precursorSkin: 7150, generation: -1},
-  
+
   {id: 101516, name: 'Obsidian Light Crown', type: 'armor', skin: 12063, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
   {id: 101462, name: 'Obsidian Light Mantle', type: 'armor', skin: 12022, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
   {id: 101499, name: 'Obsidian Light Regalia', type: 'armor', skin: 12031, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
