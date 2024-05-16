@@ -60,7 +60,7 @@ export default [
   {id: 91234, name: 'Coalescence', type: 'trinket', skin: null, precursorId: 86104, precursorName: 'Hateful Sworl', precursorSkin: null, generation: -1},
   {id: 92991, name: 'Transcendence', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
   {id: 93105, name: 'Conflux', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
-  {id: 95380, name: 'Prismatic Champion\'s Regalia', type: 'amulet', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 95380, name: 'Prismatic Champion\'s Regalia', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
 
   {id: 74155, name: 'Ad Infinitum', type: 'back', skin: 6344, precursorId: 72309, precursorName: 'Unbound', precursorSkin: 6234, generation: -1},
   {id: 77474, name: 'The Ascension', type: 'back', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1},
