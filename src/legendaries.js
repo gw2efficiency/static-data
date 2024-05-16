@@ -60,6 +60,7 @@ export default [
   {id: 91234, name: 'Coalescence', type: 'trinket', skin: null, precursorId: 86104, precursorName: 'Hateful Sworl', precursorSkin: null, generation: -1},
   {id: 92991, name: 'Transcendence', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
   {id: 93105, name: 'Conflux', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 95380, name: 'Prismatic Champion\'s Regalia', type: 'amulet', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
 
   {id: 74155, name: 'Ad Infinitum', type: 'back', skin: 6344, precursorId: 72309, precursorName: 'Unbound', precursorSkin: 6234, generation: -1},
   {id: 77474, name: 'The Ascension', type: 'back', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1},
@@ -84,6 +85,25 @@ export default [
   {id: 80557, name: 'Perfected Envoy Greaves', type: 'armor', skin: 7136, precursorId: 80127, precursorName: 'Refined Envoy Greaves', precursorSkin: 7109, generation: -1},
   {id: 80281, name: 'Perfected Envoy Boots', type: 'armor', skin: 7085, precursorId: 80177, precursorName: 'Refined Envoy Boots', precursorSkin: 7120, generation: -1},
   {id: 80399, name: 'Perfected Envoy Shoes', type: 'armor', skin: 7143, precursorId: 80583, precursorName: 'Refined Envoy Shoes', precursorSkin: 7150, generation: -1},
+  
+  {id: 101516, name: 'Obsidian Light Crown', type: 'armor', skin: 12063, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101462, name: 'Obsidian Light Mantle', type: 'armor', skin: 12022, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101499, name: 'Obsidian Light Regalia', type: 'armor', skin: 12031, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101536, name: 'Obsidian Light Gloves', type: 'armor', skin: 12056, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101501, name: 'Obsidian Light Pants', type: 'armor', skin: 12067, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101535, name: 'Obsidian Light Shoes', type: 'armor', skin: 12098, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101614, name: 'Obsidian Medium Mask', type: 'armor', skin: 12068, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101645, name: 'Obsidian Medium Shoulders', type: 'armor', skin: 12082, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101556, name: 'Obsidian Medium Jacket', type: 'armor', skin: 12086, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101570, name: 'Obsidian Medium Gloves', type: 'armor', skin: 12093, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101579, name: 'Obsidian Medium Leggings', type: 'armor', skin: 12078, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101602, name: 'Obsidian Medium Boots', type: 'armor', skin: 12071, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101544, name: 'Obsidian Heavy Helmet', type: 'armor', skin: 12030, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101551, name: 'Obsidian Heavy Pauldrons', type: 'armor', skin: 12064, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101521, name: 'Obsidian Heavy Breastplate', type: 'armor', skin: 12060, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101609, name: 'Obsidian Heavy Gauntlets', type: 'armor', skin: 12090, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101568, name: 'Obsidian Heavy Cuisses', type: 'armor', skin: 12049, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
+  {id: 101460, name: 'Obsidian Heavy Greaves', type: 'armor', skin: 12048, precursorId: null, precursorName: null, precursorSkin: null, generation: -1},
 
   // WvW Legendary Armor (1)
   {id: 82925, name: 'Mistforged Triumphant Hero\'s Masque', type: 'armor', skin: 999999, precursorId: 81487, precursorName: 'Mistforged Triumphant Hero\'s Masque', precursorSkin: 7260, generation: -1},
@@ -154,5 +174,14 @@ export default [
   {id: 83676, name: 'Glorious Hero\'s Wristplates', type: 'armor', skin: 999999, precursorId: 67121, precursorName: 'Glorious Hero\'s Wristplates', precursorSkin: 5614, generation: -1},
   {id: 84341, name: 'Glorious Hero\'s Leggings', type: 'armor', skin: 999999, precursorId: 67125, precursorName: 'Glorious Hero\'s Leggings', precursorSkin: 5610, generation: -1},
   {id: 83240, name: 'Glorious Hero\'s Legguards', type: 'armor', skin: 999999, precursorId: 67119, precursorName: 'Glorious Hero\'s Legguards', precursorSkin: 5616, generation: -1},
-  {id: 82272, name: 'Glorious Hero\'s Shinplates', type: 'armor', skin: 999999, precursorId: 67123, precursorName: 'Glorious Hero\'s Shinplates', precursorSkin: 5612, generation: -1}
+  {id: 82272, name: 'Glorious Hero\'s Shinplates', type: 'armor', skin: 999999, precursorId: 67123, precursorName: 'Glorious Hero\'s Shinplates', precursorSkin: 5612, generation: -1},
+  {id: 82423, name: 'Glorious Hero\'s Crown', type: 'armor', skin: 999999, precursorId: 67126, precursorName: 'Glorious Hero\'s Crown', precursorSkin: 5609, generation: -1},
+  {id: 84461, name: 'Glorious Hero\'s Armguards', type: 'armor', skin: 999999, precursorId: 67127, precursorName: 'Glorious Hero\'s Armguards', precursorSkin: 5608, generation: -1},
+  {id: 84427, name: 'Glorious Hero\'s Footgear', type: 'armor', skin: 999999, precursorId: 67130, precursorName: 'Glorious Hero\'s Footgear', precursorSkin: 5606, generation: -1},
+  {id: 82698, name: 'Glorious Hero\'s Plate Helm', type: 'armor', skin: 999999, precursorId: 67153, precursorName: 'Glorious Hero\'s Plate Helm', precursorSkin: 5603, generation: -1},
+  {id: 84561, name: 'Glorious Hero\'s Pauldrons', type: 'armor', skin: 999999, precursorId: 67149, precursorName: 'Glorious Hero\'s Pauldrons', precursorSkin: 5605, generation: -1},
+  {id: 82334, name: 'Glorious Hero\'s Breastplate', type: 'armor', skin: 999999, precursorId: 67133, precursorName: 'Glorious Hero\'s Breastplate', precursorSkin: 5599, generation: -1},
+  {id: 82410, name: 'Glorious Hero\'s Gauntlets', type: 'armor', skin: 999999, precursorId: 67132, precursorName: 'Glorious Hero\'s Gauntlets', precursorSkin: 5600, generation: -1},
+  {id: 84748, name: 'Glorious Hero\'s Legplates', type: 'armor', skin: 999999, precursorId: 67154, precursorName: 'Glorious Hero\'s Legplates', precursorSkin: 5604, generation: -1},
+  {id: 83957, name: 'Glorious Hero\'s Wargreaves', type: 'armor', skin: 999999, precursorId: 67134, precursorName: 'Glorious Hero\'s Wargreaves', precursorSkin: 5601, generation: -1}
 ]
