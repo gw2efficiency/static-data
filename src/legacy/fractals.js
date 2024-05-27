@@ -98,5 +98,5 @@ export default [
   {level: 97, name: 'Shattered Observatory', ar: 145, relics: 19},
   {level: 98, name: 'Sunqua Peak', ar: 147, relics: 19},
   {level: 99, name: 'Silent Surf', ar: 148, relics: 19},
-  {level: 100, name: 'Lonely Tower ', ar: 150, relics: 19}
+  {level: 100, name: 'Lonely Tower', ar: 150, relics: 19}
 ]
