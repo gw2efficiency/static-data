@@ -1,5 +1,5 @@
 export default [
-  //PvE Gen1 Weapons
+  // PvE Gen1 Weapons
   {id: 30698, name: 'The Bifrost', type: 'weapon', skin: 4683, precursorId: 29180, precursorName: 'The Legend', precursorSkin: 6231, generation: 1, source: 'PvE'},
   {id: 30699, name: 'Bolt', type: 'weapon', skin: 4684, precursorId: 29181, precursorName: 'Zap', precursorSkin: 6286, generation: 1, source: 'PvE'},
   {id: 30686, name: 'The Dreamer', type: 'weapon', skin: 4669, precursorId: 29178, precursorName: 'The Lover', precursorSkin: 6427, generation: 1, source: 'PvE'},
@@ -22,7 +22,7 @@ export default [
   {id: 30704, name: 'Twilight', type: 'weapon', skin: 4680, precursorId: 29185, precursorName: 'Dusk', precursorSkin: 6424, generation: 1, source: 'PvE'},
   {id: 30689, name: 'Eternity', type: 'weapon', skin: 4678, generation: 1, source: 'PvE'},
 
-  //PvE Gen2 Weapons
+  // PvE Gen2 Weapons
   {id: 76158, name: 'Astralaria', type: 'weapon', skin: 6506, precursorId: 71426, precursorName: 'The Mechanism', precursorSkin: 6331, generation: 2, source: 'PvE'},
   {id: 78556, name: 'Chuka and Champawat', type: 'weapon', skin: 6717, precursorId: 78425, precursorName: 'Tigris', precursorSkin: 6712, generation: 2, source: 'PvE'},
   {id: 79562, name: 'Eureka', type: 'weapon', skin: 6966, precursorId: 79570, precursorName: 'Endeavor', precursorSkin: 6958, generation: 2, source: 'PvE'},
@@ -40,7 +40,7 @@ export default [
   {id: 89854, name: 'Pharus', type: 'weapon', skin: 8576, precursorId: 89886, precursorName: 'Spero', precursorSkin: 8600, generation: 2, source: 'PvE'},
   {id: 90551, name: 'Exordium', type: 'weapon', skin: 8748, precursorId: 90883, precursorName: 'Exitare', precursorSkin: 8692, generation: 2, source: 'PvE'},
 
-  //PvE Gen3 Weapons
+  // PvE Gen3 Weapons
   {id: 96356, name: "Aurene's Bite", type: 'weapon', skin: 10289, precursorId: 96357, precursorName: "Dragon's Bite", precursorSkin: 10677, generation: 3, source: 'PvE'},
   {id: 95675, name: "Aurene's Fang", type: 'weapon', skin: 10702, precursorId: 95994, precursorName: "Dragon's Fang", precursorSkin: 10586, generation: 3, source: 'PvE'},
   {id: 95684, name: "Aurene's Weight", type: 'weapon', skin: 10572, precursorId: 95920, precursorName: "Dragon's Weight", precursorSkin: 10604, generation: 3, source: 'PvE'},
@@ -57,26 +57,26 @@ export default [
   {id: 96028, name: "Aurene's Scale", type: 'weapon', skin: 10652, precursorId: 97691, precursorName: "Dragon's Scale", precursorSkin: 10235, generation: 3, source: 'PvE'},
   {id: 95612, name: "Aurene's Tail", type: 'weapon', skin: 10322, precursorId: 96827, precursorName: "Dragon's Tail", precursorSkin: 10435, generation: 3, source: 'PvE'},
   {id: 97783, name: "Aurene's Voice", type: 'weapon', skin: 10479, precursorId: 97513, precursorName: "Dragon's Voice", precursorSkin: 10254, generation: 3, source: 'PvE'},
-  
-  //PvE Trinket
+
+  // PvE Trinket
   {id: 81908, name: 'Aurora', type: 'trinket', skin: null, precursorId: 81729, precursorName: 'Spark of Sentience', precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 91048, name: 'Vision', type: 'trinket', skin: null, precursorId: 91035, precursorName: 'Glimpse', precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 91234, name: 'Coalescence', type: 'trinket', skin: null, precursorId: 86104, precursorName: 'Hateful Sworl', precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 95380, name: 'Prismatic Champion\'s Regalia', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
-  
-  //PvP Trinket
+
+  // PvP Trinket
   {id: 92991, name: 'Transcendence', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvP'},
-  
-  //WvW Trinket
+
+  // WvW Trinket
   {id: 93105, name: 'Conflux', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'WvW'},
 
-  //PvE Back Item
+  // PvE Back Item
   {id: 74155, name: 'Ad Infinitum', type: 'back', skin: 6344, precursorId: 72309, precursorName: 'Unbound', precursorSkin: 6234, generation: -1, source: 'PvE'},
-  
-  //PvP Back Item
+
+  // PvP Back Item
   {id: 77474, name: 'The Ascension', type: 'back', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1, source: 'PvP'},
-  
-  //WvW Back Item
+
+  // WvW Back Item
   {id: 81462, name: 'Warbringer', type: 'back', skin: 7272, precursorId: 81467, precursorName: 'Warcry', precursorSkin: 7248, generation: -1, source: 'WvW'},
 
   // PvE Legendary Armor(Raid)
