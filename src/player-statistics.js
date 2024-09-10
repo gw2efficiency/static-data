@@ -183,7 +183,7 @@ export default [
   {group: 'Collectables', title: 'Inner Nayos: Hero\'s Choice Chest', key: 'statistics.innerNayosEndHerosChoice', sprite: 'innerNayosHerosChoice', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Convergence: Hero\'s Choice Chest', key: 'statistics.convergenceHerosChoice', sprite: 'convergenceHerosChoice', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Citadel of Zakiros: Hero\'s Choice Chest', key: 'statistics.citadelOfZakirosHerosChoice', sprite: 'innerNayosHerosChoice', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Collectables', title: 'Janthir Wilds: Hero\'s Choice Chest', key: 'statistics.janthirWildsHerosChoice', sprite: 'janthirWildsHerosChoice', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Collectables', title: 'Janthir Syntri: Hero\'s Choice Chest', key: 'statistics.janthirSyntriHerosChoice', sprite: 'janthirWildsHerosChoice', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Gifts of Exploration', key: 'statistics.giftsOfExploration', sprite: 'gifts-of-exploration', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Gifts of Battle', key: 'statistics.giftsOfBattle', sprite: 'gifts-of-battle', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Tomes of Knowledge', key: 'statistics.tomesOfKnowledge', sprite: 'tome-of-knowledge', gold: false, by_playtime: true, decimals: 0},
