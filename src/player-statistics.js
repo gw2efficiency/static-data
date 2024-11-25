@@ -89,6 +89,7 @@ export default [
   {group: 'Strike Missions', title: 'Green Prophet Shards', key: 'statistics._greenProphetShard', sprite: 'green-prophet-shard', gold: false, by_playtime: true, decimals: 0},
   {group: 'Raids', title: 'Legendary Insights', key: 'statistics.raidTokenCount', sprite: 'legendary-insight', gold: false, by_playtime: true, decimals: 0},
   {group: 'Raids', title: 'Magnetite Shards', key: 'statistics.magnetiteShards', sprite: 'magnetite-shard', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Raids', title: 'Gaeting Crystals', key: 'statistics.gaetingCrystals', sprite: 'gaeting-crystals-new', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Finished Achievements', key: 'statistics.achievementCount', sprite: 'account-achievements', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Skins (Total)', key: 'statistics.skinCount', sprite: 'account-wardrobe', gold: false, by_playtime: true, decimals: 0},
   {group: 'Progression', title: 'Unlocked Miniatures', key: 'statistics.miniCount', sprite: 'account-miniatures', gold: false, by_playtime: true, decimals: 0},
