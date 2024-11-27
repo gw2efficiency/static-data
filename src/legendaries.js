@@ -58,6 +58,9 @@ export default [
   {id: 95612, name: "Aurene's Tail", type: 'weapon', skin: 10322, precursorId: 96827, precursorName: "Dragon's Tail", precursorSkin: 10435, generation: 3, source: 'PvE'},
   {id: 97783, name: "Aurene's Voice", type: 'weapon', skin: 10479, precursorId: 97513, precursorName: "Dragon's Voice", precursorSkin: 10254, generation: 3, source: 'PvE'},
 
+  // PvE Janthir Weapons
+  {id: 103815, name: 'Klobjarne Geirr', type: 'weapon', skin: 12703, precursorId: 103973, precursorName: 'Nyr Hrammr', precursorSkin: 12732, generation: -1, source: 'PvE'},
+
   // PvE Trinket
   {id: 81908, name: 'Aurora', type: 'trinket', skin: null, precursorId: 81729, precursorName: 'Spark of Sentience', precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 91048, name: 'Vision', type: 'trinket', skin: null, precursorId: 91035, precursorName: 'Glimpse', precursorSkin: null, generation: -1, source: 'PvE'},
