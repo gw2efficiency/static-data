@@ -35,5 +35,11 @@ export default [
   {id: 'gate', raid: 'The Key of Ahdashim', wing: 'The Key of Ahdashim', name: 'Gate', type: 'Checkpoint'},
   {id: 'adina', raid: 'The Key of Ahdashim', wing: 'The Key of Ahdashim', name: 'Cardinal Adina', type: 'Boss'},
   {id: 'sabir', raid: 'The Key of Ahdashim', wing: 'The Key of Ahdashim', name: 'Cardinal Sabir', type: 'Boss'},
-  {id: 'qadim_the_peerless', raid: 'The Key of Ahdashim', wing: 'The Key of Ahdashim', name: 'Qadim the Peerless', type: 'Boss'}
+  {id: 'qadim_the_peerless', raid: 'The Key of Ahdashim', wing: 'The Key of Ahdashim', name: 'Qadim the Peerless', type: 'Boss'},
+
+   // Mount Balrior
+  {id: 'camp', raid: 'Mount Balrior', wing: 'Mount Balrior', name: 'Camp', type: 'Checkpoint'},
+  {id: 'greer', raid: 'Mount Balrior', wing: 'Mount Balrior', name: 'Greer, the Blightbringer', type: 'Boss'},
+  {id: 'decima', raid: 'Mount Balrior', wing: 'Mount Balrior', name: 'Decima, the Stormsinger', type: 'Boss'},
+  {id: 'ura', raid: 'Mount Balrior', wing: 'Mount Balrior', name: 'Ura, the Steamshrieker', type: 'Boss'}
 ]
