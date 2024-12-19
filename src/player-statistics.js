@@ -164,6 +164,7 @@ export default [
   {group: 'Collectables', title: 'Suffused Obsidian Armors', key: 'statistics.suffusedObsidianArmorSkins', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Backpieces)', key: 'statistics.legendaryItemsBack', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Legendary Items (Trinkets)', key: 'statistics.legendaryItemsTrinket', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Collectables', title: 'Legendary Items (Upgrades)', key: 'statistics.legendaryItemsUpgradeComponent', sprite: 'crafting-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Broken Spoons', key: 'statistics.brokenSpoons', sprite: 'broken-spoon', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Champion Bags', key: 'statistics.championBags', sprite: 'champion-bag', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Triple Trouble Golden Chests', key: 'statistics.tripleTroubleChests', sprite: 'tt-chest', gold: false, by_playtime: true, decimals: 0},
