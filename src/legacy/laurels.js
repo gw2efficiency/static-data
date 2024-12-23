@@ -79,11 +79,13 @@ export default [
         }
       },
       // WvW Supplies
-      {id: 21161, quantity: 4, laurels: 2},
-      {id: 21156, quantity: 4, laurels: 2},
-      {id: 21157, quantity: 3, laurels: 2},
-      {id: 21158, quantity: 2, laurels: 2},
-      {id: 21160, quantity: 1, laurels: 2}
+      {id: 39715, quantity: 5, laurels: 1},
+      {id: 42003, quantity: 5, laurels: 1},
+      {id: 42004, quantity: 5, laurels: 1},
+      {id: 74677, quantity: 5, laurels: 1},
+      {id: 76483, quantity: 5, laurels: 1},
+      {id: 21259, quantity: 5, laurels: 1},
+      {id: 39717, quantity: 5, laurels: 1}
     ]
   },
   {
