@@ -284,5 +284,32 @@ export default [
     times: ['01:15', '03:15', '05:15', '07:15', '09:15', '11:15', '13:15', '15:15', '17:15', '19:15', '21:15', '23:15'],
     waypoint: '[&BJMLAAA=]',
     type: 'worldboss'
-  }
+  },
+  {
+    id: 'NOT_IN_API_convergences',
+    name: 'Convergences',
+    reward_dragonite: '0',
+    position: "The Wizard's Tower",
+    times: ['00:30', '03:30', '06:30', '9:30', '12:30', '15:30', '18:30', '21:30'],
+    waypoint: '[&BB8OAAA=]',
+    type: 'worldboss',
+  },
+  {
+    id: 'NOT_IN_API_the_twisted_marionette',
+    name: 'The Twisted Marionette',
+    reward_dragonite: '0',
+    position: 'Eye of the North',
+    times: ['11:00', '13:00', '15:00', '17:00', '19:00', '21:00', '23:00', '01:00', '03:00', '05:00', '07:00', '09:00'],
+    waypoint: '[&BAkMAAA=]',
+    type: 'worldboss',
+  },
+  {
+    id: 'NOT_IN_API_convergence_mount_balrior',
+    name: 'Convergence: Mount Balrior',
+    reward_dragonite: '0',
+    position: 'Lowland Shore',
+    times: ['23:00', '02:00', '05:00', '08:00', '11:00', '14:00', '17:00', '20:00'],
+    waypoint: '[&BK4OAAA=]',
+    type: 'worldboss',
+  },
 ]
