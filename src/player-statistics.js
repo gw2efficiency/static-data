@@ -237,6 +237,7 @@ export default [
   {group: 'World vs. World', title: 'Defended Stonemist Castle', key: 'statistics.wvwDefendedCastles', sprite: 'wvw-defense', gold: false, by_playtime: true, decimals: 0},
   {group: 'World vs. World', title: 'Potion of WvW Rewards', key: 'statistics.potionOfWvwRewards', sprite: 'wvw-potion', gold: false, by_playtime: true, decimals: 0},
   {group: 'World vs. World', title: 'Skirmish Chests', key: 'statistics.skirmishChests', sprite: 'skirmish-chest', gold: false, by_playtime: true, decimals: 0},
+  {group: 'World vs. World', title: 'Infinite Blueprints', key: 'statistics.infiniteWvwBlueprints', sprite: 'infinite-siege-tool', gold: false, by_playtime: true, decimals: 0},
   {group: 'Player vs. Player', title: 'PvP Rank', key: 'statistics.pvpRank', sprite: 'pvp-rank', gold: false, by_playtime: true, decimals: 0},
   {group: 'Player vs. Player', title: 'Current PvP League Rating', key: 'statistics.pvpLeagueRating', sprite: 'pvp-league-rating', gold: false, by_playtime: true, decimals: 0},
   {group: 'Player vs. Player', title: 'Total PvP Games', key: 'statistics.pvpGameCount', sprite: 'account-pvp', gold: false, by_playtime: true, decimals: 0},
