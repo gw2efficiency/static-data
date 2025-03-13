@@ -3,12 +3,13 @@ export default [
     name: 'Siege Master',
     items: [
       // Siege weapons
-      {id: 74677, quantity: 1, badges: 40},
-      {id: 39715, quantity: 1, badges: 25},
-      {id: 42003, quantity: 1, badges: 25},
-      {id: 42004, quantity: 1, badges: 50},
-      {id: 39717, quantity: 1, badges: 25},
-      {id: 21259, quantity: 1, badges: 150}
+      {id: 74677, quantity: 1, badges: 20},
+      {id: 39715, quantity: 1, badges: 20},
+      {id: 42003, quantity: 1, badges: 20},
+      {id: 42004, quantity: 1, badges: 20},
+      {id: 39717, quantity: 1, badges: 20},
+      {id: 21259, quantity: 1, badges: 20},
+      {id: 76483, quantity: 1, badges: 20}
     ]
   },
   {
@@ -20,12 +21,13 @@ export default [
     name: 'Heroics Notary',
     heroicsOnly: true,
     items: [
-      {id: 74677, quantity: 1, proofOfHeroics: 15},
-      {id: 39715, quantity: 1, proofOfHeroics: 10},
-      {id: 42003, quantity: 1, proofOfHeroics: 10},
-      {id: 42004, quantity: 1, proofOfHeroics: 20},
-      {id: 39717, quantity: 1, proofOfHeroics: 10},
-      {id: 21259, quantity: 1, proofOfHeroics: 50}
+      {id: 74677, quantity: 1, proofOfHeroics: 6},
+      {id: 39715, quantity: 1, proofOfHeroics: 6},
+      {id: 42003, quantity: 1, proofOfHeroics: 6},
+      {id: 42004, quantity: 1, proofOfHeroics: 6},
+      {id: 39717, quantity: 1, proofOfHeroics: 6},
+      {id: 21259, quantity: 1, proofOfHeroics: 6},
+      {id: 76483, quantity: 1, proofOfHeroics: 6}
     ]
   }
 ]

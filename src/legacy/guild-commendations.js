@@ -6,10 +6,13 @@ export default [
       {id: 41556, quantity: 1, gold: 8000, commendations: 10},
       {id: 41560, quantity: 1, gold: 8000, commendations: 10},
       // WvW Stuff
-      {id: 39717, quantity: 1, gold: 1200, commendations: 3},
-      {id: 42004, quantity: 2, gold: 1200, commendations: 3},
-      {id: 42003, quantity: 3, gold: 1200, commendations: 3},
-      {id: 39715, quantity: 4, gold: 1200, commendations: 3}
+      {id: 74677, quantity: 3, commendations: 1},
+      {id: 39715, quantity: 3, commendations: 1},
+      {id: 42003, quantity: 3, commendations: 1},
+      {id: 42004, quantity: 3, commendations: 1},
+      {id: 39717, quantity: 3, commendations: 1},
+      {id: 21259, quantity: 3, commendations: 1},
+      {id: 76483, quantity: 3, commendations: 1}
     ]
   },
   {
