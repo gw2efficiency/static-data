@@ -292,7 +292,7 @@ export default [
     position: "The Wizard's Tower",
     times: ['00:30', '03:30', '06:30', '9:30', '12:30', '15:30', '18:30', '21:30'],
     waypoint: '[&BB8OAAA=]',
-    type: 'worldboss',
+    type: 'worldboss'
   },
   {
     id: 'NOT_IN_API_the_twisted_marionette',
@@ -301,7 +301,7 @@ export default [
     position: 'Eye of the North',
     times: ['11:00', '13:00', '15:00', '17:00', '19:00', '21:00', '23:00', '01:00', '03:00', '05:00', '07:00', '09:00'],
     waypoint: '[&BAkMAAA=]',
-    type: 'worldboss',
+    type: 'worldboss'
   },
   {
     id: 'NOT_IN_API_convergence_mount_balrior',
@@ -310,6 +310,6 @@ export default [
     position: 'Lowland Shore',
     times: ['23:00', '02:00', '05:00', '08:00', '11:00', '14:00', '17:00', '20:00'],
     waypoint: '[&BK4OAAA=]',
-    type: 'worldboss',
-  },
+    type: 'worldboss'
+  }
 ]
