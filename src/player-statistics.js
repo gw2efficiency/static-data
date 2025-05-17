@@ -1,4 +1,5 @@
 export default [
+  {group: 'Wealth', title: 'Account Value', key: 'values.summary.value', sprite: 'account-overview', gold: true, by_playtime: true, decimals: 0},
   {group: 'Wealth', title: 'Account Value (excl. Gemstore)', key: 'values.summary.valueMinusGemItems', sprite: 'account-overview', gold: true, by_playtime: true, decimals: 0},
   {group: 'Wealth', title: 'Liquid Gold', key: 'values.summary.liquidBuy', sprite: 'gold', gold: true, by_playtime: true, decimals: 0},
   {group: 'Wealth', title: 'Gold', key: 'statistics.gold', sprite: 'gold', gold: true, by_playtime: true, decimals: 0},
