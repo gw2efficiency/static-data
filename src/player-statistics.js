@@ -193,6 +193,7 @@ export default [
   {group: 'Collectables', title: 'Citadel of Zakiros: Commander\'s Choice Chest', key: 'statistics.citadelOfZakirosHerosChoice', sprite: 'innerNayosHerosChoice', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Janthir Syntri: Commander\'s Choice Chest', key: 'statistics.janthirSyntriHerosChoice', sprite: 'janthirWildsHerosChoice', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Convergence: Mount Balrior Commander\'s Choice Chest', key: 'statistics.convergenceMountBalriorWayfindersChoice', sprite: 'convergenceMountBalriorWayfindersChoice', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Collectables', title: 'Bava Nisos: Commander\'s Choice Chest', key: 'statistics.bavaNisosCommandersChoice', sprite: 'janthirWildsHerosChoice', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Commander\'s Choice Chests', key: 'statistics.commandersChoiceChestsCount', sprite: 'commandersChoiceChestsCount', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Gifts of Exploration', key: 'statistics.giftsOfExploration', sprite: 'gifts-of-exploration', gold: false, by_playtime: true, decimals: 0},
   {group: 'Collectables', title: 'Gifts of Battle', key: 'statistics.giftsOfBattle', sprite: 'gifts-of-battle', gold: false, by_playtime: true, decimals: 0},
