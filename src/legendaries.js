@@ -76,6 +76,10 @@ export default [
   // PvE Back Item
   {id: 74155, name: 'Ad Infinitum', type: 'back', skin: 6344, precursorId: 72309, precursorName: 'Unbound', precursorSkin: 6234, generation: -1, source: 'PvE'},
 
+  // PvE Janthir Back Item
+
+  {id: 104857, name: 'Orrax Manifested', type: 'back', skin: 13090, precursorId: 104690, precursorName: 'Orrax Contained', precursorSkin: 13095, generation: -1, source: 'PvE'},
+
   // PvP Back Item
   {id: 77474, name: 'The Ascension', type: 'back', skin: 6561, precursorId: 77536, precursorName: 'Wings of Ascension', precursorSkin: 6556, generation: -1, source: 'PvP'},
 
