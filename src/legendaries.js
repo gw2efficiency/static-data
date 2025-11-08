@@ -61,6 +61,10 @@ export default [
   // PvE Janthir Weapons
   {id: 103815, name: 'Klobjarne Geirr', type: 'weapon', skin: 12703, precursorId: 103973, precursorName: 'Nyr Hrammr', precursorSkin: 12732, generation: -1, source: 'PvE'},
 
+  // PvE Visions of Eternity Weapons
+  {id: 106273, name: 'Ancora Bellum', type: 'weapon', skin: 13306, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
+  {id: 105653, name: 'Ancora Pax', type: 'weapon', skin: 13334, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
+
   // PvE Trinket
   {id: 81908, name: 'Aurora', type: 'trinket', skin: null, precursorId: 81729, precursorName: 'Spark of Sentience', precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 91048, name: 'Vision', type: 'trinket', skin: null, precursorId: 91035, precursorName: 'Glimpse', precursorSkin: null, generation: -1, source: 'PvE'},
@@ -125,6 +129,9 @@ export default [
   {id: 101609, name: 'Obsidian Heavy Gauntlets', type: 'armor', skin: 12090, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 101568, name: 'Obsidian Heavy Cuisses', type: 'armor', skin: 12049, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 101460, name: 'Obsidian Heavy Greaves', type: 'armor', skin: 12048, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
+  {id: 106178, name: 'Selachimorpha', type: 'armor', skin: 13636, precursorId: 105738, precursorName: 'Agaleus', precursorSkin: 13503, generation: -1, source: 'PvE'},
+  {id: 106658, name: 'Selachimorpha', type: 'armor', skin: 13636, precursorId: 106400, precursorName: 'Agaleus', precursorSkin: 13371, generation: -1, source: 'PvE'},
+  {id: 105921, name: 'Selachimorpha', type: 'armor', skin: 13636, precursorId: 105438, precursorName: 'Agaleus', precursorSkin: 13351, generation: -1, source: 'PvE'},
 
   // WvW Legendary Armor (1)
   {id: 82925, name: 'Mistforged Triumphant Hero\'s Masque', type: 'armor', skin: 999999, precursorId: 81487, precursorName: 'Mistforged Triumphant Hero\'s Masque', precursorSkin: 7260, generation: -1, source: 'WvW'},
