@@ -324,5 +324,6 @@ export default [
   {group: 'Pointless Statistics', title: 'Crumbling Bone', key: 'statistics.crumblingBone', sprite: 'crumbling-bone', gold: false, by_playtime: true, decimals: 0},
   {group: 'Pointless Statistics', title: 'Mangled Talon', key: 'statistics.mangledTalon', sprite: 'mangled-talon', gold: false, by_playtime: true, decimals: 0},
   {group: 'Pointless Statistics', title: 'Clump of Resin', key: 'statistics.clumpOfResin', sprite: 'clump-of-resin', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Pointless Statistics', title: 'Marsh Frog', key: 'statistics.marshFrog', sprite: 'marshFrog', gold: false, by_playtime: true, decimals: 0}
+  {group: 'Pointless Statistics', title: 'Marsh Frog', key: 'statistics.marshFrog', sprite: 'marshFrog', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Pointless Statistics', title: 'Milling Stones', key: 'statistics.millingStones', sprite: 'milling-stones', gold: false, by_playtime: true, decimals: 0}
 ]
