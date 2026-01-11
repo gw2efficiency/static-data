@@ -291,7 +291,7 @@ export default [
   {group: 'Account', title: 'Mastery Points (End of Dragons)', key: 'statistics.masteryPointsEndOfDragons', sprite: 'small-mastery-eod', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Mastery Points (Secrets of the Obscure)', key: 'statistics.masteryPointsSecretsOfTheObscure', sprite: 'small-mastery-soto', gold: false, by_playtime: true, decimals: 0},
   {group: 'Account', title: 'Mastery Points (Janthir Wilds)', key: 'statistics.masteryPointsJanthirWilds', sprite: 'small-mastery-jw', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Account', title: 'Mastery Points (Visions of Eternity)', key: 'statistics.masteryPoints.VisionsOfEternity', sprite: 'small-mastery-voe', gold: false, by_playtime: true, decimals: 0},
+  {group: 'Account', title: 'Mastery Points (Visions of Eternity)', key: 'statistics.masteryPointsVisionsOfEternity', sprite: 'small-mastery-voe', gold: false, by_playtime: true, decimals: 0},
   {group: 'Fishing', title: 'Any Fish', key: 'statistics.fishItems', sprite: 'fish-items-junk', gold: false, by_playtime: true, decimals: 0},
   {group: 'Fishing', title: 'Legendary Fish', key: 'statistics.fishItemsLegendary', sprite: 'fish-items-legendary', gold: false, by_playtime: true, decimals: 0},
   {group: 'Fishing', title: 'Ascended Fish', key: 'statistics.fishItemsAscended', sprite: 'fish-items-ascended', gold: false, by_playtime: true, decimals: 0},
