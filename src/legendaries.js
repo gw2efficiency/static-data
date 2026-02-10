@@ -70,6 +70,7 @@ export default [
   {id: 91048, name: 'Vision', type: 'trinket', skin: null, precursorId: 91035, precursorName: 'Glimpse', precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 91234, name: 'Coalescence', type: 'trinket', skin: null, precursorId: 86104, precursorName: 'Hateful Sworl', precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 95380, name: 'Prismatic Champion\'s Regalia', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
+  {id: 107022, name: 'Endless Summer', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
 
   // PvP Trinket
   {id: 92991, name: 'Transcendence', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvP'},
