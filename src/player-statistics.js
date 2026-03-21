@@ -88,8 +88,6 @@ export default [
   {group: 'Fractals of the Mists', title: 'Fractal Skins', key: 'statistics.fractalSkins', sprite: 'fractal-skin', gold: false, by_playtime: true, decimals: 0},
   {group: 'Fractals of the Mists', title: 'Fractal Tonics', key: 'statistics.fractalTonics', sprite: 'endless-fractal-tonic', gold: false, by_playtime: true, decimals: 0},
   {group: 'Fractals of the Mists', title: 'Unstable Fractal Essence', key: 'statistics.unstableCosmicEssences', sprite: 'unstable-fractal-essence', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Strike Missions', title: 'Blue Prophet Shards', key: 'statistics._blueProphetShard', sprite: 'blue-prophet-shard', gold: false, by_playtime: true, decimals: 0},
-  {group: 'Strike Missions', title: 'Green Prophet Shards', key: 'statistics._greenProphetShard', sprite: 'green-prophet-shard', gold: false, by_playtime: true, decimals: 0},
   {group: 'Raids', title: 'Legendary Insights', key: 'statistics.raidTokenCount', sprite: 'legendary-insight', gold: false, by_playtime: true, decimals: 0},
   {group: 'Raids', title: 'Magnetite Shards', key: 'statistics.magnetiteShards', sprite: 'magnetite-shard', gold: false, by_playtime: true, decimals: 0},
   {group: 'Raids', title: 'Gaeting Crystals', key: 'statistics.gaetingCrystals', sprite: 'gaeting-crystals-new', gold: false, by_playtime: true, decimals: 0},
