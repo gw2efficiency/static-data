@@ -212,5 +212,9 @@ export default [
   {id: 82334, name: 'Glorious Hero\'s Breastplate', type: 'armor', skin: 999999, precursorId: 67133, precursorName: 'Glorious Hero\'s Breastplate', precursorSkin: 5599, generation: -1, source: 'PvP'},
   {id: 82410, name: 'Glorious Hero\'s Gauntlets', type: 'armor', skin: 999999, precursorId: 67132, precursorName: 'Glorious Hero\'s Gauntlets', precursorSkin: 5600, generation: -1, source: 'PvP'},
   {id: 84748, name: 'Glorious Hero\'s Legplates', type: 'armor', skin: 999999, precursorId: 67154, precursorName: 'Glorious Hero\'s Legplates', precursorSkin: 5604, generation: -1, source: 'PvP'},
-  {id: 83957, name: 'Glorious Hero\'s Wargreaves', type: 'armor', skin: 999999, precursorId: 67134, precursorName: 'Glorious Hero\'s Wargreaves', precursorSkin: 5601, generation: -1, source: 'PvP'}
+  {id: 83957, name: 'Glorious Hero\'s Wargreaves', type: 'armor', skin: 999999, precursorId: 67134, precursorName: 'Glorious Hero\'s Wargreaves', precursorSkin: 5601, generation: -1, source: 'PvP'},
+  // PvE Legendary Armor(Fractals)
+  {id: 105293, name: 'Eikasia, Mists-Grasper (medium)', type: 'armor', skin: 13222, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
+  {id: 105171, name: 'Eikasia, Mists-Grasper (heavy)', type: 'armor', skin: 13230, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
+  {id: 105317, name: 'Eikasia, Mists-Grasper (light)', type: 'armor', skin: 13224, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'}
 ]
