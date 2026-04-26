@@ -287,7 +287,8 @@ export default [
   },
   {
     id: 'NOT_IN_API_convergences',
-    name: 'Convergences',
+    name: 'Convergence: Outer Nayos',
+    icon: 'https://wiki.guildwars2.com/images/e/ec/Strike_Mission_%28overhead_icon%29.png',
     reward_dragonite: '0',
     position: "The Wizard's Tower",
     times: ['00:30', '03:30', '06:30', '9:30', '12:30', '15:30', '18:30', '21:30'],
@@ -297,6 +298,7 @@ export default [
   {
     id: 'NOT_IN_API_the_twisted_marionette',
     name: 'The Twisted Marionette',
+    icon: 'https://wiki.guildwars2.com/images/1/1e/The_Origins_of_Madness.png',
     reward_dragonite: '0',
     position: 'Eye of the North',
     times: ['11:00', '13:00', '15:00', '17:00', '19:00', '21:00', '23:00', '01:00', '03:00', '05:00', '07:00', '09:00'],
@@ -306,6 +308,7 @@ export default [
   {
     id: 'NOT_IN_API_convergence_mount_balrior',
     name: 'Convergence: Mount Balrior',
+    icon: 'https://wiki.guildwars2.com/images/e/ec/Strike_Mission_%28overhead_icon%29.png',
     reward_dragonite: '0',
     position: 'Lowland Shore',
     times: ['23:00', '02:00', '05:00', '08:00', '11:00', '14:00', '17:00', '20:00'],
