@@ -6,8 +6,7 @@
   "scripts": {
     "build": "abc build",
     "test": "abc lint",
-    "preversion": "abc build",
-    "generate-player-statistics": "node generators/player-statistics.js > src/player-statistics.js"
+    "preversion": "abc build"
   },
   "author": "queicherius@gmail.com",
   "license": "MIT",
