@@ -73,7 +73,6 @@ export default [
   {id: 107022, name: 'Endless Summer', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 109070, name: 'Stella Radians', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
 
-
   // PvP Trinket
   {id: 92991, name: 'Transcendence', type: 'trinket', skin: null, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvP'},
 
