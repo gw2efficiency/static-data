@@ -216,7 +216,7 @@ export default [
   {id: 84748, name: 'Glorious Hero\'s Legplates', type: 'armor', skin: 999999, precursorId: 67154, precursorName: 'Glorious Hero\'s Legplates', precursorSkin: 5604, generation: -1, source: 'PvP'},
   {id: 83957, name: 'Glorious Hero\'s Wargreaves', type: 'armor', skin: 999999, precursorId: 67134, precursorName: 'Glorious Hero\'s Wargreaves', precursorSkin: 5601, generation: -1, source: 'PvP'},
 
-    // PvP Legendary Armor (3)
+  // PvP Legendary Armor (3)
   {id: 89126, name: 'Mistforged Glorious Hero\'s Cap', type: 'armor', skin: 999999, precursorId: 89110, precursorName: 'Mistforged Glorious Hero\'s Cap', precursorSkin: 8484, generation: -1, source: 'PvP'},
   {id: 89158, name: 'Mistforged Glorious Hero\'s Epaulets', type: 'armor', skin: 999999, precursorId: 89138, precursorName: 'Mistforged Glorious Hero\'s Epaulets', precursorSkin: 8486, generation: -1, source: 'PvP'},
   {id: 89234, name: 'Mistforged Glorious Hero\'s Shoulderguards', type: 'armor', skin: 999999, precursorId: 89208, precursorName: 'Mistforged Glorious Hero\'s Shoulderguards', precursorSkin: 8487, generation: -1, source: 'PvP'},
