@@ -215,6 +215,27 @@ export default [
   {id: 82410, name: 'Glorious Hero\'s Gauntlets', type: 'armor', skin: 999999, precursorId: 67132, precursorName: 'Glorious Hero\'s Gauntlets', precursorSkin: 5600, generation: -1, source: 'PvP'},
   {id: 84748, name: 'Glorious Hero\'s Legplates', type: 'armor', skin: 999999, precursorId: 67154, precursorName: 'Glorious Hero\'s Legplates', precursorSkin: 5604, generation: -1, source: 'PvP'},
   {id: 83957, name: 'Glorious Hero\'s Wargreaves', type: 'armor', skin: 999999, precursorId: 67134, precursorName: 'Glorious Hero\'s Wargreaves', precursorSkin: 5601, generation: -1, source: 'PvP'},
+
+    // PvP Legendary Armor (3)
+  {id: 89126, name: 'Mistforged Glorious Hero\'s Cap', type: 'armor', skin: 999999, precursorId: 89110, precursorName: 'Mistforged Glorious Hero\'s Cap', precursorSkin: 8484, generation: -1, source: 'PvP'},
+  {id: 89158, name: 'Mistforged Glorious Hero\'s Epaulets', type: 'armor', skin: 999999, precursorId: 89138, precursorName: 'Mistforged Glorious Hero\'s Epaulets', precursorSkin: 8486, generation: -1, source: 'PvP'},
+  {id: 89234, name: 'Mistforged Glorious Hero\'s Shoulderguards', type: 'armor', skin: 999999, precursorId: 89208, precursorName: 'Mistforged Glorious Hero\'s Shoulderguards', precursorSkin: 8487, generation: -1, source: 'PvP'},
+  {id: 89174, name: 'Mistforged Glorious Hero\'s Raiment', type: 'armor', skin: 999999, precursorId: 89204, precursorName: 'Mistforged Glorious Hero\'s Raiment', precursorSkin: 8480, generation: -1, source: 'PvP'},
+  {id: 89183, name: 'Mistforged Glorious Hero\'s Brigandine', type: 'armor', skin: 999999, precursorId: 89168, precursorName: 'Mistforged Glorious Hero\'s Brigandine', precursorSkin: 8496, generation: -1, source: 'PvP'},
+  {id: 89134, name: 'Mistforged Glorious Hero\'s Wristplates', type: 'armor', skin: 999999, precursorId: 89171, precursorName: 'Mistforged Glorious Hero\'s Wristplates', precursorSkin: 8468, generation: -1, source: 'PvP'},
+  {id: 89101, name: 'Mistforged Glorious Hero\'s Leggings', type: 'armor', skin: 999999, precursorId: 89160, precursorName: 'Mistforged Glorious Hero\'s Leggings', precursorSkin: 8475, generation: -1, source: 'PvP'},
+  {id: 89094, name: 'Mistforged Glorious Hero\'s Legguards', type: 'armor', skin: 999999, precursorId: 89242, precursorName: 'Mistforged Glorious Hero\'s Legguards', precursorSkin: 8478, generation: -1, source: 'PvP'},
+  {id: 89235, name: 'Mistforged Glorious Hero\'s Shinplates', type: 'armor', skin: 999999, precursorId: 89161, precursorName: 'Mistforged Glorious Hero\'s Shinplates', precursorSkin: 8502, generation: -1, source: 'PvP'},
+  {id: 82423, name: 'Mistforged Glorious Hero\'s Crown', type: 'armor', skin: 999999, precursorId: 89190, precursorName: 'Mistforged Glorious Hero\'s Crown', precursorSkin: 8481, generation: -1, source: 'PvP'},
+  {id: 89167, name: 'Mistforged Glorious Hero\'s Armguards', type: 'armor', skin: 999999, precursorId: 89099, precursorName: 'Mistforged Glorious Hero\'s Armguards', precursorSkin: 8495, generation: -1, source: 'PvP'},
+  {id: 89245, name: 'Mistforged Glorious Hero\'s Footgear', type: 'armor', skin: 999999, precursorId: 89230, precursorName: 'Mistforged Glorious Hero\'s Footgear', precursorSkin: 8492, generation: -1, source: 'PvP'},
+  {id: 89117, name: 'Mistforged Glorious Hero\'s Plate Helm', type: 'armor', skin: 999999, precursorId: 89217, precursorName: 'Mistforged Glorious Hero\'s Plate Helm', precursorSkin: 8465, generation: -1, source: 'PvP'},
+  {id: 89209, name: 'Mistforged Glorious Hero\'s Pauldrons', type: 'armor', skin: 999999, precursorId: 89089, precursorName: 'Mistforged Glorious Hero\'s Pauldrons', precursorSkin: 8498, generation: -1, source: 'PvP'},
+  {id: 89152, name: 'Mistforged Glorious Hero\'s Breastplate', type: 'armor', skin: 999999, precursorId: 89151, precursorName: 'Mistforged Glorious Hero\'s Breastplate', precursorSkin: 8476, generation: -1, source: 'PvP'},
+  {id: 89093, name: 'Mistforged Glorious Hero\'s Gauntlets', type: 'armor', skin: 999999, precursorId: 89177, precursorName: 'Mistforged Glorious Hero\'s Gauntlets', precursorSkin: 8483, generation: -1, source: 'PvP'},
+  {id: 89266, name: 'Mistforged Glorious Hero\'s Legplates', type: 'armor', skin: 999999, precursorId: 89121, precursorName: 'Mistforged Glorious Hero\'s Legplates', precursorSkin: 8485, generation: -1, source: 'PvP'},
+  {id: 89252, name: 'Mistforged Glorious Hero\'s Wargreaves', type: 'armor', skin: 999999, precursorId: 89244, precursorName: 'Mistforged Glorious Hero\'s Wargreaves', precursorSkin: 8490, generation: -1, source: 'PvP'},
+
   // PvE Legendary Armor(Fractals)
   {id: 105293, name: 'Eikasia, Mists-Grasper (medium)', type: 'armor', skin: 13222, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
   {id: 105171, name: 'Eikasia, Mists-Grasper (heavy)', type: 'armor', skin: 13230, precursorId: null, precursorName: null, precursorSkin: null, generation: -1, source: 'PvE'},
